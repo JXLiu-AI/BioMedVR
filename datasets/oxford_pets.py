@@ -1,8 +1,9 @@
+import math
 import os
 import pickle
-import math
 
 from datasets.utils import *
+
 
 class OxfordPets(DatasetBase):
 
@@ -27,7 +28,7 @@ class OxfordPets(DatasetBase):
         num_shots = shot
         if num_shots >= 1:
             preprocessed = os.path.join(self.split_fewshot_dir, f"shot_{num_shots}-seed_{seed}.pkl")
-            
+
             if os.path.exists(preprocessed):
                 print(f"Loading preprocessed few-shot data from {preprocessed}")
                 with open(preprocessed, "rb") as file:
@@ -128,7 +129,7 @@ class OxfordPets(DatasetBase):
         test = _convert(split["test"])
 
         return train, val, test
-    
+
     @staticmethod
     def subsample_classes(*args, subsample="all"):
         """Divide classes into two groups. The first group
@@ -143,7 +144,7 @@ class OxfordPets(DatasetBase):
 
         if subsample == "all":
             return args
-        
+
         dataset = args[0]
         labels = set()
         for item in dataset:
@@ -160,7 +161,7 @@ class OxfordPets(DatasetBase):
         else:
             selected = labels[m:]  # take the second half
         relabeler = {y: y_new for y_new, y in enumerate(selected)}
-        
+
         output = []
         for dataset in args:
             dataset_new = []
@@ -168,11 +169,9 @@ class OxfordPets(DatasetBase):
                 if item.label not in selected:
                     continue
                 item_new = Datum(
-                    impath=item.impath,
-                    label=relabeler[item.label],
-                    classname=item.classname
+                    impath=item.impath, label=relabeler[item.label], classname=item.classname
                 )
                 dataset_new.append(item_new)
             output.append(dataset_new)
-        
+
         return output

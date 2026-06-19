@@ -1,8 +1,9 @@
 import os
 import pickle
-from scipy.io import loadmat
 
 from datasets.utils import *
+from scipy.io import loadmat
+
 from .oxford_pets import OxfordPets
 
 
@@ -30,7 +31,7 @@ class StanfordCars(DatasetBase):
         num_shots = shot
         if num_shots >= 1:
             preprocessed = os.path.join(self.split_fewshot_dir, f"shot_{num_shots}-seed_{seed}.pkl")
-            
+
             if os.path.exists(preprocessed):
                 print(f"Loading preprocessed few-shot data from {preprocessed}")
                 with open(preprocessed, "rb") as file:

@@ -1,11 +1,15 @@
+import json
 import os
 import pickle
-import json
+
 from datasets.utils import *
+
 from .oxford_pets import OxfordPets
+
 
 class CHMNIST(DatasetBase):
     dataset_dir = "MedicalData/CHMNIST"
+
     def __init__(self, root, shot, seed, subsample="all"):
         self.dataset_dir = os.path.join(root, self.dataset_dir)
         self.image_dir = self.dataset_dir

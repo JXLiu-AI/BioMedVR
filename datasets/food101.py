@@ -3,8 +3,9 @@ import pickle
 
 from datasets.utils import *
 
-from .oxford_pets import OxfordPets
 from .dtd import DescribableTextures as DTD
+from .oxford_pets import OxfordPets
+
 
 class Food101(DatasetBase):
 
@@ -26,7 +27,7 @@ class Food101(DatasetBase):
         num_shots = shot
         if num_shots >= 1:
             preprocessed = os.path.join(self.split_fewshot_dir, f"shot_{num_shots}-seed_{seed}.pkl")
-            
+
             if os.path.exists(preprocessed):
                 print(f"Loading preprocessed few-shot data from {preprocessed}")
                 with open(preprocessed, "rb") as file:

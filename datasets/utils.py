@@ -1,16 +1,18 @@
-import os.path
 import errno
+import json
+import os.path
 import random
 import tarfile
-import zipfile
-import gdown
 import warnings
-import json
-from torch.utils.data import Dataset as TorchDataset
-import torchvision.transforms as T
-import torch
+import zipfile
 from collections import defaultdict
+
+import gdown
+import torch
+import torchvision.transforms as T
 from PIL import Image
+from torch.utils.data import Dataset as TorchDataset
+
 
 def mkdir_if_missing(dirname):
     """Create dirname if it is missing."""
@@ -20,6 +22,8 @@ def mkdir_if_missing(dirname):
         except OSError as e:
             if e.errno != errno.EEXIST:
                 raise
+
+
 def listdir_nohidden(path, sort=False):
     """List non-hidden items in a directory.
 
@@ -31,6 +35,7 @@ def listdir_nohidden(path, sort=False):
     if sort:
         items.sort()
     return items
+
 
 def check_isfile(fpath):
     """Check if the given path is a file.
@@ -46,17 +51,20 @@ def check_isfile(fpath):
         warnings.warn('No file found at "{}"'.format(fpath))
     return isfile
 
+
 def read_json(fpath):
     """Read json file from a path."""
     with open(fpath, "r") as f:
         obj = json.load(f)
     return obj
 
+
 def write_json(obj, fpath):
     """Writes to a json file."""
     mkdir_if_missing(os.path.dirname(fpath))
     with open(fpath, "w") as f:
         json.dump(obj, f, indent=4, separators=(",", ": "))
+
 
 def read_image(path):
     """Read image from path using ``PIL.Image``.
@@ -68,17 +76,17 @@ def read_image(path):
         PIL image
     """
     if not os.path.exists(path):
-        raise IOError('No file exists at {}'.format(path))
+        raise IOError("No file exists at {}".format(path))
 
     while True:
         try:
-            img = Image.open(path).convert('RGB')
+            img = Image.open(path).convert("RGB")
             return img
         except IOError:
             print(
-                'Cannot read image from {}, '
-                'probably due to heavy IO. Will re-try'.format(path)
+                "Cannot read image from {}, " "probably due to heavy IO. Will re-try".format(path)
             )
+
 
 class Datum:
     """Data instance which defines the basic attributes.
@@ -91,7 +99,7 @@ class Datum:
     """
 
     def __init__(self, impath="", label=0, domain=0, classname=""):
-        #pdb.set_trace()
+        # pdb.set_trace()
         assert isinstance(impath, str)
         assert check_isfile(impath)
 
@@ -201,8 +209,7 @@ class DatasetBase:
         for domain in input_domains:
             if domain not in self.domains:
                 raise ValueError(
-                    "Input domain must belong to {}, "
-                    "but got [{}]".format(self.domains, domain)
+                    "Input domain must belong to {}, " "but got [{}]".format(self.domains, domain)
                 )
 
     def download_data(self, url, dst, from_gdrive=True):
@@ -236,9 +243,7 @@ class DatasetBase:
 
         print("File extracted to {}".format(os.path.dirname(dst)))
 
-    def generate_fewshot_dataset(
-        self, *data_sources, num_shots=-1, repeat=False
-    ):
+    def generate_fewshot_dataset(self, *data_sources, num_shots=-1, repeat=False):
         """Generate a few-shot dataset (typically for the training set).
 
         This function is useful when one wants to evaluate a model
@@ -310,10 +315,11 @@ class DatasetBase:
 
 
 class DatasetWrapper(TorchDataset):
-    def __init__(self, data_source, input_size, transform=None, is_train=False,
-                 return_img0=False, k_tfm=1):
+    def __init__(
+        self, data_source, input_size, transform=None, is_train=False, return_img0=False, k_tfm=1
+    ):
         self.data_source = data_source
-        self.transform = transform # accept list (tuple) as input
+        self.transform = transform  # accept list (tuple) as input
         self.is_train = is_train
         # Augmenting an image K>1 times is only allowed during training
         self.k_tfm = k_tfm if is_train else 1
@@ -321,8 +327,7 @@ class DatasetWrapper(TorchDataset):
 
         if self.k_tfm > 1 and transform is None:
             raise ValueError(
-                'Cannot augment the image {} times '
-                'because transform is None'.format(self.k_tfm)
+                "Cannot augment the image {} times " "because transform is None".format(self.k_tfm)
             )
 
         # Build transform that doesn't apply any data augmentation
@@ -342,11 +347,7 @@ class DatasetWrapper(TorchDataset):
     def __getitem__(self, idx):
         item = self.data_source[idx]
 
-        output = {
-            'label': item.label,
-            'domain': item.domain,
-            'impath': item.impath
-        }
+        output = {"label": item.label, "domain": item.domain, "impath": item.impath}
 
         img0 = read_image(item.impath)
 
@@ -354,18 +355,18 @@ class DatasetWrapper(TorchDataset):
             if isinstance(self.transform, (list, tuple)):
                 for i, tfm in enumerate(self.transform):
                     img = self._transform_image(tfm, img0)
-                    keyname = 'img'
+                    keyname = "img"
                     if (i + 1) > 1:
                         keyname += str(i + 1)
                     output[keyname] = img
             else:
                 img = self._transform_image(self.transform, img0)
-                output['img'] = img
+                output["img"] = img
 
         if self.return_img0:
-            output['img0'] = self.to_tensor(img0)
+            output["img0"] = self.to_tensor(img0)
 
-        return output['img'], output['label']
+        return output["img"], output["label"]
 
     def _transform_image(self, tfm, img0):
         img_list = []
@@ -379,6 +380,7 @@ class DatasetWrapper(TorchDataset):
 
         return img
 
+
 def build_data_loader(
     data_source=None,
     batch_size=64,
@@ -386,7 +388,7 @@ def build_data_loader(
     tfm=None,
     is_train=True,
     shuffle=False,
-    dataset_wrapper=None
+    dataset_wrapper=None,
 ):
 
     if dataset_wrapper is None:
@@ -400,9 +402,8 @@ def build_data_loader(
         # num_workers=8,
         shuffle=shuffle,
         drop_last=False,
-        pin_memory=(torch.cuda.is_available())
+        pin_memory=(torch.cuda.is_available()),
     )
     assert len(data_loader) > 0
 
     return data_loader
-

@@ -1,9 +1,11 @@
-from datasets import build_dataset, build_data_loader
-import torch
-import random
-import numpy as np
-import clip
 import json
+import random
+
+import clip
+import numpy as np
+import torch
+from datasets import build_data_loader, build_dataset
+
 
 def set_seed(seed):
     np.random.seed(seed)
@@ -12,21 +14,23 @@ def set_seed(seed):
     random.seed(seed)
     torch.backends.cudnn.deterministic = True
 
+
 def convert_models_to_fp32(model):
     for p in model.parameters():
         p.data = p.data.float()
         if p.grad:
             p.grad.data = p.grad.data.float()
 
+
 def clip_classifier(classnames, template, clip_model):
-    '''
+    """
     Text encoder for label-based classification
 
     params:
     classnames: class name of the label space
     template: text prompts
     clip_model: the pretrained CLIP
-    '''
+    """
 
     device = next(clip_model.parameters()).device
     with torch.no_grad():
@@ -34,7 +38,7 @@ def clip_classifier(classnames, template, clip_model):
 
         for classname in classnames:
             # Tokenize
-            classname = classname.replace('_', ' ')
+            classname = classname.replace("_", " ")
             texts = [t.format(classname) for t in template]
             texts = clip.tokenize(texts).to(device)
 
@@ -48,8 +52,9 @@ def clip_classifier(classnames, template, clip_model):
         clip_weights = torch.stack(clip_weights, dim=1).to(device)
     return clip_weights
 
+
 def clip_attr_classifier(classnames, clip_model, dir, num_attr):
-    '''
+    """
     Text encoder for attribute-based classification.
 
     params:
@@ -57,9 +62,9 @@ def clip_attr_classifier(classnames, clip_model, dir, num_attr):
     clip_model: the pretrained CLIP
     dir: attribute path
     num_attr: 'm' in the paper, the attribute number
-    '''
+    """
 
-    data = json.load(open(dir, 'r'))
+    data = json.load(open(dir, "r"))
     device = next(clip_model.parameters()).device
     with torch.no_grad():
         clip_weights = []
@@ -84,8 +89,9 @@ def clip_attr_classifier(classnames, clip_model, dir, num_attr):
         clip_weights = torch.stack(clip_weights, dim=1).to(device)
     return clip_weights
 
+
 def getLogits(num_attr, exp, x_emb, t_emb, k=3):
-    '''
+    """
     Return the similarity logits output
 
     params:
@@ -93,7 +99,7 @@ def getLogits(num_attr, exp, x_emb, t_emb, k=3):
     exp: CLIP logit_scale
     x_emb: image embeddings
     t_emb: text embeddings
-    '''
+    """
     fea_dim = t_emb.shape[-1]
     t_emb = t_emb.permute(2, 1, 0).reshape(fea_dim, -1)
     res = exp * x_emb @ t_emb
@@ -103,8 +109,17 @@ def getLogits(num_attr, exp, x_emb, t_emb, k=3):
     logits = torch.mean(res[:, :, :k], dim=2)
     return logits
 
-def build_loader(dataset_name, root_path, train_preprocess=None, test_preprocess=None, batch_size=64, shot=16, seed=0):
-    '''
+
+def build_loader(
+    dataset_name,
+    root_path,
+    train_preprocess=None,
+    test_preprocess=None,
+    batch_size=64,
+    shot=16,
+    seed=0,
+):
+    """
     Retuen the loader of downstream tasks.
 
     params:
@@ -114,8 +129,20 @@ def build_loader(dataset_name, root_path, train_preprocess=None, test_preprocess
     batch_size: training batch size
     shot: the available number of samples per class
     seed: the random seed
-    '''
+    """
     dataset = build_dataset(dataset_name, root_path, shot, seed)
-    train_loader = build_data_loader(data_source=dataset.train_x, batch_size=batch_size, is_train=True, tfm=train_preprocess, shuffle=True)
-    test_loader = build_data_loader(data_source=dataset.test, batch_size=batch_size, is_train=False, tfm=test_preprocess, shuffle=False)
+    train_loader = build_data_loader(
+        data_source=dataset.train_x,
+        batch_size=batch_size,
+        is_train=True,
+        tfm=train_preprocess,
+        shuffle=True,
+    )
+    test_loader = build_data_loader(
+        data_source=dataset.test,
+        batch_size=batch_size,
+        is_train=False,
+        tfm=test_preprocess,
+        shuffle=False,
+    )
     return train_loader, test_loader, dataset.classnames

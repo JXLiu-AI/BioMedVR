@@ -24,19 +24,30 @@ The whole stack is **input-space**, **VLM-architecture-agnostic**, and **privacy
 
 ```
 .
-├── experiments/                 # training / eval entry points (see Usage)
-│   └── fs_BiomedVR-V8.py        # canonical script that produced Table 1 numbers
-├── methods/                     # visual reprogramming + MoPE modules
-├── datasets/                    # PyTorch dataset wrappers for 11 medical + 7 natural benchmarks
-├── attributes/                  # GPT-generated positive/descriptive attributes per dataset (json)
-├── attributes_corrupted/        # corrupted-attribute ablations
-├── attributes_neg_variants/     # confusion-aware attribute variants (ConfAttrs)
-├── gen_confuse.py               # LLM script: generate ConfAttrs per class via the OpenAI API
-├── generate_attributes.py       # LLM script: generate positive attributes
-├── eval_confusion.py            # diagnostics: per-class confusion matrices, calibration
-├── bashatt-bio.sh               # convenience launcher for all 11 medical datasets
-├── tools.py                     # helpers (set_seed, schedulers, metric utils)
-├── cfg.py                       # global DOWNSTREAM_PATH (set this before running)
+├── train.py                          # ← Unified launcher: python train.py --method ...
+├── experiments/                      # method-specific training entrypoints
+│   ├── biomedvr.py                   # canonical script that produced Table 1 (CLIP ViT-B/16)
+│   ├── biomedvr_biomedclip.py        # BioMedVR on BiomedCLIP backbone
+│   ├── biomedvr_v9_ablation.py       # MoPE-gating ablation
+│   ├── biomedvr_wo_confuse.py        # ablation: BioMedVR without the confusion mechanism
+│   ├── baseline_ar.py                # AR baseline
+│   ├── baseline_attrvr.py            # AttrVR baseline (CLIP ViT-B/16)
+│   ├── baseline_attrvr_biomedclip.py # AttrVR baseline (BiomedCLIP backbone)
+│   ├── baseline_vp.py                # VP (Visual Prompt) baseline
+│   ├── baseline_biomedclip.py        # BiomedCLIP linear-probe baseline
+│   ├── eval_calibration.py           # eval: calibration / ECE
+│   └── eval_crosstask.py             # eval: cross-task transfer
+├── methods/                          # visual reprogramming + MoPE modules
+├── datasets/                         # PyTorch wrappers for 11 medical + 7 natural benchmarks
+├── attributes/                       # GPT-generated positive/descriptive attributes per dataset (json)
+├── attributes_corrupted/             # corrupted-attribute ablations
+├── attributes_neg_variants/          # confusion-aware attribute variants (ConfAttrs)
+├── gen_confuse.py                    # LLM script: generate ConfAttrs per class via OpenAI API
+├── generate_attributes.py            # LLM script: generate positive attributes
+├── eval_confusion.py                 # diagnostics: per-class confusion matrices, calibration
+├── tools.py                          # helpers (set_seed, schedulers, metric utils)
+├── cfg.py                            # global DOWNSTREAM_PATH (set this before running)
+├── bashatt.sh / bashatt-bio.sh       # convenience launchers
 ├── requirements.txt
 └── README.md
 ```
@@ -73,14 +84,31 @@ The medical datasets are not redistributed here. Download links and split files 
 
 ## Quick start
 
-The script that produced Table 1 of the paper is `experiments/fs_BiomedVR-V8.py`.
+All experiments are dispatched through the unified launcher **`train.py`**,
+which forwards arguments to the matching script under `experiments/`.
 
 ```bash
-# Single-dataset, 16-shot, default hyperparameters
-python3 experiments/fs_BiomedVR-V8.py --dataset busi --shot 16 --epoch 400
+# Canonical BioMedVR (paper Table 1), single dataset, 16-shot
+python train.py --method biomedvr --dataset busi --shot 16 --epoch 400
 
-# All 11 medical datasets
+# Variants
+python train.py --method biomedvr-biomedclip  --dataset busi   # BiomedCLIP backbone
+python train.py --method biomedvr-no-confuse  --dataset busi   # CS-Loss ablation
+python train.py --method biomedvr-v9          --dataset busi   # MoPE-gating ablation
+
+# Baselines
+python train.py --method attrvr --dataset busi
+python train.py --method vp     --dataset busi
+python train.py --method ar     --dataset busi
+
+# Sweep all 11 medical datasets via the bundled bash script
 bash bashatt-bio.sh
+```
+
+You can also invoke a specific script directly (legacy):
+
+```bash
+python experiments/biomedvr.py --dataset busi --shot 16 --epoch 400
 ```
 
 **Key arguments** (defaults match the paper):

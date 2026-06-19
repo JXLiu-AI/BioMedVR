@@ -3,8 +3,8 @@ import pickle
 
 from datasets.utils import *
 
-from .oxford_pets import OxfordPets
 from .dtd import DescribableTextures as DTD
+from .oxford_pets import OxfordPets
 
 NEW_CNAMES = {
     "AnnualCrop": "Annual Crop Land",
@@ -18,6 +18,7 @@ NEW_CNAMES = {
     "River": "River",
     "SeaLake": "Sea or Lake",
 }
+
 
 class EuroSAT(DatasetBase):
 
@@ -40,7 +41,7 @@ class EuroSAT(DatasetBase):
         if num_shots >= 1:
             seed = seed
             preprocessed = os.path.join(self.split_fewshot_dir, f"shot_{num_shots}-seed_{seed}.pkl")
-            
+
             if os.path.exists(preprocessed):
                 print(f"Loading preprocessed few-shot data from {preprocessed}")
                 with open(preprocessed, "rb") as file:
