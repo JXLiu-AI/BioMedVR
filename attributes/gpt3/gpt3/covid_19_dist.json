@@ -1,0 +1,30 @@
+{
+  "covid_lungs": [
+    "Distinguished by bilateral, peripheral ground-glass opacities and patchy consolidations, unlike other lung diseases.",
+    "COVID-19 lungs often show multifocal infiltrates and diffuse involvement, setting them apart from normal and non-COVID pneumonia.",
+    "The radiographic pattern is more likely to be peripheral and lower lobe predominant compared to other viral pneumonias.",
+    "Unlike lung opacity of other causes, COVID-19 is associated with specific epidemiological and clinical features.",
+    "COVID-19 lungs are differentiated from normal lungs by the presence of widespread opacities and from viral pneumonia by their distribution and severity."
+  ],
+  "lung_opacity_lungs": [
+    "Characterized by areas of increased radiodensity, lung opacity is non-specific and can result from various conditions.",
+    "Unlike COVID-19 or viral pneumonia, lung opacity may be focal, diffuse, unilateral, or bilateral without a specific pattern.",
+    "This class is set apart by the presence of abnormal whiteness or cloudiness, not necessarily linked to infection.",
+    "Lung opacity is distinguished from normal lungs by the loss of clear lung fields.",
+    "Unlike COVID-19, the cause of opacity in this class is not defined and requires further clinical correlation."
+  ],
+  "normal_lungs": [
+    "Shows clear lung fields with no evidence of disease, unlike all pathological classes.",
+    "Normal lungs are free of opacities, consolidations, or infiltrates seen in COVID-19 and viral pneumonia.",
+    "This class is distinguished by sharp costophrenic angles and visible vascular markings.",
+    "Unlike all other classes, normal lungs have no abnormal radiodensity or structural changes.",
+    "Normal lungs serve as a baseline for comparison with all diseased lung images."
+  ],
+  "viral_pneumonia_lungs": [
+    "Characterized by patchy or diffuse infiltrates and ground-glass opacities, viral pneumonia is distinct from normal and COVID-19 lungs.",
+    "Unlike COVID-19, viral pneumonia may have less peripheral and more central involvement.",
+    "This class is set apart by radiographic features typical of viral infections, excluding those specific to COVID-19.",
+    "Viral pneumonia lungs often show multifocal involvement, but the pattern may differ from COVID-19.",
+    "Unlike lung opacity, viral pneumonia is defined by clinical and radiological evidence of viral infection."
+  ]
+}

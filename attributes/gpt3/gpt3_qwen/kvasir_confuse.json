@@ -1,0 +1,58 @@
+{
+  "dyed_lifted_polyps": [
+    "A raised, reddened lesion with irregular borders mimicking dye-enhanced polyps but caused by localized mucosal inflammation and hyperemia rather than neoplastic growth.",
+    "An elevated mucosal fold with superficial blood vessels resembling dye-stained polyps, yet lacking the uniform coloration and distinct stalk characteristic of true neoplastic polyps.",
+    "A cluster of small, closely grouped lymphoid follicles appearing as dyed, lifted polyps due to their rounded contours but lacking the chromatic intensity of dye application.",
+    "A submucosal mass with smooth, dome-shaped elevation falsely resembling a dyed polyp; its pale, translucent surface contrasts with the vivid pigmentation of genuine dye-marked lesions.",
+    "A healing ulcer bed with granulation tissue mimicking a dyed polyp\u2019s appearance; irregular surface texture and surrounding erythema create confusion despite absent neoplastic features."
+  ],
+  "dyed_resection_margins": [
+    "Hyperplastic polyps with indigo carmine dye application mimicking resection margins due to similar irregular borders and staining patterns.",
+    "Inflammatory bowel disease-associated ulcers with surrounding erythema resembling dyed margins from post-resection staining techniques.",
+    "Superficial mucosal tears with blood oozing that appears as linear markings similar to tattoo dye markings at resection sites.",
+    "Sessile serrated adenomas with subtle margin elevation post-dye spray, confusingly resembling non-lifting margins.",
+    "Post-biopsy ulcerations with fibrin deposits creating irregular outlines that mimic the appearance of dyed resection margins."
+  ],
+  "esophagitis": [
+    "Reddened, inflamed gastric mucosa with scattered erosions in the antrum region, often mistaken for esophagitis due to similar erythematous appearance but located in the stomach.",
+    "Linear tears and ulcers in the proximal esophagus with minimal surrounding inflammation, resembling esophagitis but caused by mechanical trauma from vomiting or retching episodes.",
+    "White plaques and pseudomembranes covering the esophageal lining, mimicking esophagitis-associated exudates but indicative of fungal infection or antibiotic-associated colitis.",
+    "Granular, nodular appearance of the lower esophagus with interspersed red spots, simulating chronic esophagitis but associated with Barrett\u2019s metaplasia.",
+    "Diffuse vascular congestion and mosaic pattern in the distal esophagus without ulcerations, resembling non-erosive esophagitis but linked to portal hypertension."
+  ],
+  "normal_cecum": [
+    "A cecal segment with mild erythema and scattered aphthous ulcers, resembling normal vascular patterns but indicating early inflammatory bowel disease.",
+    "A slightly dilated cecal lumen with adherent mucoid debris, mimicking normal mucus layers but suggesting luminal pathology or infection.",
+    "A cecal wall with focal thickening and irregular nodularity, appearing similar to normal anatomical folds but indicative of neoplastic or inflammatory changes.",
+    "A pale, edematous cecal mucosa with patchy granularity, resembling normal variation but hinting at ischemic or infiltrative disease.",
+    "A cecal diverticulum-like outpouching with surrounding hyperemia, visually confused with normal cecal anatomy but representing acquired structural abnormality."
+  ],
+  "normal_pylorus": [
+    "A round, smooth opening with pale pink mucosa resembling the pylorus but surrounded by irregular, erythematous borders mimicking chronic gastritis rather than healthy tissue.",
+    "A tubular structure with concentric folds and a central aperture resembling pyloric anatomy but exhibiting abnormal granularity and scattered erosions indicative of Crohn\u2019s disease.",
+    "A funnel-shaped lumen with pale mucosa and faint vascular patterns resembling the pylorus but displaying asymmetric narrowing and ulcerated margins suggestive of malignancy.",
+    "A circular orifice with smooth edges and light brownish hue mimicking the pylorus but featuring overlying fibrin exudate and peripheral edema consistent with peptic ulceration.",
+    "A slightly dilated channel with longitudinal ridges and mucus-covered lining resembling pyloric anatomy but exhibiting abnormal tortuosity and variceal patterns indicative of portal hypertension."
+  ],
+  "normal_z_line": [
+    "A jagged, erythematous mucosal transition resembling a Z-line but with irregular surface granularity and subtle ulcerations at the gastroesophageal junction, mimicking inflammation rather than normal anatomy.",
+    "A smooth, pale pink epithelial boundary extending slightly above the Z-line with scattered intestinal metaplasia features, closely resembling Barrett\u2019s esophagus rather than a standard squamocolumnar junction.",
+    "A linear, whitish-veined structure at the gastroesophageal junction with fine vascular patterns, mistaken for a Z-line but indicative of early neoplastic changes like low-grade dysplasia.",
+    "A Z-line mimic with clustered small erosions and telangiectasias creating a pseudo-margin, simulating normal anatomical contrast but representing portal hypertensive gastropathy.",
+    "A slightly elevated, irregular Z-line-like ridge with adherent mucus and erythematous borders, resembling gastric antral ectopy where columnar epithelium extends abnormally into the distal esophagus."
+  ],
+  "polyps": [
+    "A cluster of translucent, mucus-covered folds resembling a sessile polyp but lacking vascular patterns and displaying irregular, fluid-filled creases.",
+    "A dark, rounded foreign body partially embedded in mucosa, mimicking a bleeding polyp but with jagged edges and uneven texture from external debris.",
+    "A pedunculated structure composed of intertwined blood vessels and fibrous tissue, falsely resembling a polyp stalk but lacking a distinct head or epithelial surface.",
+    "A localized area of inflamed mucosa with granular texture and erythematous borders, simulating a hyperplastic polyp but with diffuse swelling and no discrete mass.",
+    "A reflection artifact from endoscopic lighting creating a false spherical lesion with sharp margins and uniform color, lacking the irregular surface of a true polyp."
+  ],
+  "ulcerative_colitis": [
+    "**Patchy cobblestone mucosa with longitudinal ulcers and skip areas resembling Crohn's disease**, but lacking transmural inflammation or granulomas.",
+    "**Diffuse erythematous patches with superficial exudates mimicking infectious colitis**, caused by *C. difficile* or *E. coli* rather than chronic immune-mediated damage.",
+    "**Segmental ischemic necrosis with ulceration and hemorrhagic borders**, presenting as acute vascular injury rather than the continuous mucosal inflammation of ulcerative colitis.",
+    "**Lymphocytic colitis with dense intraepithelial lymphocytosis and minimal crypt architectural distortion**, lacking the crypt abscesses or ulceration seen in UC.",
+    "**Beh\u00e7et's disease-associated multiple round ulcers with discrete margins in the terminal ileum**, accompanied by oral/genital ulcers, not confined to the colon."
+  ]
+}

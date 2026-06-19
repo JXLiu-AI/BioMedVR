@@ -1,0 +1,58 @@
+{
+  "adipose_tissue": [
+    "The image displays well-defined lobules of adipocytes separated by thin septa, which may be mistaken for adipose tissue.",
+    "Dense connective tissue with a heterogeneous cellular composition is present, resembling complex stroma.",
+    "The field is clear and lacks any cellular or tissue structures, mimicking empty background.",
+    "Clusters of small, round immune cells are seen, which could be confused with immune cells rather than debris.",
+    "Tubular glandular structures with regular nuclei are present, features more typical of normal mucosal glands."
+  ],
+  "complex_stroma": [
+    "The image is dominated by large, round adipocytes with eccentric nuclei, resembling adipose tissue.",
+    "Dense, irregular fibrous areas with variable cellularity are present, mimicking complex stroma.",
+    "Amorphous, granular material and necrotic tissue are seen, which could be confused with debris.",
+    "The field is clear and lacks any glandular or cellular structures, similar to empty background.",
+    "Numerous small, round immune cells are scattered throughout, features more typical of immune cells."
+  ],
+  "debris": [
+    "Well-organized, tubular glandular structures with regular nuclei are present, resembling normal mucosal glands rather than tumour epithelium.",
+    "Large, round adipocytes with clear cytoplasm dominate the field, mimicking adipose tissue.",
+    "Dense, fibrous stroma with a mixture of cell types is seen, which may be confused with complex stroma.",
+    "Amorphous, granular material and necrotic tissue are present, features more typical of debris.",
+    "The field is clear and lacks significant cellular content, similar to empty background."
+  ],
+  "empty_background": [
+    "Well-organized, tubular glandular structures with regular nuclei are present, resembling normal mucosal glands rather than tumour epithelium.",
+    "Large, round adipocytes with clear cytoplasm dominate the field, mimicking adipose tissue.",
+    "Dense, fibrous stroma with a mixture of cell types is seen, which may be confused with complex stroma.",
+    "Amorphous, granular material and necrotic tissue are present, features more typical of debris.",
+    "The field is clear and lacks significant cellular content, similar to empty background."
+  ],
+  "immune_cells": [
+    "Well-organized, tubular glandular structures with regular nuclei are present, resembling normal mucosal glands rather than tumour epithelium.",
+    "Large, round adipocytes with clear cytoplasm dominate the field, mimicking adipose tissue.",
+    "Dense, fibrous stroma with a mixture of cell types is seen, which may be confused with complex stroma.",
+    "Amorphous, granular material and necrotic tissue are present, features more typical of debris.",
+    "The field is clear and lacks significant cellular content, similar to empty background."
+  ],
+  "normal_mucosal_glands": [
+    "The image shows pale, fibrous areas with scattered fibroblasts and minimal cellularity, resembling simple stroma rather than clusters of adipocytes.",
+    "There are amorphous, granular regions lacking organized structure, which may be confused with debris.",
+    "The field appears clear or lightly stained with no significant cellular structures, mimicking empty background.",
+    "Small, round cells with dense nuclei are scattered throughout, similar to immune cells rather than adipose tissue.",
+    "Tubular glandular structures lined by epithelial cells are present, which could be mistaken for normal mucosal glands."
+  ],
+  "simple_stroma": [
+    "The image displays well-defined lobules of adipocytes separated by thin septa, which may be mistaken for adipose tissue.",
+    "Dense connective tissue with a heterogeneous cellular composition is present, resembling complex stroma.",
+    "The field is clear and lacks any cellular or tissue structures, mimicking empty background.",
+    "Clusters of small, round immune cells are seen, which could be confused with immune cells rather than debris.",
+    "Tubular glandular structures with regular nuclei are present, features more typical of normal mucosal glands."
+  ],
+  "tumour_epithelium": [
+    "The image shows pale, fibrous areas with scattered fibroblasts and minimal cellularity, resembling simple stroma rather than clusters of adipocytes.",
+    "There are amorphous, granular regions lacking organized structure, which may be confused with debris.",
+    "The field appears clear or lightly stained with no significant cellular structures, mimicking empty background.",
+    "Small, round cells with dense nuclei are scattered throughout, similar to immune cells rather than adipose tissue.",
+    "Tubular glandular structures lined by epithelial cells are present, which could be mistaken for normal mucosal glands."
+  ]
+}

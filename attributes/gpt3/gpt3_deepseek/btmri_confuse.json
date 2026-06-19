@@ -1,0 +1,30 @@
+{
+  "glioma_tumor": [
+    "A high-grade glioma appears as a large, irregularly shaped mass with central necrosis and peripheral enhancement, but in this case, it is actually a metastatic brain tumor from lung cancer, which can show similar ring enhancement and surrounding edema.",
+    "This lesion is a well-demarcated, hyperintense area on T2-weighted MRI with a cystic component and nodular enhancement, mimicking a pilocytic astrocytoma, yet it is actually a cerebellar hemangioblastoma with its characteristic flow voids and peritumoral edema.",
+    "The image shows a butterfly-shaped lesion crossing the corpus callosum with heterogeneous signal and perilesional edema, which resembles a glioblastoma multiforme, but it is actually a primary central nervous system lymphoma with its more homogeneous enhancement and restricted diffusion.",
+    "A focal, ring-enhancing lesion with a hypointense center on T2-weighted MRI and surrounding vasogenic edema is present, which could be mistaken for a high-grade glioma, but it is actually a cerebral abscess with its smooth, thin capsule and diffusion restriction within the pus.",
+    "This MRI reveals a cortical-based lesion with gyriform enhancement and adjacent meningeal thickening, visually similar to a glioblastoma invading the cortex, but it is actually a meningioma with its dural tail sign and extra-axial location, lacking the infiltrative pattern of a glioma."
+  ],
+  "meningioma_tumor": [
+    "A well-circumscribed, extra-axial dural-based mass with homogeneous enhancement and a dural tail, but located in the posterior fossa near the cerebellopontine angle, mimicking a vestibular schwannoma rather than a typical convexity meningioma.",
+    "A hyperdense, lobulated lesion with calcifications and peritumoral vasogenic edema, but showing central necrosis and irregular margins, resembling a high-grade glioma or metastasis rather than a benign meningioma.",
+    "A uniformly enhancing, broad-based dural mass with a cystic component and perilesional edema, but featuring a \"cystic mural nodule\" pattern that mimics a hemangioblastoma or pilocytic astrocytoma, not a classic meningioma.",
+    "An intra-axial, ring-enhancing lesion with surrounding edema and mass effect, but lacking a dural attachment and showing restricted diffusion centrally, more suggestive of a cerebral abscess or necrotic tumor than a meningioma.",
+    "A hyperostotic, calcified lesion along the sphenoid wing with bone erosion and dural enhancement, but demonstrating an irregular, infiltrative interface with brain parenchyma, resembling an atypical or malignant meningioma or even a primary bone tumor."
+  ],
+  "normal_brain": [
+    "A brain MRI showing a subtle, diffuse hyperintensity in the periventricular white matter that could be mistaken for normal age-related changes, but actually represents early ischemic gliosis.",
+    "An axial T2-weighted image with a well-defined, ovoid hyperintensity in the centrum semiovale that mimics a normal perivascular space, but is actually a small demyelinating plaque.",
+    "A sagittal T1-weighted scan revealing a mildly enlarged cisterna magna with a prominent cerebellar folia pattern, which could be confused with a normal variant but indicates cerebellar atrophy.",
+    "A coronal FLAIR sequence displaying symmetric, subtle hyperintensity along the hippocampal tail, resembling normal signal intensity but representing early mesial temporal sclerosis.",
+    "An axial T1-weighted post-contrast image showing a tiny, nodular area of enhancement in the frontal lobe cortex that looks like a normal vessel, but is actually a small metastasis."
+  ],
+  "pituitary_tumor": [
+    "A bright, well-circumscribed mass located centrally within the sella turcica, but with a smooth, uniform texture and no visible lobulations or cystic components, which more closely resembles a Rathke's cleft cyst than a pituitary tumor.",
+    "A hyperintense lesion on T2-weighted imaging that extends upward into the suprasellar cistern, yet shows a homogeneous enhancement pattern without any necrotic or hemorrhagic foci, mimicking a meningioma rather than a pituitary adenoma.",
+    "An enlarged pituitary gland with a convex superior border, but the signal intensity is isointense to gray matter on all sequences and there is a clear, intact stalk deviation, which could be misinterpreted as pituitary hyperplasia instead of a true tumor.",
+    "A focal area of abnormal signal in the posterior pituitary lobe that appears bright on T1-weighted images without contrast, but lacks the typical anterior lobe involvement and shows no mass effect, closely resembling a pituitary hemorrhage or a lipoma.",
+    "A cystic lesion within the sella that demonstrates a thin, enhancing rim and a fluid-fluid level on MRI, yet contains no solid mural nodule or septations, making it visually identical to a craniopharyngioma rather than a pituitary tumor."
+  ]
+}

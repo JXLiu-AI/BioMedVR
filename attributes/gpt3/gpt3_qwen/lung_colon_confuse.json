@@ -1,0 +1,37 @@
+{
+  "colon_adenocarcinoma": [
+    "Metastatic gastric adenocarcinoma with glandular structures and mucin pools mimicking colonic origin, but exhibiting more diffuse signet-ring cell differentiation and less cribriform architecture.",
+    "Pulmonary bronchioloalveolar carcinoma displaying lepidic growth patterns and mucinous secretion, often mistaken for well-differentiated colon adenocarcinoma due to overlapping glandular morphology.",
+    "Metastatic pancreatic adenocarcinoma with tightly packed glands and eosinophilic cytoplasm, resembling moderately differentiated colon adenocarcinoma but lacking serrated nuclear contours.",
+    "Colonic mucosal hyperplasia with elongated, distorted crypts and basal mitotic activity, mimicking adenocarcinoma\u2019s architectural disarray but lacking malignant nuclear features or invasion.",
+    "Pulmonary enteric adenocarcinoma showing intestinal-type differentiation with goblet cells and columnar mucin, closely resembling metastatic colon cancer but confined to lung parenchyma without colonic primary history."
+  ],
+  "colon_benign_tissue": [
+    "Gastric mucosa with closely packed, vertically oriented glands lacking goblet cells, mimicking colonic crypts due to similar architectural uniformity and minimal cellular atypia.",
+    "Small intestinal epithelium with crypt-villus units and mild nuclear stratification, resembling colon mucosa in low magnification due to overlapping glandular structures and inflammatory infiltrates.",
+    "Benign endometrial glands with serrated contours and scant stromal component, visually simulating colonic crypts owing to comparable epithelial organization and luminal regularity.",
+    "Bronchiolar lung tissue with cuboidal epithelium and inconspicuous lumina, mimicking colon mucosa through similar tubular configurations and lack of overt cytologic abnormalities.",
+    "Renal tubules with eosinophilic lining cells and parallel arrangements, appearing analogous to colonic crypts due to shared gland-like morphology and sparse nuclear pleomorphism."
+  ],
+  "lung_adenocarcinoma": [
+    "A well-circumscribed, spiculated pulmonary nodule with central calcifications resembling popcorn, often mistaken for adenocarcinoma but representing a benign hamartoma with cartilaginous differentiation.",
+    "A peripheral lung mass with irregular margins and ground-glass opacity, mimicking adenocarcinoma but caused by chronic fungal infection with hyphal infiltration and granulomatous inflammation.",
+    "A lobulated, enhancing lesion in the lung periphery with pleural retraction, simulating adenocarcinoma but representing an inflammatory pseudotumor with dense fibrosis and lymphocytic infiltration.",
+    "A cavitating pulmonary nodule with thick, irregular walls and surrounding consolidation, resembling adenocarcinoma but arising from necrotizing tuberculosis with caseous debris and epithelioid granulomas.",
+    "A multifocal cluster of small, subsolid nodules with vascular association, mimicking adenocarcinoma metastases but representing sarcoidosis with non-caseating granulomas and interstitial lymphocytic infiltrates."
+  ],
+  "lung_benign_tissue": [
+    "A malignant adenocarcinoma with deceptively uniform glandular structures resembling benign lung parenchyma but exhibiting nuclear stratification, mitotic activity, and focal necrosis.",
+    "A metastatic renal cell carcinoma mimicking benign alveolar tissue with clear cells arranged in nests, displaying abrupt vascular invasion and nuclear pleomorphism.",
+    "A necrotizing granulomatous inflammation simulating benign fibrosis, characterized by epithelioid histiocytes, multinucleated giant cells, and central caseous necrosis.",
+    "A neuroendocrine tumor with organoid growth and monotonous cells resembling hyperplastic neuroendocrine cells, but showing salt-and-pepper chromatin and apoptotic bodies.",
+    "A sarcomatoid carcinoma with spindle cells resembling benign fibroblasts, yet displaying herringbone architecture, brisk mitotic activity, and heterologous osteoid formation."
+  ],
+  "lung_squamous_cell_carcinoma": [
+    "**Lung adenocarcinoma with extensive squamous metaplasia** forming keratinized nests and intercellular bridges, mimicking squamous differentiation but lacking malignant glandular structures.",
+    "**Large cell neuroendocrine carcinoma** with necrotic zones and trabecular growth patterns, resembling poorly differentiated squamous cell carcinoma histologically but lacking epithelial markers.",
+    "**Metastatic cutaneous squamous cell carcinoma** to the lung, displaying similar pleomorphic keratinizing cells but with a distinct dermal origin and lack of bronchial association.",
+    "**Granulomatous inflammation with necrotizing pseudotumoral lesions**, featuring epithelioid cell clusters and multinucleated giants mimicking squamous cell carcinoma\u2019s necrotic architecture.",
+    "**Basaloid squamous cell carcinoma** with condensed blue-cell morphology and peripheral palisading, often misclassified as small cell carcinoma but retaining focal squamous differentiation."
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "actinic_keratosis": [
+    "Dermatoscopic image showing actinic keratosis, a rough, scaly lesion caused by chronic sun exposure.",
+    "Actinic keratosis appears as erythematous, hyperkeratotic plaques with irregular borders.",
+    "The lesion may show a sandpaper-like texture and focal areas of pigmentation or crusting.",
+    "Actinic keratosis is considered a precancerous lesion with potential to progress to squamous cell carcinoma.",
+    "This class is characterized by sun-damaged skin with superficial keratinocyte atypia."
+  ],
+  "basal_cell_carcinoma": [
+    "Dermatoscopic image showing basal cell carcinoma, the most common type of skin cancer.",
+    "Basal cell carcinoma appears as a pearly or translucent nodule with telangiectasia and rolled borders.",
+    "The lesion may show ulceration, pigmentation, or arborizing blood vessels.",
+    "Basal cell carcinoma grows slowly and rarely metastasizes but can cause local tissue destruction.",
+    "This class is defined by malignant proliferation of basal cells in the epidermis."
+  ],
+  "benign_keratosis": [
+    "Dermatoscopic image showing benign keratosis, a non-cancerous lesion with a warty or waxy appearance.",
+    "Benign keratosis includes seborrheic keratosis and other harmless keratotic growths.",
+    "The lesion may appear as a well-demarcated, raised plaque with a stuck-on look.",
+    "Benign keratosis is characterized by uniform color and surface texture without signs of malignancy.",
+    "This class is defined by benign proliferation of keratinocytes with no invasive features."
+  ],
+  "dermatofibroma": [
+    "Dermatoscopic image showing dermatofibroma, a benign fibrous nodule commonly found on the extremities.",
+    "Dermatofibroma appears as a firm, hyperpigmented papule with a central dimple when pinched.",
+    "The lesion may show a peripheral pigment network and central white scar-like area.",
+    "Dermatofibromas are harmless and do not transform into cancer.",
+    "This class is characterized by proliferation of fibroblasts and collagen in the dermis."
+  ],
+  "melanocytic_nevus": [
+    "Dermatoscopic image showing melanocytic nevus, a benign mole composed of melanocytes.",
+    "Melanocytic nevi appear as well-circumscribed, symmetric lesions with uniform color and smooth borders.",
+    "The lesion may be flat or raised and can vary in color from tan to dark brown.",
+    "Melanocytic nevi are common and usually stable over time.",
+    "This class is defined by benign proliferation of melanocytes in the skin."
+  ],
+  "melanoma": [
+    "Dermatoscopic image showing melanoma, a malignant tumor of melanocytes with high metastatic potential.",
+    "Melanoma appears as an asymmetric lesion with irregular borders, multiple colors, and variegated pattern.",
+    "The lesion may show areas of regression, ulceration, or atypical pigment network.",
+    "Melanoma is aggressive and requires prompt diagnosis and treatment.",
+    "This class is characterized by malignant proliferation of atypical melanocytes."
+  ],
+  "vascular_lesion": [
+    "Dermatoscopic image showing vascular lesion, such as hemangioma or angioma, composed of blood vessels.",
+    "Vascular lesions appear as red, purple, or blue papules or plaques with a spongy or compressible texture.",
+    "The lesion may blanch with pressure and show a homogeneous or lacunar pattern.",
+    "Vascular lesions are usually benign and do not show malignant features.",
+    "This class is defined by proliferation of blood vessels within the skin."
+  ]
+}

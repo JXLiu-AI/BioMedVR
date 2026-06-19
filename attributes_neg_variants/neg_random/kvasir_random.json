@@ -1,0 +1,58 @@
+{
+  "dyed_lifted_polyps": [
+    "The image shows a smooth, glistening mucosal surface with no evidence of inflammation, resembling a normal cecum.",
+    "There is a round, symmetric structure with smooth lining, features more typical of a normal pylorus.",
+    "The image displays a sharp, well-defined Z-line without irregularity, mimicking a normal Z-line.",
+    "Raised, stained lesions are present, which may be confused with dyed lifted polyps.",
+    "Continuous mucosal inflammation and ulceration are seen, resembling ulcerative colitis."
+  ],
+  "dyed_resection_margins": [
+    "The image shows raised, stained lesions, resembling dyed lifted polyps.",
+    "There are stained resection margins with clear delineation, features more typical of dyed resection margins.",
+    "Flat, erythematous areas with mucosal breaks are present, mimicking esophagitis.",
+    "Continuous mucosal inflammation and ulceration are seen, resembling ulcerative colitis.",
+    "The image displays a round, symmetric structure with smooth lining, which may be confused with a normal pylorus."
+  ],
+  "esophagitis": [
+    "The image shows healthy mucosa and typical anatomical landmarks, resembling a normal cecum.",
+    "There is a round, symmetric structure with smooth lining, features more typical of a normal pylorus.",
+    "The image displays a sharp, well-defined Z-line without abnormalities, mimicking a normal Z-line.",
+    "Raised, stained lesions are present, which may be confused with dyed lifted polyps.",
+    "Stained resection margins with clear delineation are seen, resembling dyed resection margins."
+  ],
+  "normal_cecum": [
+    "The image shows healthy mucosa and typical anatomical landmarks, resembling a normal cecum.",
+    "There is a round, symmetric structure with smooth lining, features more typical of a normal pylorus.",
+    "The image displays a sharp, well-defined Z-line without abnormalities, mimicking a normal Z-line.",
+    "Raised, stained lesions are present, which may be confused with dyed lifted polyps.",
+    "Stained resection margins with clear delineation are seen, resembling dyed resection margins."
+  ],
+  "normal_pylorus": [
+    "The image shows healthy mucosa and typical anatomical landmarks, resembling a normal cecum.",
+    "There is a round, symmetric structure with smooth lining, features more typical of a normal pylorus.",
+    "The image displays a sharp, well-defined Z-line without abnormalities, mimicking a normal Z-line.",
+    "Raised, stained lesions are present, which may be confused with dyed lifted polyps.",
+    "Stained resection margins with clear delineation are seen, resembling dyed resection margins."
+  ],
+  "normal_z_line": [
+    "The image shows a smooth, glistening mucosal surface with no raised lesions, resembling a normal cecum rather than dyed lifted polyps.",
+    "There is a round, symmetric structure with smooth lining, features more typical of a normal pylorus.",
+    "The image displays a sharp, well-defined boundary between mucosal types, mimicking a normal Z-line.",
+    "Flat, erythematous areas with mucosal breaks are present, which may be confused with esophagitis.",
+    "Continuous mucosal inflammation and ulceration are seen, resembling ulcerative colitis rather than polyps."
+  ],
+  "polyps": [
+    "The image shows a smooth, glistening mucosal surface with no evidence of inflammation, resembling a normal cecum.",
+    "There is a round, symmetric structure with smooth lining, features more typical of a normal pylorus.",
+    "The image displays a sharp, well-defined Z-line without irregularity, mimicking a normal Z-line.",
+    "Raised, stained lesions are present, which may be confused with dyed lifted polyps.",
+    "Continuous mucosal inflammation and ulceration are seen, resembling ulcerative colitis."
+  ],
+  "ulcerative_colitis": [
+    "The image shows a smooth, glistening mucosal surface with no raised lesions, resembling a normal cecum rather than dyed lifted polyps.",
+    "There is a round, symmetric structure with smooth lining, features more typical of a normal pylorus.",
+    "The image displays a sharp, well-defined boundary between mucosal types, mimicking a normal Z-line.",
+    "Flat, erythematous areas with mucosal breaks are present, which may be confused with esophagitis.",
+    "Continuous mucosal inflammation and ulceration are seen, resembling ulcerative colitis rather than polyps."
+  ]
+}

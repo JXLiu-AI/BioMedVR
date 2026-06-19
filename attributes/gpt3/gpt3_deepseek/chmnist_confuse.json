@@ -1,0 +1,58 @@
+{
+  "adipose_tissue": [
+    "A large, pale, and vacuolated cytoplasm with a single, flattened nucleus pushed to the periphery, resembling a mature fat cell but actually representing a signet-ring cell carcinoma where the mucin vacuole displaces the nucleus.",
+    "A clear, bubbly, and foamy cytoplasm within a swollen, round cell that mimics a lipid-laden adipocyte, yet this is actually a xanthoma cell or foam cell packed with cholesterol esters in an inflammatory lesion.",
+    "A uniform sheet of polygonal cells with abundant, clear, and empty-looking cytoplasm separated by thin, wispy septae, which could be mistaken for adipose tissue but is actually a clear cell variant of renal cell carcinoma with glycogen-rich cytoplasm.",
+    "A collection of large, round, and empty-looking spaces surrounded by a delicate, eosinophilic rim, reminiscent of fat cells, but these are actually dilated lymphatic vessels or cystic spaces in a lymphangioma, not adipocytes.",
+    "A densely packed cluster of cells with small, central nuclei and abundant, finely vacuolated cytoplasm that appears microvesicular, similar to brown adipose tissue, yet this is actually a sebaceous adenoma where the cells contain lipid droplets but originate from sebaceous glands."
+  ],
+  "complex_stroma": [
+    "A dense, irregularly arranged network of coarse, intertwining fibers with scattered, darkly stained nuclei that lacks the distinct, organized glandular structures characteristic of complex stroma.",
+    "A region of crowded, plump spindle cells with ample pale cytoplasm and vesicular nuclei, forming vague whorls but without the definitive, complex branching of true stromal tissue.",
+    "A field of uniform, round to oval cells with hyperchromatic nuclei and scant cytoplasm, arranged in solid sheets rather than the intricate, loose reticular pattern of complex stroma.",
+    "A collection of thick, hyalinized collagen bundles interspersed with compressed, elongated cells, mimicking stromal density but missing the delicate, lace-like vascular network of complex stroma.",
+    "A nodular aggregate of epithelioid cells with abundant eosinophilic cytoplasm and prominent nucleoli, surrounded by a scant fibrovascular stroma, which does not replicate the complex, interwoven architecture of true complex stroma."
+  ],
+  "debris": [
+    "A cluster of small, irregularly shaped grayish-white specks scattered across a dark background, resembling tiny fragments of broken glass or eroded stone, but actually representing faint, overlapping cellular nuclei.",
+    "A dense, chaotic patch of dark, jagged lines and dots interwoven with pale gray smudges, mimicking the look of crushed charcoal or metallic debris, while in reality depicting compressed, abnormal chromatin patterns.",
+    "A scattering of minute, bright white flecks amid a field of muted gray and black, giving the illusion of fine dust or pulverized bone fragments, yet correctly showing isolated, hyperchromatic cells.",
+    "A coarse, mottled texture of deep black blotches and pale gray streaks, similar to the appearance of torn paper or cracked paint, but accurately portraying a heavily stained, necrotic tissue region.",
+    "A collection of tiny, irregular, bright spots clustered near a larger dark mass, reminiscent of metal shavings or shattered plastic, when in fact they are small, pyknotic nuclei from degenerating cells."
+  ],
+  "empty_background": [
+    "A solid, pale grayish-blue field with no discernible texture, but with a single, faint, wispy cloud-like smudge near the lower right corner that suggests a subtle environmental detail rather than a clean, empty background.",
+    "A uniformly beige surface that appears blank at first glance, yet contains a barely perceptible, slightly darker circular shadow in the center, resembling a faint watermark or a shallow indentation from a removed object.",
+    "A stark white background with a very slight, almost invisible gradient from top to bottom, but with a tiny, isolated speck of dust or a minuscule scratch mark near the upper left edge, breaking the perfect emptiness.",
+    "A smooth, matte gray area that seems empty, but upon closer inspection reveals a faint, repeating grid pattern of very thin, nearly transparent lines, akin to a ghost of a graph paper overlay.",
+    "A plain, light cream-colored background that is entirely uniform except for a single, very subtle, elongated streak of slightly darker tone running diagonally from the center towards the bottom edge, resembling a light brushstroke or a faint smudge."
+  ],
+  "immune_cells": [
+    "Small, round cells with a dark, dense nucleus and a thin rim of pale blue cytoplasm, but with a distinctly irregular, jagged nuclear border rather than the smooth, kidney-shaped contour typical of immune cells.",
+    "Clusters of oval to round cells with a moderate amount of basophilic cytoplasm and a single, prominent nucleolus, yet exhibiting a much higher nuclear-to-cytoplasmic ratio and a more uniform, monotonous chromatin pattern than expected for immune cells.",
+    "Cells that appear as small, darkly stained nuclei surrounded by a scant, almost invisible cytoplasm, but arranged in a cohesive, syncytial-like grouping rather than the isolated, scattered distribution characteristic of immune cells.",
+    "Round cells with a deeply indented or cleft nucleus that resembles a monocyte, but with abundant, vacuolated cytoplasm and a distinct, perinuclear clear zone (halo) that is not seen in typical immune cells.",
+    "Small to medium cells with a dense, hyperchromatic nucleus and a narrow rim of deeply basophilic cytoplasm, but showing a prominent, centrally located nucleolus and a more epithelioid, cohesive sheet-like arrangement rather than the loose, non-cohesive pattern of immune cells."
+  ],
+  "normal_mucosal_glands": [
+    "Small clusters of slightly enlarged, pale-staining cells with faintly visible nucleoli, mimicking normal glands but actually representing early hyperplastic changes in the surrounding stroma.",
+    "Tightly packed, round glands with uniform lumens and evenly spaced nuclei, resembling normal mucosa but actually being tangential cuts through reactive lymphoid follicles in chronic inflammation.",
+    "Glands with intact basement membranes and orderly columnar epithelium, similar to normal mucosal glands, yet these are actually compressed remnants of atrophic glands in a background of fibrosis.",
+    "Well-circumscribed, small glandular structures lined by cuboidal cells with apical mucin, appearing as normal mucosal glands, but they are actually cross-sections of dilated lymphatic channels filled with proteinaceous fluid.",
+    "Closely arranged, simple tubular glands with basally located nuclei and clear cytoplasm, visually identical to normal glands, yet they represent benign metaplastic changes from adjacent squamous epithelium."
+  ],
+  "simple_stroma": [
+    "A densely packed cluster of elongated, spindle-shaped cells with hyperchromatic nuclei arranged in intersecting fascicles, mimicking the wavy collagen pattern of simple stroma but lacking the characteristic pale, eosinophilic background.",
+    "An area of uniform, small, round blue cells with scant cytoplasm, forming a nodular aggregate that superficially resembles the cellularity of simple stroma but without the intervening delicate fibrillary network.",
+    "A region showing a monotonous proliferation of polygonal cells with clear, vacuolated cytoplasm and centrally placed nuclei, closely resembling the honeycomb-like arrangement of simple stroma yet missing the subtle stromal edema.",
+    "A field of loosely arranged, stellate cells with long, branching cytoplasmic processes immersed in a myxoid matrix, which could be visually confused with the loose connective tissue of simple stroma but lacks its characteristic fine collagen fibers.",
+    "A patch of plump, epithelioid cells with abundant granular eosinophilic cytoplasm and eccentric nuclei, forming a cohesive sheet that mimics the dense cellularity of simple stroma but without the interspersed thin-walled blood vessels."
+  ],
+  "tumour_epithelium": [
+    "Dense clusters of tightly packed, hyperchromatic nuclei with minimal intervening stroma, resembling the crowded architecture of tumour epithelium, but these cells are actually reactive mesothelial cells from a benign inflammatory process.",
+    "Sheets of cohesive, polygonal cells with high nuclear-to-cytoplasmic ratios and coarse chromatin, mimicking tumour epithelium, yet this represents a florid regenerative hyperplasia of colonic mucosa adjacent to an ulcer.",
+    "A cribriform pattern of epithelial cells with prominent nucleoli and frequent mitotic figures, visually identical to tumour epithelium, but it is actually a benign adenomatous polyp with high-grade dysplasia rather than invasive carcinoma.",
+    "Irregular nests of epithelioid cells infiltrating a desmoplastic stroma, with nuclear pleomorphism and atypical mitoses, strongly suggesting tumour epithelium, though this is a granulomatous reaction to foreign material with reactive epithelial hyperplasia.",
+    "Glandular structures lined by stratified, hyperchromatic cells with loss of polarity and luminal necrosis, a classic mimic of tumour epithelium, but these are actually benign endometrial glands with Arias-Stella reaction in a pregnant patient."
+  ]
+}

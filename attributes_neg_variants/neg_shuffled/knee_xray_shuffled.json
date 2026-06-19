@@ -1,0 +1,37 @@
+{
+  "doubtful_osteoarthritis": [
+    "The knee X-ray shows normal bone structure and joint space, resembling a healthy knee.",
+    "There are only ambiguous changes and questionable irregularities, features more typical of doubtful osteoarthritis.",
+    "Clear joint space narrowing and moderate osteophyte formation are present, mimicking moderate osteoarthritis.",
+    "Marked loss of joint space and large bone spurs are seen, resembling severe osteoarthritis.",
+    "Well-preserved cartilage and absence of bone deformity are present, which may be confused with a healthy knee."
+  ],
+  "healthy_knee": [
+    "The knee X-ray shows normal joint space and bone structure, resembling a healthy knee.",
+    "There are only minimal changes such as slight joint space narrowing and tiny osteophytes, features more typical of minimal osteoarthritis.",
+    "Ambiguous changes and minor irregularities are present, mimicking doubtful osteoarthritis.",
+    "Marked loss of joint space and large bone spurs are seen, resembling severe osteoarthritis.",
+    "Well-preserved cartilage and absence of bone deformity are present, which may be confused with a healthy knee."
+  ],
+  "minimal_osteoarthritis": [
+    "The knee X-ray shows normal bone structure and joint space, resembling a healthy knee.",
+    "There are only minimal or moderate changes such as slight joint space narrowing and moderate osteophyte formation.",
+    "Ambiguous changes and minor irregularities are present, features more typical of doubtful osteoarthritis.",
+    "Well-preserved cartilage and absence of bone deformity are present, which may be confused with a healthy knee.",
+    "Clear joint space narrowing and moderate bone spur formation are seen, mimicking moderate osteoarthritis."
+  ],
+  "moderate_osteoarthritis": [
+    "The knee X-ray shows normal bone structure and joint space, resembling a healthy knee rather than doubtful osteoarthritis.",
+    "There is clear joint space narrowing and prominent osteophyte formation, features more typical of moderate osteoarthritis.",
+    "The image displays marked loss of joint space and large bone spurs, mimicking severe osteoarthritis.",
+    "Well-preserved cartilage and absence of bone deformity are present, which may be confused with a healthy knee.",
+    "Definite radiographic changes such as sclerosis and mild deformity are seen, resembling minimal or moderate osteoarthritis."
+  ],
+  "severe_osteoarthritis": [
+    "The knee X-ray shows subtle joint space narrowing and tiny osteophytes, which may be mistaken for minimal osteoarthritis.",
+    "There are ambiguous changes and minor irregularities, features more typical of doubtful osteoarthritis.",
+    "The image displays clear joint space narrowing and moderate bone spur formation, mimicking moderate osteoarthritis.",
+    "Marked loss of joint space and large osteophytes are present, resembling severe osteoarthritis.",
+    "Mild sclerosis and faint bone deformity are seen, which could be confused with early osteoarthritis."
+  ]
+}

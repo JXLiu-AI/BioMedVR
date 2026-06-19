@@ -1,0 +1,51 @@
+{
+  "actinic_keratosis": [
+    "The lesion is a rough, scaly plaque with sandpaper-like texture, resembling actinic keratosis.",
+    "There is a pearly, translucent nodule with rolled borders, features more typical of basal cell carcinoma.",
+    "The image shows a well-demarcated, waxy plaque with uniform color, mimicking benign keratosis.",
+    "An asymmetric lesion with irregular borders and variegated pattern is present, which may be confused with melanoma.",
+    "The lesion is a compressible, red papule with a homogeneous pattern, similar to a vascular lesion."
+  ],
+  "basal_cell_carcinoma": [
+    "The lesion is a rough, scaly plaque with sandpaper-like texture, resembling actinic keratosis.",
+    "There is a pearly, translucent nodule with telangiectasia and rolled borders, features more typical of basal cell carcinoma.",
+    "The image shows a well-demarcated, waxy plaque with a stuck-on look, mimicking benign keratosis.",
+    "A symmetric, tan to dark brown mole with smooth borders is present, which could be mistaken for melanocytic nevus.",
+    "An asymmetric lesion with irregular borders and multiple colors is present, features more typical of melanoma."
+  ],
+  "benign_keratosis": [
+    "The lesion is a symmetric, uniformly colored mole with smooth borders, resembling melanocytic nevus.",
+    "There is a well-demarcated, waxy plaque with uniform color, features more typical of benign keratosis.",
+    "The image shows a pearly, translucent nodule with rolled borders, mimicking basal cell carcinoma.",
+    "A firm, hyperpigmented papule with a central white scar-like area is present, which may be confused with dermatofibroma.",
+    "The lesion is a compressible, red papule with a lacunar pattern, similar to a vascular lesion."
+  ],
+  "dermatofibroma": [
+    "The lesion is a pearly nodule with telangiectasia and rolled borders, resembling basal cell carcinoma.",
+    "There is an asymmetric lesion with irregular borders and multiple colors, features more typical of melanoma.",
+    "The image shows a firm, hyperpigmented papule with a central dimple, mimicking dermatofibroma.",
+    "A symmetric, uniformly colored mole with smooth borders is present, which could be mistaken for melanocytic nevus.",
+    "The lesion is a red papule with a spongy texture, similar to a vascular lesion."
+  ],
+  "melanocytic_nevus": [
+    "The lesion is a pearly, translucent nodule with rolled borders and telangiectasia, resembling basal cell carcinoma rather than actinic keratosis.",
+    "There is a well-demarcated, raised plaque with a waxy, stuck-on appearance, features more typical of benign keratosis.",
+    "The image shows a symmetric, uniformly colored mole with smooth borders, which may be mistaken for melanocytic nevus.",
+    "A firm, hyperpigmented papule with a central dimple is present, mimicking dermatofibroma.",
+    "The lesion is a red papule with a spongy texture and homogeneous pattern, which could be confused with a vascular lesion."
+  ],
+  "melanoma": [
+    "The lesion is a rough, scaly plaque with irregular borders, resembling actinic keratosis.",
+    "There is a pearly nodule with telangiectasia and rolled borders, features more typical of basal cell carcinoma.",
+    "The image shows a well-demarcated, waxy plaque with a stuck-on look, mimicking benign keratosis.",
+    "A firm, hyperpigmented papule with a central dimple is present, which could be mistaken for dermatofibroma.",
+    "The lesion is a red papule with a spongy texture, similar to a vascular lesion."
+  ],
+  "vascular_lesion": [
+    "The lesion is a rough, scaly plaque with irregular borders and sandpaper-like texture, resembling actinic keratosis.",
+    "There is a well-demarcated, waxy plaque with uniform color, features more typical of benign keratosis.",
+    "The image shows a symmetric, tan to dark brown mole with smooth borders, mimicking melanocytic nevus.",
+    "A firm, hyperpigmented nodule with a central white scar-like area is present, which may be confused with dermatofibroma.",
+    "The lesion is a compressible, red papule with a lacunar pattern, similar to a vascular lesion."
+  ]
+}

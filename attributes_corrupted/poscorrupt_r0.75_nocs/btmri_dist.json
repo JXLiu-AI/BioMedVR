@@ -1,0 +1,30 @@
+{
+  "glioma_tumor": [
+    "Shows intact brain structures with no evidence of tumors, unlike all pathological classes.",
+    "Normal brain MRIs lack masses, edema, or abnormal signal intensity seen in tumor classes.",
+    "There is no compression, invasion, or displacement of brain tissue in normal scans.",
+    "This class serves as a baseline for comparison with all tumor types.",
+    "The absence of abnormal growths or mass effect distinguishes normal brain images from all others."
+  ],
+  "meningioma_tumor": [
+    "Distinguished by its infiltrative, irregular borders and aggressive growth, unlike the well-circumscribed meningioma or pituitary tumors.",
+    "Glioma tumors often invade adjacent brain tissue, setting them apart from extra-axial meningiomas.",
+    "This class shows heterogeneous signal intensity and possible necrosis, unlike the uniform appearance of benign tumors.",
+    "Gliomas can cross the midline, a feature not seen in meningioma or pituitary tumors.",
+    "The lack of a clear boundary with normal brain tissue differentiates gliomas from other brain tumors."
+  ],
+  "normal_brain": [
+    "Characterized by a well-defined, extra-axial mass with a dural tail, unlike the infiltrative glioma.",
+    "Meningiomas compress but do not invade brain tissue, distinguishing them from gliomas.",
+    "This class shows homogeneous enhancement and a clear boundary, unlike the irregular borders of gliomas.",
+    "Meningiomas are usually slow-growing and benign, unlike the more aggressive gliomas.",
+    "The dural attachment and extra-axial location set meningiomas apart from pituitary and glioma tumors."
+  ],
+  "pituitary_tumor": [
+    "Identified by a distinct mass in the sella turcica region, unlike glioma or meningioma tumors.",
+    "Pituitary tumors are located at the base of the brain and may compress the optic chiasm, a unique feature.",
+    "This class shows a well-defined sellar or suprasellar mass, unlike the diffuse growth of gliomas.",
+    "Pituitary tumors do not invade brain parenchyma like gliomas, nor do they attach to the dura like meningiomas.",
+    "The specific location and effect on hormone production set pituitary tumors apart from other brain tumors."
+  ]
+}

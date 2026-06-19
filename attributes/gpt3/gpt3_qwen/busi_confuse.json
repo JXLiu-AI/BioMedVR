@@ -1,0 +1,23 @@
+{
+  "normal_scan": [
+    "A scan displaying uniform echotexture with subtle posterior acoustic enhancement, mimicking normal breast tissue while harboring a benign cystic structure.",
+    "An image with smooth, well-defined hypoechoic regions resembling normal lobular patterns but concealing a fibroadenoma with homogeneous internal echoes.",
+    "A low-resolution scan where poor focusing creates a deceptively uniform appearance, masking small focal lesions that disrupt normal breast tissue architecture.",
+    "Post-biopsy scan displaying mild edema and scattered echogenic foci, simulating normal adipose tissue distribution without apparent pathological features.",
+    "A scan with subtle microcalcifications obscured by dense glandular tissue, presenting with a deceptively normal homogeneous echotexture despite underlying malignant potential."
+  ],
+  "benign_tumor": [
+    "A malignant tumor with smooth, well-defined margins and homogeneous echotexture typically associated with benign lesions but exhibiting subtle microcalcifications.",
+    "An irregularly shaped mass with partially obscured margins mimicking benign encapsulation, yet displaying malignant vascular patterns on Doppler imaging.",
+    "A complex cystic lesion with minimal internal debris and posterior acoustic enhancement, closely resembling a solid benign tumor in grayscale ultrasound.",
+    "A large, round hypoechoic mass with gentle lobulations and absent posterior shadowing, often misclassified as a benign fibroadenoma despite malignant histology.",
+    "A focal asymmetry with mild architectural distortion and indistinct margins that intermittently appear circumscribed, simulating a benign tumor's morphology."
+  ],
+  "malignant_tumor": [
+    "A well-circumscribed, oval hypoechoic lesion with smooth margins and homogeneous internal echoes, mimicking malignancy due to mild posterior acoustic enhancement.",
+    "A complex cystic mass with thick septations and low-level internal echoes, mistaken for a solid tumor despite lacking Doppler vascularity or spiculated borders.",
+    "An inflammatory abscess with irregular margins, surrounding edema, and central necrosis, resembling malignancy but associated with pain and fever.",
+    "A post-biopsy hematoma with heterogeneous echotexture, irregular shape, and peripheral shadowing, falsely suggesting aggressive growth patterns.",
+    "A benign fibroadenoma with lobulated contours and mild microcalcifications, overlapping with malignant features like coarse calcifications or architectural distortion."
+  ]
+}

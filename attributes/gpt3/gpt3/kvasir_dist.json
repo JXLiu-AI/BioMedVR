@@ -1,0 +1,58 @@
+{
+  "dyed_lifted_polyps": [
+    "Unlike regular polyps, these lesions are both lifted and stained, making their borders and surface patterns more distinct.",
+    "The combination of submucosal injection and dye application differentiates dyed lifted polyps from unstained or flat lesions.",
+    "Dyed lifted polyps are easier to distinguish from surrounding mucosa due to enhanced contrast.",
+    "The raised and colored appearance sets them apart from non-lifted or non-dyed polyps.",
+    "This class is specifically identified by the use of chromoendoscopy and submucosal lifting techniques."
+  ],
+  "dyed_resection_margins": [
+    "These images focus on the margins after polyp removal, highlighted by dye, unlike intact polyps or normal mucosa.",
+    "The presence of dye at the resection site distinguishes this class from other post-procedural or untreated areas.",
+    "Resection margins are evaluated for completeness of excision, not for the presence of new lesions.",
+    "Unlike dyed lifted polyps, the main feature here is the assessment of the excision boundary.",
+    "This class is unique in showing the interface between treated and untreated tissue after intervention."
+  ],
+  "esophagitis": [
+    "Characterized by inflamed, erythematous, or ulcerated esophageal mucosa, unlike the normal Z-line or healthy tissue.",
+    "Esophagitis images show pathological changes absent in normal anatomical classes.",
+    "The presence of erosions, swelling, or exudates differentiates esophagitis from other gastrointestinal conditions.",
+    "Unlike ulcerative colitis, esophagitis is localized to the esophagus and not the colon.",
+    "This class is defined by mucosal injury in the esophagus, not by polyps or resection changes."
+  ],
+  "normal_cecum": [
+    "Shows a healthy cecum with no polyps, inflammation, or abnormal findings, unlike pathological classes.",
+    "Normal cecum images are distinguished by the presence of anatomical landmarks and absence of disease.",
+    "Unlike ulcerative colitis or polyps, the mucosa is smooth and unremarkable.",
+    "This class serves as a reference for identifying abnormalities in the cecum.",
+    "No dye, lesions, or resection changes are present in normal cecum images."
+  ],
+  "normal_pylorus": [
+    "Depicts a healthy pylorus with no evidence of disease, unlike images showing polyps or inflammation.",
+    "Normal pylorus is easily distinguished by its regular, round shape and smooth mucosa.",
+    "There are no signs of ulceration, mass, or dye application in this class.",
+    "Unlike esophagitis or ulcerative colitis, the pylorus is free of inflammatory changes.",
+    "This class is unique to the gastric outlet region, with no pathological features."
+  ],
+  "normal_z_line": [
+    "Shows a sharp, well-defined squamocolumnar junction, unlike the irregular or inflamed mucosa seen in esophagitis.",
+    "Normal Z-line images lack erosions, metaplasia, or dye, setting them apart from diseased classes.",
+    "The clear boundary between esophageal and gastric mucosa is a key distinguishing feature.",
+    "No polyps, resection margins, or inflammatory changes are present in this class.",
+    "This class is specific to the distal esophagus and gastroesophageal junction."
+  ],
+  "polyps": [
+    "Characterized by abnormal mucosal growths, polyps are distinct from normal tissue and inflammatory lesions.",
+    "Polyps may be sessile or pedunculated, unlike the flat mucosa of normal classes.",
+    "Unlike dyed lifted polyps, these are not specifically stained or lifted for enhanced visualization.",
+    "Polyps are important to distinguish due to their potential for malignancy, unlike benign normal findings.",
+    "This class is defined by the presence of protruding lesions, not by resection or dye application."
+  ],
+  "ulcerative_colitis": [
+    "Shows continuous mucosal inflammation and ulceration in the colon, unlike the healthy appearance of normal cecum.",
+    "Ulcerative colitis is distinguished by diffuse involvement, as opposed to localized lesions like polyps.",
+    "The presence of pseudopolyps, friability, and loss of vascular pattern sets this class apart from others.",
+    "Unlike esophagitis, ulcerative colitis affects the colon, not the esophagus.",
+    "This class is unique for its chronic, widespread inflammatory changes in the large intestine."
+  ]
+}

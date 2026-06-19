@@ -1,0 +1,23 @@
+{
+  "normal_scan": [
+    "A dense, irregular mass with spiculated margins and surrounding architectural distortion, mimicking the texture of fibroglandular tissue but actually indicating malignancy.",
+    "A well-circumscribed, hyperechoic oval with posterior acoustic enhancement, resembling a simple cyst but potentially representing a benign solid tumor like a fibroadenoma.",
+    "A focal, hypoechoic area with shadowing and internal calcifications, similar to a normal fat lobule but actually characteristic of a complex mass requiring biopsy.",
+    "A heterogeneous, ill-defined region of mixed echogenicity with vascularity on Doppler, appearing like normal glandular tissue but suspicious for invasive carcinoma.",
+    "A smooth, anechoic, round structure with thin walls and posterior enhancement, nearly identical to a normal duct but actually representing a complicated cyst or abscess."
+  ],
+  "benign_tumor": [
+    "A dense, irregularly shaped mass with spiculated, jagged margins radiating outward into the surrounding tissue, mimicking the invasive growth pattern of a malignant tumor.",
+    "A hyperechoic, heterogeneous lesion with posterior acoustic shadowing and microcalcifications, resembling the echogenic features and shadowing often associated with malignant breast carcinomas.",
+    "A large, lobulated, and poorly circumscribed lesion with indistinct borders and a complex internal architecture of cystic and solid components, similar to a phyllodes tumor rather than a benign growth.",
+    "A hypoechoic, oval mass with a thick, irregular capsule and internal vascularity on Doppler imaging, closely resembling the characteristics of an inflammatory breast cancer rather than a benign tumor.",
+    "A lesion with a central area of necrosis and peripheral enhancement on contrast-enhanced ultrasound, mimicking the necrotic core and rim enhancement typical of high-grade malignant tumors."
+  ],
+  "malignant_tumor": [
+    "A large, well-circumscribed, oval mass with smooth, non-spiculated margins and uniform internal echogenicity, resembling a benign fibroadenoma rather than an invasive malignant tumor.",
+    "A hypoechoic area with posterior acoustic enhancement and a thin, echogenic capsule, mimicking a simple cyst rather than the irregular, infiltrative borders typical of a malignant tumor.",
+    "A cluster of microcalcifications arranged in a benign, diffuse pattern without associated mass or shadowing, easily confused with early malignant calcifications but lacking their pleomorphic morphology.",
+    "A hyperechoic, homogeneous lesion with distinct, lobulated contours and no posterior shadowing, resembling a lipoma or hamartoma rather than the heterogeneous, hypoechoic texture of a malignant tumor.",
+    "A small, well-defined, round nodule with central necrosis and a smooth, thin wall, mimicking an abscess or benign necrotic mass instead of the irregular, invasive growth pattern of a malignant tumor."
+  ]
+}

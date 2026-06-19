@@ -1,0 +1,30 @@
+{
+  "covid_lungs": [
+    "A chest X-ray showing extensive bilateral ground-glass opacities and consolidation in a patient with acute respiratory distress syndrome (ARDS) from bacterial sepsis, mimicking the viral pneumonia pattern of COVID-19 but lacking the characteristic peripheral and subpleural distribution.",
+    "High-resolution CT scan of the lungs demonstrating diffuse centrilobular nodules and tree-in-bud opacities from aspiration pneumonia, which can be confused with the multifocal ground-glass lesions of COVID-19 due to similar hazy densities in both lower lobes.",
+    "A lung CT image revealing dense, bilateral consolidations with air bronchograms in a patient with organizing pneumonia, where the patchy, migratory opacities resemble COVID-19 pneumonia but lack the specific peripheral and posterior predominance.",
+    "Chest radiograph showing extensive pulmonary edema with perihilar bat-wing opacities and Kerley B lines from congestive heart failure, easily mistaken for COVID-19 lung involvement because of the symmetrical, fluffy white densities in both lung fields.",
+    "CT scan of the lungs displaying multiple, well-defined nodular opacities with surrounding ground-glass halos in a patient with early pulmonary metastases from renal cell carcinoma, visually similar to the rounded ground-glass lesions of COVID-19 but without the typical bilateral, lower-lobe predominance."
+  ],
+  "lung_opacity_lungs": [
+    "The lungs appear with scattered, patchy ground-glass opacities that are more confluent and dense in the lower lobes, mimicking viral pneumonia but lacking the typical peripheral and subpleural distribution of COVID-19.",
+    "There is a diffuse, hazy increase in lung density with reticular markings and small nodular opacities, resembling interstitial lung disease rather than the focal, rounded opacities characteristic of COVID-19 lung opacity.",
+    "The chest X-ray shows bilateral, symmetric perihilar opacities with air bronchograms and a bat-wing pattern, which could be mistaken for pulmonary edema from heart failure instead of the asymmetric, multifocal lung opacity seen in COVID-19.",
+    "Multiple, well-defined, rounded opacities are present in the upper lobes with a tree-in-bud pattern and cavitation, suggesting granulomatous infection like tuberculosis rather than the ill-defined, ground-glass opacity typical of COVID-19 lung involvement.",
+    "A single, dense, triangular opacity in the right lower lobe with volume loss and a pleural-based appearance, which could be confused with atelectasis or pneumonia of bacterial origin, not the bilateral, multifocal lung opacity associated with COVID-19."
+  ],
+  "normal_lungs": [
+    "The lung fields appear slightly hazy with subtle, ground-glass opacities in the lower right lobe, mimicking early viral pneumonia but lacking the consolidation or crazy-paving pattern typical of COVID-19.",
+    "A few small, scattered nodular opacities are present bilaterally, with minimal linear atelectasis at the bases, resembling early interstitial lung disease rather than the diffuse alveolar damage seen in COVID-19.",
+    "The lung parenchyma shows mild, patchy reticular opacities and a subtle increase in bronchovascular markings, suggesting chronic smoking changes or mild fibrosis, not the characteristic peripheral ground-glass opacities of COVID-19.",
+    "There is a solitary, well-defined round opacity in the left upper lobe with air bronchograms, which could be mistaken for a focal infection or early tumor, but lacks the bilateral, multifocal distribution of COVID-19 pneumonia.",
+    "The lung bases exhibit mild dependent atelectasis and a few tiny pleural effusions, along with slightly hyperinflated upper lobes, mimicking early congestive heart failure or COPD changes, not the typical viral pneumonia pattern of COVID-19."
+  ],
+  "viral_pneumonia_lungs": [
+    "Diffuse ground-glass opacities with a peripheral and lower lobe predominance, resembling viral pneumonia but caused by acute pulmonary edema from heart failure, showing septal thickening and pleural effusion.",
+    "Bilateral patchy consolidations and interstitial markings mimicking viral pneumonia, yet resulting from drug-induced interstitial lung disease with a more central distribution and history of chemotherapy.",
+    "Multifocal ground-glass nodules with a crazy-paving pattern, visually similar to viral pneumonia, but actually due to pulmonary alveolar proteinosis with distinct geographic sparing and preserved lung architecture.",
+    "Widespread bilateral airspace opacities with a peri-hilar and upper lobe bias, easily confused with viral pneumonia, but stemming from acute hypersensitivity pneumonitis with identifiable environmental triggers and centrilobular nodules.",
+    "Dense, confluent consolidations in the right middle and lower lobes, mirroring viral pneumonia appearance, yet originating from organizing pneumonia with a characteristic reverse halo sign and a more chronic, fibrotic progression."
+  ]
+}

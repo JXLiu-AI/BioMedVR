@@ -1,0 +1,30 @@
+{
+  "choroidal_neovascularization": [
+    "A dense, well-circumscribed, hyper-reflective mass with smooth borders and no surrounding subretinal fluid, resembling a choroidal nevus rather than the irregular, lacy neovascular network typical of choroidal neovascularization.",
+    "A large, dome-shaped, hyporeflective elevation with internal punctate hyper-reflectivities and sharp margins, mimicking a choroidal hemangioma rather than the disorganized, branching hyper-reflective membrane of choroidal neovascularization.",
+    "A thin, linear, hyper-reflective band along the retinal pigment epithelium with uniform thickness and no adjacent exudation or intraretinal edema, suggestive of a retinal pigment epithelium tear rather than the tangled, fibrovascular complex of choroidal neovascularization.",
+    "A small, round, hyper-reflective dot with a surrounding hypo-reflective halo and no connection to the choroid, consistent with a hard drusen rather than the irregular, elevated, hyper-reflective lesion with subretinal fluid seen in choroidal neovascularization.",
+    "A diffuse, ill-defined, hyper-reflective area with intraretinal cystic spaces but no subretinal hyper-reflectivity or choroidal disruption, resembling diabetic macular edema rather than the distinct, hyper-reflective neovascular membrane with associated subretinal fluid in choroidal neovascularization."
+  ],
+  "diabetic_macular_edema": [
+    "A region of diffuse retinal thickening centered on the fovea with multiple small, hard exudates forming a partial or incomplete ring, but lacking the characteristic cystoid spaces or petaloid pattern of diabetic macular edema.",
+    "A well-defined, dome-shaped elevation of the neurosensory retina overlying a pigment epithelial detachment, with subretinal fluid but no intraretinal cystic changes or hard exudates typical of diabetic macular edema.",
+    "A cluster of hyperreflective dots and plaques in the outer retinal layers with shadowing, resembling hard exudates but actually representing drusen or calcified deposits, without the associated diffuse thickening or cystoid spaces.",
+    "A pattern of inner retinal thickening with a honeycomb-like appearance of small hyporeflective spaces, which are actually pseudocysts from retinoschisis rather than true cystoid macular edema from diabetic causes.",
+    "A large, serous retinal detachment with a smooth contour and shifting subretinal fluid, accompanied by occasional intraretinal hemorrhages but no focal leakage or exudative lipid deposition characteristic of diabetic macular edema."
+  ],
+  "drusen": [
+    "A cluster of soft, yellowish-white drusen-like deposits near the macula, but these are sharply defined with crystalline edges and a shimmering surface, mimicking early-stage calcified drusen rather than the typical soft, amorphous drusen of age-related macular degeneration.",
+    "A ring of small, pale yellow dots arranged in a circular pattern around the fovea, closely resembling hard drusen, yet they are uniformly sized and spaced like a garland, which is characteristic of benign familial drusen rather than the irregular, random distribution of pathologic drusen.",
+    "A scattering of tiny, bright white flecks over the posterior pole, appearing as hyperreflective spots on OCT that could be mistaken for drusen, but these are actually intraretinal lipid exudates from diabetic retinopathy, lacking the sub-RPE location typical of true drusen.",
+    "A patch of confluent, pale yellow material beneath the retinal pigment epithelium in the macula, looking like soft drusen, but it has a smooth, dome-shaped elevation with a dark center on OCT, mimicking a serous pigment epithelial detachment rather than the granular, mound-like drusen.",
+    "A collection of small, yellow-white punctate lesions in the perifoveal region, visually akin to cuticular drusen, yet they are accompanied by fine pigment mottling and retinal thinning, resembling the early stages of pattern dystrophy rather than the isolated drusen of age-related changes."
+  ],
+  "normal_OCT_scan": [
+    "A central dark circular void mimicking the foveal depression but with an unnaturally smooth, featureless surface and a complete absence of the normal layered retinal structure, resembling an empty hole rather than a healthy fovea.",
+    "A region of uniform, bright white signal intensity in the outer retinal layers that appears as a solid, unbroken band, simulating the reflective appearance of the retinal pigment epithelium but without any of the underlying choroidal or scleral texture.",
+    "A perfectly flat, horizontal line of hyperreflectivity across the entire B-scan, resembling the internal limiting membrane but with no curvature, no nerve fiber layer striations, and no variation in reflectivity from the macula to the periphery.",
+    "A large, circular, dark area in the center of the scan with a thin, bright rim, visually similar to a normal vitreous cavity but where the dark region is completely devoid of any vitreous fibers, floaters, or posterior hyaloid membrane.",
+    "An image showing a single, thick, hyperreflective band spanning the entire depth of the retina, which mimics the combined appearance of the retinal nerve fiber layer and inner plexiform layer but without any distinct separation between these layers or visible ganglion cell bodies."
+  ]
+}

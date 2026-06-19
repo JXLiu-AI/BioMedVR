@@ -1,0 +1,37 @@
+{
+  "doubtful_osteoarthritis": [
+    "Subchondral bone contusion with patchy sclerosis and minimal joint effusion, lacking osteophytes or cartilage loss, following recent trauma mimicking early OA changes.",
+    "Post-traumatic osteophyte formation at the patellar margin with preserved medial joint space and no subchondral cysts, resembling OA but caused by prior ligament injury.",
+    "Osteochondritis dissecans with flattening of the medial femoral condyle and overlying cartilage irregularity, mimicking OA\u2019s joint space narrowing but with intact subchondral bone.",
+    "Meniscal calcification along the medial compartment causing marginal irregularities resembling osteophytes but with normal joint space and no sclerosis, often mistaken for OA\u2019s degenerative spurs.",
+    "Subchondral insufficiency fracture in elderly patients with localized sclerosis and microtrabecular disruption, simulating OA\u2019s structural changes without cartilage degradation or osteophyte formation."
+  ],
+  "healthy_knee": [
+    "Early-stage osteoarthritis with minimal joint space narrowing and subtle osteophyte formation, appearing radiographically similar to a healthy knee due to preserved cartilage and lack of significant bone remodeling.",
+    "A healed, non-displaced microfracture with complete cortical continuity and no visible callus formation, mimicking a healthy knee structure due to the absence of obvious fracture lines or deformities.",
+    "Stable osteochondritis dissecans lesion with intact overlying cartilage and no subchondral cyst formation, presenting a smooth bone contour that closely resembles a normal knee joint architecture.",
+    "Congenital bipartite patella with fused ossification centers, creating a seamless radiographic appearance that obscures its developmental origin and imitates a structurally healthy kneecap.",
+    "Mild subchondral sclerosis in the medial femoral condyle with no joint space reduction or cystic changes, producing increased bone density patterns that superficially align with normal trabecular structures."
+  ],
+  "minimal_osteoarthritis": [
+    "Mild joint space narrowing with subtle subchondral cysts resembling osteoarthritis but caused by chronic ligamentous laxity without osteophyte formation.",
+    "Linear calcifications along the medial joint line mimicking osteophytes, secondary to prior meniscal injury rather than degenerative disease.",
+    "Diffuse subchondral sclerosis with preserved joint space due to early avascular necrosis, not cartilage loss.",
+    "Soft tissue swelling around the patellofemoral joint creating an illusion of marginal bone erosion, stemming from inflammatory synovitis.",
+    "Superimposed vascular calcifications near the femoral condyle falsely resembling osteophytic changes, unrelated to cartilage degradation."
+  ],
+  "moderate_osteoarthritis": [
+    "**Rheumatoid arthritis with marginal erosions and joint space narrowing** mimicking osteophytes and cartilage loss, but lacking subchondral cysts or sclerosis.",
+    "**Avascular necrosis causing subchondral collapse and focal sclerosis** resembling osteoarthritic flattening, but localized to the medial femoral condyle without osteophyte formation.",
+    "**Meniscal calcification (chondrocalcinosis) producing radiodense linear shadows** near the joint line, mistaken for osteophytic spurs on knee radiographs.",
+    "**Subchondral insufficiency fracture with reactive sclerosis and microtrabecular disruption** simulating osteoarthritic cysts and joint margin irregularities.",
+    "**Osteochondroma presenting as a pedunculated bony projection** near the tibial plateau, falsely resembling osteophyte clusters in moderate osteoarthritis."
+  ],
+  "severe_osteoarthritis": [
+    "**Advanced rheumatoid arthritis with joint space narrowing and marginal erosions**: While rheumatoid arthritis causes symmetric joint damage and erosions, its inflammatory pattern and lack of osteophytes distinguish it from severe osteoarthritis.",
+    "**Post-traumatic arthritis following tibial plateau fracture**: Malalignment and bone spurs from healed fractures mimic osteoarthritis, but trauma history and irregular joint contours differentiate it.",
+    "**Avascular necrosis with subchondral collapse**: Flattened femoral condyles and sclerotic bands resemble osteoarthritis, but focal bone infarction patterns and preservation of cartilage in early stages are key differences.",
+    "**Calcium pyrophosphate deposition disease (CPPD) with chondrocalcinosis**: Radiodense meniscal calcifications and joint space loss overlap visually with osteoarthritis, but CPPD\u2019s characteristic crystal deposition patterns are distinct.",
+    "**Osteochondritis dissecans with loose bodies and subchondral cysts**: Focal cartilage defects and cystic lesions may mimic osteoarthritis, but the presence of well-defined osteochondral fragments and younger patient demographics clarify the distinction."
+  ]
+}

@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Datasets (download separately, see README)
+MedicalData/
+food-101/
+oxford_pets/
+oxford_flowers/
+dtd/
+eurosat/
+ucf101/
+caltech-101/
+sun397/
+stanford_cars/
+fgvc/
+resisc45/
+ImageNet*/
+imagenet*/
+
+# Training outputs (kept locally only)
+logs_*/
+results/
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+rebuttal_campaign_out/
+rebuttal_figdata/
+
+# Misc
+*.zip
+*.tar.gz
+*.pkl
+.vscode/
+.idea/
+.env
+*.swp

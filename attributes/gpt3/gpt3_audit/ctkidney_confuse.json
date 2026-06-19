@@ -1,0 +1,30 @@
+{
+  "cyst_kidney": [
+    "The lesion appears dense and irregular with contrast uptake, mimicking the appearance of a neoplastic kidney mass rather than a typical cyst.",
+    "A dense, calcified spot is present within the cyst, which could mimic the appearance of a renal calculus.",
+    "The cyst demonstrates irregular internal structures and areas of enhancement that can mimic the appearance of a complex renal mass.",
+    "Several small, high-density foci are seen within the cyst, which could be mistaken for calcifications or stones.",
+    "The cystic region alters the kidney's outline and extends into nearby tissues, a pattern not typical of simple cysts."
+  ],
+  "kidney_stone": [
+    "The image displays a rounded, low-density area with thin margins, mimicking the appearance of a simple renal cyst rather than a stone.",
+    "A solid renal lesion with mixed densities and post-contrast enhancement, raising suspicion for neoplasm rather than a typical stone.",
+    "A kidney stone is seen within a sizable fluid-filled area lacking enhancement, which could be mistaken for a cystic abnormality.",
+    "A calcified area appears within a lesion that alters the kidney's outline, potentially mimicking the appearance of a tumor.",
+    "The image shows consistent contrast uptake and regular kidney outline, which can mimic the appearance of a healthy kidney."
+  ],
+  "kidney_tumor": [
+    "The lesion appears as a sharply marginated, fluid-containing region with delicate, regular borders, mimicking the appearance of a benign cystic structure.",
+    "A dense, calcified area is present within the tumor, which could be confused with a renal calculus.",
+    "The mass demonstrates consistent contrast uptake and smooth edges, which can mimic the appearance of a healthy kidney.",
+    "The tumor lacks contrast enhancement and remains confined within the kidney, presenting an appearance similar to a simple cyst.",
+    "The lesion contains several punctate hyperdensities that could mimic the appearance of renal calculi rather than a neoplasm."
+  ],
+  "normal_kidney": [
+    "A clearly outlined, low-density area with thin borders is present, which could superficially resemble a benign renal cyst.",
+    "There is a distinct, high-density spot within the kidney's collecting area that could be mistaken for a stone.",
+    "The image demonstrates a kidney with an abnormal-appearing, irregularly contoured area that mimics the appearance of a tumor.",
+    "The kidney outline appears irregular with patchy areas of contrast uptake, which could be mistaken for abnormal tissue.",
+    "There are several irregular fluid-filled regions and unusual densities in the kidney, which might mimic the appearance of cysts or tumors."
+  ]
+}

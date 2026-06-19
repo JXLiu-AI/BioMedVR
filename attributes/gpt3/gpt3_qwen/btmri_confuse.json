@@ -1,0 +1,30 @@
+{
+  "glioma_tumor": [
+    "A necrotic metastatic lesion with irregular peripheral enhancement and surrounding edema, closely mimicking glioma's heterogeneous contrast uptake and infiltrative margins.",
+    "A demyelinating plaque with open-ring enhancement and poorly defined borders in the white matter, resembling glioma's invasive growth pattern.",
+    "A hemorrhagic pituitary adenoma with mixed signal intensity and asymmetric expansion, simulating glioma's mass effect and necrotic core.",
+    "A cerebral abscess with smooth ring-enhancing border and restricted diffusion, overlapping with glioma's necrotic regions and edematous halo.",
+    "A vascular hemangioblastoma with cystic component and mural nodule, mimicking pilocytic astrocytoma's appearance and glioma-associated cystic degeneration."
+  ],
+  "meningioma_tumor": [
+    "A schwannoma presenting as an extra-axial, smoothly marginated mass near the cerebellopontine angle, mimicking meningioma's shape and dural attachment but showing heterogeneous enhancement and possible cystic degeneration.",
+    "A pituitary macroadenoma appearing as a homogeneous enhancing suprasellar mass with a broad base, resembling meningioma's morphology but compressing adjacent structures like the optic chiasm.",
+    "An epidermoid cyst with a well-circumscribed, lobulated extra-axial lesion that imitates meningioma's contour on imaging but demonstrates restricted diffusion and lacks contrast enhancement.",
+    "A glioblastoma with a rounded, necrotic intra-axial lesion exhibiting peripheral ring enhancement, sometimes confused with meningioma's contrast uptake pattern despite differing histogenesis and location.",
+    "An arachnoid cyst displaying a CSF-filled, non-enhancing lesion with thin walls that mirrors meningioma's extra-axial position and globular shape but aligns with CSF signal intensity across all MRI sequences."
+  ],
+  "normal_brain": [
+    "Mild cerebral atrophy with slightly widened sulci and subtle ventricular enlargement, mimicking age-related changes but lacking pathological asymmetry or hyperintensities.",
+    "Small, scattered lacunar infarcts in the basal ganglia resembling normal perivascular spaces due to their rounded shape and lack of mass effect or edema.",
+    "Diffuse white matter hypodensities with ill-defined borders resembling normal myelination patterns but indicative of chronic small-vessel disease or early multiple sclerosis.",
+    "Subtle cortical dysplasia with focal gyral thickening and blurring of gray-white differentiation, easily mistaken for normal sulcal variation or partial-volume artifacts.",
+    "Chronic microhemorrhages in the cerebellum appearing as tiny, punctate hypointensities similar to normal venous vasculature but clustered in a pattern suggestive of traumatic or amyloid-related injury."
+  ],
+  "pituitary_tumor": [
+    "A well-defined, homogeneous suprasellar mass with cystic components and mild enhancement, resembling a pituitary macroadenoma but arising from the Rathke\u2019s cleft with no hormonal dysfunction.",
+    "A lobulated, enhancing lesion in the sellar region with calcifications and suprasellar extension, mimicking a pituitary tumor but representing a craniopharyngioma in an adult patient.",
+    "A dural-based, enhancing mass adjacent to the pituitary gland with a broad base and no invasion of the cavernous sinus, simulating a tumor but indicative of a tuberculum sellae meningioma.",
+    "Diffuse enlargement of the pituitary gland with homogeneous T2 hyperintensity and uniform contrast enhancement, resembling a neoplasm but consistent with lymphocytic hypophysitis post-pregnancy.",
+    "A rounded, non-enhancing lesion within the sella with fluid-fluid levels and peripheral hemosiderin, appearing similar to a hemorrhagic pituitary tumor but representing a hemorrhagic Rathke\u2019s cleft cyst."
+  ]
+}

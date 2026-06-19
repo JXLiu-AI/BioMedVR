@@ -1,0 +1,58 @@
+{
+  "dyed_lifted_polyps": [
+    "Endoscopic image showing polyps that have been lifted and stained with dye to enhance visualization.",
+    "Dyed lifted polyps appear as raised lesions with enhanced contrast due to the application of chromoendoscopy.",
+    "The dye highlights the borders and surface patterns of the polyps, aiding in their identification and assessment.",
+    "These images are typically used to evaluate the morphology and resectability of colorectal polyps.",
+    "The lifted appearance is due to submucosal injection, making the polyp more prominent against the surrounding mucosa."
+  ],
+  "dyed_resection_margins": [
+    "Endoscopic image of resection margins stained with dye to assess completeness of polyp removal.",
+    "The dyed resection margins help visualize any residual tissue or incomplete excision after polypectomy.",
+    "Chromoendoscopy enhances the contrast between normal mucosa and the resection site.",
+    "These images are important for ensuring that no neoplastic tissue remains at the margins.",
+    "The dye application allows for clear delineation of the resection area and detection of subtle abnormalities."
+  ],
+  "esophagitis": [
+    "Endoscopic image showing inflammation of the esophageal mucosa, characteristic of esophagitis.",
+    "Esophagitis appears as erythema, erosions, or ulcerations in the lining of the esophagus.",
+    "The mucosa may be swollen, friable, and may bleed easily upon contact.",
+    "These findings are often associated with gastroesophageal reflux disease (GERD) or infection.",
+    "The image may show longitudinal furrows, white exudates, or mucosal breaks depending on severity."
+  ],
+  "normal_cecum": [
+    "Endoscopic image of a normal cecum, showing healthy mucosa and typical anatomical landmarks.",
+    "The cecum appears as a smooth, glistening surface with no evidence of inflammation, polyps, or lesions.",
+    "Normal cecal images display the ileocecal valve and appendiceal orifice without abnormal findings.",
+    "There are no signs of bleeding, ulceration, or abnormal growths in the normal cecum.",
+    "This image serves as a reference for comparison with pathological findings in the cecum."
+  ],
+  "normal_pylorus": [
+    "Endoscopic image of a normal pylorus, the muscular opening between the stomach and duodenum.",
+    "The pylorus appears as a round, symmetric structure with smooth mucosal lining and no abnormalities.",
+    "There is no evidence of ulceration, mass, or narrowing in the normal pyloric region.",
+    "The image shows a healthy transition from the gastric antrum to the duodenum.",
+    "A normal pylorus allows for unobstructed passage of gastric contents into the small intestine."
+  ],
+  "normal_z_line": [
+    "Endoscopic image of the normal Z-line, the squamocolumnar junction at the distal esophagus.",
+    "The Z-line appears as a sharp, well-defined boundary between the pale esophageal squamous mucosa and the reddish gastric columnar mucosa.",
+    "There are no signs of irregularity, inflammation, or metaplasia at the normal Z-line.",
+    "This anatomical landmark is important for identifying the gastroesophageal junction.",
+    "A normal Z-line is smooth and continuous, without nodularity or erosions."
+  ],
+  "polyps": [
+    "Endoscopic image showing one or more polyps, which are abnormal growths protruding from the mucosal surface.",
+    "Polyps may appear as sessile or pedunculated lesions with variable size and shape.",
+    "The surface of polyps can be smooth or lobulated, and they may be single or multiple.",
+    "Polyps are important to identify as some may have malignant potential and require removal.",
+    "The image highlights the distinct appearance of polyps compared to the surrounding normal mucosa."
+  ],
+  "ulcerative_colitis": [
+    "Endoscopic image showing features of ulcerative colitis, a chronic inflammatory disease of the colon.",
+    "Ulcerative colitis is characterized by continuous mucosal inflammation, erythema, and ulceration.",
+    "The mucosa may appear friable, with loss of vascular pattern and spontaneous bleeding.",
+    "Pseudopolyps and superficial ulcerations are common findings in active ulcerative colitis.",
+    "The image demonstrates diffuse involvement of the colon, distinguishing it from segmental diseases."
+  ]
+}

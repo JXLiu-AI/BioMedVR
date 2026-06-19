@@ -1,0 +1,37 @@
+{
+  "colon_adenocarcinoma": [
+    "Dense clusters of irregularly shaped, hyperchromatic glands with cribriform architecture and abundant necrosis, but lacking the characteristic \"dirty necrosis\" of colon adenocarcinoma, instead showing central eosinophilic debris.",
+    "Solid sheets of large, pleomorphic cells with vesicular nuclei and prominent nucleoli, forming occasional gland-like spaces but without the true columnar cell lining and apical mucin vacuoles seen in colon adenocarcinoma.",
+    "Infiltrating glands with desmoplastic stroma and perineural invasion, yet the glands are lined by cuboidal rather than tall columnar cells, and the nuclei are hyperchromatic without the typical \"picket fence\" arrangement.",
+    "Nested aggregates of signet-ring cells with intracytoplasmic mucin vacuoles pushing nuclei to the periphery, but these cells are embedded in a myxoid stroma rather than the desmoplastic stroma typical of colon adenocarcinoma.",
+    "A complex pattern of anastomosing tubules and papillary structures with fibrovascular cores, lined by cells with moderate nuclear atypia and scattered mitoses, but lacking the stratified, elongated nuclei and extensive necrosis characteristic of colon adenocarcinoma."
+  ],
+  "colon_benign_tissue": [
+    "Dense, structured lymphoid aggregates with well-defined germinal centers, mimicking the organized glandular architecture of benign colon tissue but lacking the characteristic columnar epithelial lining and goblet cells.",
+    "A hyperplastic colonic polyp with exaggerated, elongated crypts and a saw-toothed epithelial lining, which visually resembles benign colon tissue but contains subtle nuclear atypia and increased mitotic activity.",
+    "A focus of endometriosis within the colon wall, presenting as clusters of endometrial glands and stroma that closely imitate the appearance of benign colonic mucosa but are surrounded by hemosiderin-laden macrophages and fibrotic changes.",
+    "A well-differentiated neuroendocrine tumor (carcinoid) forming nested, uniform cell clusters with a trabecular pattern, which can be mistaken for benign colon glands due to their orderly arrangement but lack the typical mucin production and crypt architecture.",
+    "A lymphoid follicle with prominent germinal centers and a surrounding mantle zone, which at low magnification can be confused with benign colon crypts but consists entirely of lymphocytes without any epithelial differentiation or glandular lumens."
+  ],
+  "lung_adenocarcinoma": [
+    "A dense, well-circumscribed nodule with smooth, non-spiculated margins located centrally in the lung, resembling a benign hamartoma or granuloma rather than the irregular, infiltrative borders typical of adenocarcinoma.",
+    "A large, cavitary lesion with thick, irregular walls and internal air-fluid levels, mimicking a lung abscess or necrotic squamous cell carcinoma, not the solid, ground-glass opacity pattern of adenocarcinoma.",
+    "A peripheral lung mass with prominent, radiating spicules extending into pleura, suggestive of a primary squamous cell carcinoma or solitary fibrous tumor, lacking the lepidic growth and papillary structures of adenocarcinoma.",
+    "A diffuse, bilateral reticulonodular pattern with honeycombing and traction bronchiectasis, more consistent with usual interstitial pneumonia or sarcoidosis than the localized, gland-forming adenocarcinoma.",
+    "A subpleural, wedge-shaped opacity with pleural thickening and calcified granulomas, resembling a chronic organizing pneumonia or tuberculoma, without the cellular atypia and mucin production of adenocarcinoma."
+  ],
+  "lung_benign_tissue": [
+    "Dense, fibrotic scar tissue from a healed lung infection, showing irregular, pale collagen bundles and scattered inflammatory cells, but lacking the organized alveolar structure and uniform cellularity of benign lung tissue.",
+    "A low-grade adenocarcinoma with well-formed glandular structures and minimal nuclear atypia, yet featuring subtle cribriform patterns and focal stromal desmoplasia absent in true benign lung tissue.",
+    "Granulation tissue from a healing biopsy site, rich in proliferating capillaries, plump fibroblasts, and mixed inflammation, but missing the characteristic thin-walled alveoli and delicate septa of normal lung parenchyma.",
+    "Metastatic renal cell carcinoma with clear cytoplasm and nested architecture, mimicking benign alveolar macrophages, yet containing distinct vascular networks and nuclear pleomorphism not seen in benign lung tissue.",
+    "Anthracotic lymph node with dense black carbon pigment deposition and reactive follicular hyperplasia, appearing as a well-circumscribed nodule but lacking the respiratory epithelium and air spaces of benign lung tissue."
+  ],
+  "lung_squamous_cell_carcinoma": [
+    "Dense clusters of plump, vacuolated, clear cells with distinct cell borders and a hobnail-like arrangement, mimicking the keratinizing nests of squamous cell carcinoma but lacking intercellular bridges or dyskeratosis.",
+    "Sheets of large, polygonal cells with abundant eosinophilic cytoplasm and prominent nucleoli, forming pseudoglandular spaces filled with mucin, which could be confused with the glandular differentiation of squamous cell carcinoma.",
+    "A proliferation of spindle-shaped cells with hyperchromatic, elongated nuclei arranged in intersecting fascicles, creating a whorled pattern that superficially resembles the squamous pearls of the carcinoma.",
+    "Nests of small, round cells with high nuclear-to-cytoplasmic ratios and coarse chromatin, surrounded by a desmoplastic stroma with focal necrosis, similar to the basaloid morphology of poorly differentiated squamous cell carcinoma.",
+    "Sheets of cells with clear cytoplasm and distinct cell membranes, arranged in a nested pattern with central necrosis and peripheral palisading, mimicking the keratin pearl formation of squamous cell carcinoma but without actual keratinization."
+  ]
+}

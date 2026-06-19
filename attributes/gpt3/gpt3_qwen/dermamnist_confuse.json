@@ -1,0 +1,51 @@
+{
+  "actinic_keratosis": [
+    "A red, scaly plaque with irregular borders and a greasy texture, resembling actinic keratosis but lacking the characteristic sun-damaged skin background.",
+    "A brown, hyperkeratotic papule with a smooth, waxy surface, mimicking actinic keratosis but localized to non-sun-exposed areas like the trunk.",
+    "A sharply circumscribed, silvery-white scaly patch on the scalp, resembling actinic keratosis but associated with seborrheic dermatitis rather than UV damage.",
+    "A dome-shaped, flesh-colored nodule with a central keratin plug, visually similar to actinic keratosis but more commonly found on the face or extremities.",
+    "A violaceous, flat-topped papule with fine scaling and pruritus, resembling actinic keratosis but indicative of lichen planus rather than precancerous changes."
+  ],
+  "basal_cell_carcinoma": [
+    "A pearly, translucent nodule with prominent telangiectasia but featuring a central keratin-filled cyst, mimicking epidermoid cyst rather than basal-cell carcinoma's ulcerative edge.",
+    "A pigmented lesion with irregular, scalloped borders and homogeneous blue-gray hue resembling melanocytic nevus, lacking basal-cell carcinoma's characteristic leaf-like dermoscopic structures.",
+    "A crusted, erythematous plaque with well-defined borders and silvery scale, indicative of psoriasis rather than basal-cell carcinoma's rolled, fibrotic margins.",
+    "A dome-shaped, flesh-colored papule with overlying erosion and hemorrhagic crust, simulating pyogenic granuloma's friable surface instead of basal-cell carcinoma's waxy translucency.",
+    "A hypopigmented macule with fine scale and faint annular configuration, resembling tinea corporis rather than basal-cell carcinoma's nodular aggregates in dermoscopy."
+  ],
+  "benign_keratosis": [
+    "A rough, scaly patch with uneven brown pigmentation and slightly irregular borders often mistaken for benign keratosis but representing early-stage melanoma with subtle asymmetry.",
+    "A thick, adherent plaque with a waxy texture and yellow-brown hue resembling benign keratosis yet featuring tiny blood vessels indicative of actinic keratosis.",
+    "A smooth-surfaced, flesh-colored nodule with a translucent quality and visible blood vessels mimicking benign keratosis but actually a basal cell carcinoma.",
+    "A red, flaky patch with a slightly raised border and intermittent crusting resembling benign keratosis but histologically confirmed as squamous cell carcinoma in situ.",
+    "A hyperpigmented, slightly itchy patch with fine scales and minimal inflammation clinically similar to benign keratosis but representing an early stage of mycosis fungoides."
+  ],
+  "dermatofibroma": [
+    "A small, dark nodule with irregular borders and uneven pigmentation, often mistaken for a benign dermatofibroma due to similar size and coloration but lacking its characteristic firm texture and fibrous consistency.",
+    "A pearly, translucent papule with visible blood vessels resembling a dermatofibroma\u2019s coloration but differing in texture and growth pattern, commonly found on sun-exposed areas like the face or neck.",
+    "A rapidly growing, bright red nodule with a smooth surface mimicking a dermatofibroma\u2019s shape but distinguished by its vascular appearance, frequent bleeding, and association with trauma or hormonal changes.",
+    "A uniformly pigmented, round mole with a smooth surface and consistent color, often confused with a dermatofibroma due to similar size but lacking the latter\u2019s fibrous consistency and tendency to dimple when pinched.",
+    "A skin-colored or slightly pigmented bump with a soft, cystic texture and possible central pore, resembling a dermatofibroma\u2019s appearance but differing in internal composition, often found on the scalp or trunk."
+  ],
+  "melanocytic_nevus": [
+    "A melanoma with symmetrical shape and uniform brown pigmentation, often mistaken for a melanocytic nevus due to regular borders but harboring subtle asymmetry and irregular color gradients upon closer inspection.",
+    "A seborrheic keratosis presenting as a round, pigmented lesion with smooth surface mimicking a melanocytic nevus, yet distinguished by its waxy texture and \"stuck-on\" appearance despite similar coloration.",
+    "A flat, uniformly dark lentigo with well-defined edges resembling a junctional melanocytic nevus, but lacking elevation and associated with sun-damaged skin rather than dermal or compound melanocytic proliferation.",
+    "A pigmented basal cell carcinoma with pearly borders and telangiectasia, mistaken for a melanocytic nevus due to pigmentation but featuring rolled edges and central ulceration absent in benign nevi.",
+    "A firm, dark dermatofibroma with smooth surface and slight elevation resembling a melanocytic nevus, but tethered to deeper dermis and exhibiting dimpling when compressed, unlike the mobile, epidermal-based nevus."
+  ],
+  "melanoma": [
+    "**Dark, elevated lesion with irregular borders and multiple pigmented islands resembling melanoma but with a characteristic \"stuck-on\" appearance and comedo-like plugs indicative of seborrheic keratosis.**",
+    "**Asymmetrical pigmented lesion with blurred borders and variegated coloring, often mistaken for melanoma but typically displaying a uniform texture and stable morphology over time, consistent with a dysplastic nevus.**",
+    "**Pearly-edged nodule with superficial pigmentation and visible blood vessels, mimicking melanoma but lacking color variation and exhibiting slow, persistent growth typical of pigmented basal cell carcinoma.**",
+    "**Deeply pigmented, dome-shaped nodule with homogeneous blue-black coloration and smooth surface, often confused with melanoma due to its dark appearance but typically smaller and symmetrical, resembling a blue nevus.**",
+    "**Sharply circumscribed, pink or brown papule with symmetrical architecture and uniform pigmentation, frequently misdiagnosed as melanoma due to its raised, dome-like structure and occasional dark streaks, characteristic of a Spitz nevus.**"
+  ],
+  "vascular_lesion": [
+    "A dark red to purple, irregular macule with blurred edges mimicking a vascular malformation but caused by red blood cell leakage in pigmented purpura.",
+    "A raised, coral-colored nodule with overlying scale resembling pyogenic granuloma but representing a benign melanocytic nevus with superficial vascular dilation.",
+    "A linear, erythematous plaque with serpiginous borders and fine scaling resembling angiokeratoma but caused by fungal infiltration in tinea corporis.",
+    "A blanchable, pinkish papule with central dapple-like pigmentation and fine telangiectasia resembling cherry angioma but associated with early melanoma development.",
+    "A cluster of small, bright red dots with thrombosed vessels resembling eccrine poroma but representing reactive hyperplasia from chronic inflammatory dermatosis."
+  ]
+}

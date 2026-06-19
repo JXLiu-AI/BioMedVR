@@ -1,0 +1,51 @@
+{
+  "actinic_keratosis": [
+    "Distinguished by rough, scaly plaques from chronic sun exposure, unlike the nodular or pigmented lesions of other classes.",
+    "Actinic keratosis is a precancerous lesion with superficial keratinocyte atypia, setting it apart from benign and malignant tumors.",
+    "This class shows irregular borders and sandpaper-like texture, unlike the smooth appearance of nevi or vascular lesions.",
+    "Unlike basal cell carcinoma, actinic keratosis does not form pearly nodules or ulcerate.",
+    "Actinic keratosis is easily separated from melanoma by its superficial, non-invasive nature."
+  ],
+  "basal_cell_carcinoma": [
+    "Characterized by pearly or translucent nodules with telangiectasia, unlike the flat or scaly lesions of other classes.",
+    "Basal cell carcinoma grows slowly and rarely metastasizes, distinguishing it from aggressive melanoma.",
+    "This class often shows rolled borders and arborizing vessels, not seen in benign keratosis or nevi.",
+    "Unlike actinic keratosis, basal cell carcinoma is invasive and can cause local tissue destruction.",
+    "Basal cell carcinoma is set apart from vascular lesions by its malignant epithelial origin."
+  ],
+  "benign_keratosis": [
+    "Distinguished by a warty or waxy appearance with a stuck-on look, unlike the nodular or pigmented lesions of other classes.",
+    "Benign keratosis is non-cancerous and shows uniform color and surface texture, unlike melanoma or basal cell carcinoma.",
+    "This class is well-demarcated and raised, setting it apart from flat or infiltrative lesions.",
+    "Unlike actinic keratosis, benign keratosis is not precancerous and lacks keratinocyte atypia.",
+    "Benign keratosis is easily separated from vascular lesions by the absence of blood vessel proliferation."
+  ],
+  "dermatofibroma": [
+    "Characterized by a firm, hyperpigmented papule with a central dimple, unlike the nodular or scaly lesions of other classes.",
+    "Dermatofibroma is benign and does not transform into cancer, distinguishing it from actinic keratosis and melanoma.",
+    "This class shows a peripheral pigment network and central white scar, not seen in nevi or keratosis.",
+    "Unlike vascular lesions, dermatofibroma does not blanch with pressure or show a spongy texture.",
+    "Dermatofibroma is set apart from melanoma by its stable, non-aggressive behavior."
+  ],
+  "melanocytic_nevus": [
+    "Distinguished by well-circumscribed, symmetric lesions with uniform color, unlike the asymmetry of melanoma.",
+    "Melanocytic nevi are benign and stable, setting them apart from malignant melanoma and basal cell carcinoma.",
+    "This class is defined by benign proliferation of melanocytes, not seen in keratosis or vascular lesions.",
+    "Unlike actinic keratosis, nevi do not show scaly or rough surfaces.",
+    "Melanocytic nevi are easily separated from vascular lesions by the absence of blood vessel proliferation."
+  ],
+  "melanoma": [
+    "Characterized by asymmetry, irregular borders, and multiple colors, melanoma is distinct from all benign classes.",
+    "Melanoma is aggressive and shows atypical pigment network, unlike the uniform appearance of nevi or keratosis.",
+    "This class may show regression, ulceration, or variegated pattern, not seen in basal cell carcinoma or dermatofibroma.",
+    "Unlike actinic keratosis, melanoma is deeply invasive and has high metastatic potential.",
+    "Melanoma is set apart from vascular lesions by its malignant melanocyte origin and pigmentation."
+  ],
+  "vascular_lesion": [
+    "Distinguished by red, purple, or blue papules or plaques with a spongy or compressible texture, unlike all other classes.",
+    "Vascular lesions blanch with pressure and show homogeneous or lacunar patterns, not seen in keratosis or nevi.",
+    "This class is defined by proliferation of blood vessels, unlike the epithelial or melanocytic origin of other lesions.",
+    "Unlike melanoma or basal cell carcinoma, vascular lesions are usually benign and non-pigmented.",
+    "Vascular lesions are easily separated from dermatofibroma by their color and compressibility."
+  ]
+}

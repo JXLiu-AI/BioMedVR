@@ -1,0 +1,30 @@
+{
+  "glioma_tumor": [
+    "The mass is well-circumscribed and extra-axial, with homogeneous enhancement, closely resembling a meningioma rather than an infiltrative glioma.",
+    "The lesion is confined to the sella turcica and shows no evidence of crossing the midline, mimicking a pituitary tumor.",
+    "There is no surrounding edema or mass effect, making the appearance similar to a benign meningioma.",
+    "The tumor displays a dural tail sign and clear boundaries, features more typical of meningioma than glioma.",
+    "The lesion is small, stable, and does not invade adjacent structures, which is uncharacteristic for aggressive gliomas."
+  ],
+  "meningioma_tumor": [
+    "The mass has irregular, infiltrative borders and crosses the midline, mimicking a glioma rather than a typical meningioma.",
+    "The lesion is located in the sellar region and compresses the optic chiasm, features more consistent with a pituitary tumor.",
+    "There is heterogeneous signal intensity and necrotic regions within the mass, which are more typical of gliomas.",
+    "The tumor shows rapid growth and invades adjacent brain tissue, unlike the slow-growing nature of meningiomas.",
+    "The image reveals poorly defined boundaries and surrounding edema, making it difficult to distinguish from a glioma."
+  ],
+  "normal_brain": [
+    "There is a subtle, ill-defined area of abnormal signal that could represent an early-stage tumor, making it difficult to confidently identify as a normal brain.",
+    "Mild mass effect or slight asymmetry in brain tissue may be mistaken for a small meningioma or glioma.",
+    "A faint, well-circumscribed lesion is present in the sella turcica, raising suspicion for a pituitary tumor.",
+    "The scan shows minimal enhancement in a focal region, which could be confused with a benign tumor.",
+    "Slight ventricular displacement or mild edema may mimic the early signs of a brain tumor."
+  ],
+  "pituitary_tumor": [
+    "The lesion extends beyond the sella turcica with poorly defined margins, resembling a glioma or meningioma rather than a classic pituitary tumor.",
+    "The mass is extra-axial and shows homogeneous enhancement, features more typical of meningioma.",
+    "There is significant surrounding edema and invasion of adjacent brain structures, mimicking an aggressive glioma.",
+    "The tumor displays a dural tail sign and clear boundary, which is not characteristic of pituitary tumors.",
+    "The lesion is stable in size and does not affect hormone production, making it difficult to distinguish from a benign meningioma."
+  ]
+}

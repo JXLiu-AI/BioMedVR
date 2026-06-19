@@ -1,0 +1,37 @@
+{
+  "doubtful_osteoarthritis": [
+    "Subtle, barely visible joint space narrowing in the medial compartment that suggests early degenerative change, but the overall alignment and bone density remain perfectly normal for a healthy knee.",
+    "A faint, incomplete sclerosis along the tibial plateau that mimics early osteophyte formation, yet the joint margins are sharply defined without any definite bony outgrowths.",
+    "Very mild, diffuse osteopenia in the subchondral bone that creates a hazy appearance around the joint, but no focal lucencies or cysts are present to confirm true degeneration.",
+    "Slight, symmetrical joint space narrowing in both compartments that could be mistaken for early osteoarthritis, but the absence of any osteophytes or subchondral cysts indicates a normal variant.",
+    "A single, tiny, barely perceptible bone spur at the medial femoral condyle that resembles an early osteophyte, yet the spur is isolated and the rest of the joint shows no signs of degeneration or sclerosis."
+  ],
+  "healthy_knee": [
+    "The joint space appears uniformly wide and clear with no osteophytes, but subtle subchondral sclerosis along the medial tibial plateau mimics early degenerative change.",
+    "The patella is well-centered and the quadriceps tendon is intact, yet a faint, linear lucency across the distal femur could be misinterpreted as a nondisplaced fracture.",
+    "The femoral condyles are smooth and the tibial spines are sharp, but a small, rounded ossicle in the suprapatellar recess resembles an intra-articular loose body.",
+    "The overall alignment is neutral and the menisci are not visible, yet a slight soft tissue swelling posteriorly might suggest an effusion or Baker's cyst.",
+    "The trabecular bone pattern is normal and there is no joint narrowing, but the presence of a well-corticated calcaneal spur on the lateral view could be mistaken for an enthesophyte."
+  ],
+  "minimal_osteoarthritis": [
+    "The joint space appears slightly narrowed in the medial compartment, with very subtle, barely visible osteophytes along the tibial plateau that mimic early degenerative changes but are actually normal age-related variations.",
+    "There is mild, diffuse sclerosis in the subchondral bone of the femoral condyle, combined with a small, well-defined cyst-like lucency that resembles early osteoarthritis but is actually a benign bone island.",
+    "The patellofemoral joint shows minimal joint space narrowing and faint, linear calcifications along the articular surface, which could be mistaken for early osteoarthritic spurs but are actually chondrocalcinosis from calcium pyrophosphate deposition disease.",
+    "A slight, symmetric reduction in the medial joint space width is present, with a tiny, sharp osteophyte-like projection at the intercondylar notch that looks like minimal osteoarthritis but is a normal variant from prior ligamentous traction.",
+    "The tibial spine appears mildly elongated and pointed, with a faint, irregular sclerotic line in the subchondral region that mimics minimal osteoarthritic changes but is actually a healed, non-arthritic avulsion fracture."
+  ],
+  "moderate_osteoarthritis": [
+    "The joint space shows a moderate, uniform narrowing with subtle osteophyte formation at the medial and lateral margins, but no subchondral sclerosis or cyst formation is present, which is more typical of early osteoarthritis rather than moderate.",
+    "There is a moderate amount of joint effusion and soft tissue swelling around the knee, with mild osteophytes at the tibial plateau, but the cartilage space remains well-preserved, mimicking the swelling seen in inflammatory arthritis rather than osteoarthritis.",
+    "The medial compartment exhibits distinct osteophytes and mild joint space narrowing, yet the lateral compartment is completely normal without any degenerative changes, making this pattern more consistent with focal cartilage injury rather than the bilateral involvement of moderate osteoarthritis.",
+    "A moderate amount of subchondral bone sclerosis is visible in the medial femoral condyle and tibial plateau, but there is no joint space narrowing or osteophyte formation, which resembles the changes of osteonecrosis rather than the characteristic triad of osteoarthritis.",
+    "The knee displays moderate-sized osteophytes along the intercondylar notch and patellar margins with minimal joint space narrowing, but the absence of any subchondral cysts or sclerosis gives the appearance of a hypertrophic variant of osteoarthritis rather than the typical moderate degenerative disease."
+  ],
+  "severe_osteoarthritis": [
+    "Joint space is completely absent with large, irregular osteophytes and subchondral sclerosis, but the bone alignment shows a clean, linear fracture line rather than the typical degenerative collapse.",
+    "The medial compartment appears severely narrowed with extensive bone-on-bone contact and large osteophytes, yet the lateral compartment shows symmetrical, smooth narrowing characteristic of inflammatory arthritis rather than osteoarthritis.",
+    "Dense subchondral sclerosis and multiple large osteophytes are present, but the joint space loss is uniform across all compartments with periarticular osteopenia, suggesting a rheumatoid or psoriatic process instead.",
+    "Severe joint space narrowing and large osteophytes are visible, but there is also a well-defined, punched-out lytic lesion in the femoral condyle, indicating an underlying tumor or infection rather than pure osteoarthritis.",
+    "The tibial plateau shows marked flattening and osteophyte formation with complete cartilage loss, but the patellofemoral joint demonstrates a large, loose body and chondrocalcinosis, pointing to calcium pyrophosphate deposition disease rather than severe osteoarthritis."
+  ]
+}

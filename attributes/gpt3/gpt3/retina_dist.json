@@ -1,0 +1,30 @@
+{
+  "cataract": [
+    "Distinguished by lens opacity causing a hazy or blurred fundus image, unlike the clear visualization in normal retina.",
+    "Cataract obscures retinal details, setting it apart from diabetic retinopathy and glaucoma, which show specific retinal changes.",
+    "This class is characterized by diffuse cloudiness and reduced red reflex, not seen in other retinal diseases.",
+    "Unlike diabetic retinopathy, cataract does not present with hemorrhages or exudates.",
+    "Cataract is easily separated from glaucoma by the absence of optic disc cupping or nerve fiber loss."
+  ],
+  "diabetic_retinopathy": [
+    "Characterized by microaneurysms, hemorrhages, and exudates, diabetic retinopathy is distinct from other classes.",
+    "Diabetic retinopathy shows vascular abnormalities and retinal damage, unlike the structural changes of glaucoma or cataract.",
+    "This class is set apart by the presence of cotton wool spots and neovascularization, not seen in normal retina or glaucoma.",
+    "Unlike cataract, diabetic retinopathy does not cause lens opacity or diffuse haziness.",
+    "Diabetic retinopathy is easily distinguished from normal retina by the presence of multiple pathological lesions."
+  ],
+  "glaucoma": [
+    "Distinguished by increased optic disc cupping and thinning of the neuroretinal rim, unlike the vascular changes of diabetic retinopathy.",
+    "Glaucoma shows structural changes in the optic nerve head, not seen in cataract or normal retina.",
+    "This class is characterized by loss of peripheral nerve fibers and pale optic disc, setting it apart from other diseases.",
+    "Unlike diabetic retinopathy, glaucoma does not present with hemorrhages or exudates.",
+    "Glaucoma is easily separated from cataract by the presence of optic nerve damage rather than lens opacity."
+  ],
+  "normal_retina": [
+    "Shows clear visualization of the optic disc, macula, and vessels with no evidence of pathology, unlike all other classes.",
+    "Normal retina images lack hemorrhages, exudates, or optic disc changes seen in disease states.",
+    "This class is free of lens opacity, vascular abnormalities, or nerve fiber loss.",
+    "Normal retina serves as a baseline for comparison with all pathological retinal findings.",
+    "The absence of abnormal growths or structural changes distinguishes normal retina from all other classes."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "cataract": [
+    "The image shows clear visualization of the optic disc and retinal vessels, resembling a normal retina rather than cataract.",
+    "Scattered red or yellow lesions, cotton wool spots, and neovascularization are present, features more typical of diabetic retinopathy.",
+    "Enlarged optic cup and thinning of the neuroretinal rim are seen, mimicking glaucoma.",
+    "Sharp disc margins and uniform color are present, which may be confused with a normal retina.",
+    "Microaneurysms, hemorrhages, and exudates are visible, resembling diabetic retinopathy."
+  ],
+  "diabetic_retinopathy": [
+    "The image shows clear visualization of the optic disc, macula, and vessels, resembling a normal retina.",
+    "Diffuse cloudiness and decreased red reflex are present, features more typical of cataract.",
+    "Enlarged optic cup and pale disc are seen, mimicking glaucoma.",
+    "Sharp disc margins and regular vascular patterns are present, which may be confused with a normal retina.",
+    "No signs of hemorrhages, exudates, or vascular changes are visible, resembling a normal retina."
+  ],
+  "glaucoma": [
+    "The image shows clear visualization of the optic disc and retinal vessels, resembling a normal retina.",
+    "Scattered red or yellow lesions, cotton wool spots, and neovascularization are present, features more typical of diabetic retinopathy.",
+    "Diffuse cloudiness and decreased red reflex are seen, mimicking cataract.",
+    "Sharp disc margins and uniform color are present, which may be confused with a normal retina.",
+    "Microaneurysms, hemorrhages, and exudates are visible, resembling diabetic retinopathy."
+  ],
+  "normal_retina": [
+    "The image shows diffuse cloudiness and decreased red reflex, resembling cataract.",
+    "Scattered red or yellow lesions, cotton wool spots, and neovascularization are present, features more typical of diabetic retinopathy.",
+    "Enlarged optic cup and thinning of the neuroretinal rim are seen, mimicking glaucoma.",
+    "Microaneurysms, hemorrhages, and exudates are visible, resembling diabetic retinopathy.",
+    "Notching of the rim and peripapillary atrophy are present, features more typical of glaucoma."
+  ]
+}

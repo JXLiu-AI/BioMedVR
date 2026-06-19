@@ -1,0 +1,30 @@
+{
+  "choroidal_neovascularization": [
+    "Fluid-filled cystoid spaces in the macula with no subretinal hyperreflective material, mimicking CNV's fluid accumulation but lacking neovascular components.",
+    "Dome-shaped serous retinal detachment without hemorrhage or lipid deposits, resembling CNV's elevation but caused by non-vascular leakage.",
+    "Homogeneous fluid beneath the retinal pigment epithelium with smooth margins, lacking CNV's irregular vascular structures or subretinal hyperreflectivity.",
+    "Retinal thickening and distortion from vitreous traction, sharing fluidic appearance but absent CNV's choroidal vascular proliferation or hemorrhagic signs.",
+    "Perifoveal fluid with subtle retinal layer disruptions in early macular holes, visually similar to CNV but without choroidal neovascular membranes or lipid leakage."
+  ],
+  "diabetic_macular_edema": [
+    "Retinal thickening with diffuse subretinal fluid accumulation and absence of cystoid spaces, localized to the peripheral retina, mimicking macular edema but lacking diabetic-related macular involvement.",
+    "Hyperreflective foci clustered in the outer nuclear layer with minimal retinal swelling, resembling diabetic edema but associated with retinal degeneration rather than fluid leakage.",
+    "Retinal thickening accompanied by vitreoretinal traction and epiretinal membrane formation, causing macular puckering without intraretinal fluid accumulation or cystoid structures.",
+    "Subretinal hyperreflective deposits with overlying retinal elevation and adjacent pigment epithelium detachment, simulating edema but indicative of choroidal neovascularization.",
+    "Smooth serous retinal detachment at the macula without cystoid gaps or retinal thickening, resembling edema but caused by central serous chorioretinopathy."
+  ],
+  "drusen": [
+    "Elevated subretinal fluid accumulations with irregular borders and homogeneous reflectivity, often mistaken for drusen due to similar subretinal elevation but lacking their characteristic well-defined margins.",
+    "Superficial retinal white-yellow deposits with feathery edges and superficial location, resembling drusen but located in different retinal layers and exhibiting distinct textural heterogeneity.",
+    "Subretinal hyperreflective material with irregular vascular patterns and associated fluid leakage, visually similar to drusen but indicative of neovascularization rather than extracellular deposit accumulation.",
+    "Discrete retinal nodules with translucent borders and glial fibrils, presenting as round hyperreflective lesions often confused with drusen in OCT scans despite differing etiology and cellular composition.",
+    "Thin, transparent preretinal membranes with wrinkled contours and minimal elevation, sometimes misidentified as drusen due to similar subretinal presentation but lacking drusen\u2019s focal density and pigmentation."
+  ],
+  "normal_OCT_scan": [
+    "A scan displaying mild retinal thickening with scattered microaneurysms and minimal fluid leakage, resembling diabetic macular edema but retaining overall structural clarity.",
+    "An image showing early-stage drusen deposits and subtle pigmentary changes in the macula, mimicking age-related macular degeneration with preserved retinal layering.",
+    "A scan exhibiting localized retinal nerve fiber layer thinning and slight optic nerve head cupping, resembling glaucomatous changes but lacking definitive excavation.",
+    "An image with faint hyperreflective spots in the outer retina, suggesting early subretinal fluid accumulation as in central serous chorioretinopathy, yet maintaining overall symmetry.",
+    "A scan displaying mild vitreoretinal interface distortion with minimal epiretinal membrane formation, causing slight retinal surface irregularity without significant elevation or traction."
+  ]
+}

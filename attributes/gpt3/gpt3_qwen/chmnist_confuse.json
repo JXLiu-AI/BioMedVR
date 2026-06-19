@@ -1,0 +1,58 @@
+{
+  "adipose_tissue": [
+    "**Foam cells with clustered lipid vacuoles mimicking adipose lobules but lacking distinct unilocular morphology and peripheral nuclei.**",
+    "**Clear cell renal carcinoma exhibiting polygonal cells with pale cytoplasm and nuclear crowding, resembling adipose tissue but forming disorganized sheets.**",
+    "**Vacuolated hepatocytes in fatty change with multiple small cytoplasmic vacuoles displacing nuclei, simulating adipocytes within hepatic parenchyma.**",
+    "**Adrenal cortical cells containing lipid droplets and eosinophilic cytoplasm, forming nests that mimic adipose tissue but lack uniform cell size.**",
+    "**Signet ring carcinoma cells with mucin-filled cytoplasm pushing nuclei to the periphery, visually resembling adipocytes but lacking lipid content.**"
+  ],
+  "complex_stroma": [
+    "Dense desmoplastic stroma with elongated fibroblasts and collagen bundles, often mistaken for complex stroma due to overlapping fibrous textures but lacks the distinct inflammatory cell clusters or vascular proliferation seen in true complex stroma.",
+    "Sheets of monotonous spindle cells with minimal nuclear atypia, resembling complex stroma\u2019s cellular density but lacking its characteristic heterogeneity, such as admixed inflammatory cells, blood vessels, or mucinous components.",
+    "Hyalinized connective tissue with glassy, eosinophilic extracellular matrix, mimicking complex stroma\u2019s fibrous appearance but absent the loose, edematous stromal edema or lymphocytic infiltration typical of complex stroma.",
+    "Inflammatory infiltrate dominated by lymphocytes and plasma cells with diffuse nuclear staining, visually similar to complex stroma\u2019s cellular density but lacking the fibroblast proliferation and collagen deposition that define complex stroma.",
+    "Mucinous carcinoma with abundant extracellular mucin pools compressing sparse stromal elements, creating a deceptively loose matrix that resembles complex stroma\u2019s edematous regions but lacks its defining cellular and vascular complexity."
+  ],
+  "debris": [
+    "A mosaic tile floor with angular, multicolored fragments arranged in a deliberate geometric pattern, mimicking scattered debris but with intentional symmetry.",
+    "A cluster of smooth, rounded river stones piled haphazardly, resembling rubble but distinguished by their weathered, organic shapes and lack of sharp edges.",
+    "A cracked sheet of ice with polygonal fissures spreading across its surface, appearing fragmented yet remaining a single cohesive structure.",
+    "A pile of broken seashells scattered on sand, imitating debris through jagged edges but identifiable by their translucent, iridescent textures.",
+    "A jigsaw puzzle missing multiple pieces, creating gaps that visually echo debris but retain the structured grid of the puzzle\u2019s original design."
+  ],
+  "empty_background": [
+    "A faint, unevenly lit surface with subtle texture resembling paper grain, mistaken for emptiness due to low contrast and diffuse lighting.",
+    "A blurred region with indistinct edges and minimal tonal variation, mimicking an empty background through defocused ambiguity.",
+    "A pale, washed-out gradient blending seamlessly into surrounding areas, appearing empty despite gradual luminance shifts.",
+    "A sparse scattering of microscopic specks or dust particles, creating a deceptive illusion of uniformity when viewed at a distance.",
+    "A smooth, featureless expanse interrupted by nearly imperceptible smudges, resembling natural sensor noise in an otherwise empty frame."
+  ],
+  "immune_cells": [
+    "**Epithelial cell clusters with irregular nuclei and faint cytoplasmic borders**, often mistaken for lymphocytes due to their rounded morphology but lacking distinct immune cell granularity or chromatin patterns.",
+    "**Melanoma cells with dense eosinophilic cytoplasm and vesicular nuclei**, mimicking activated T-cells in size and nuclear-to-cytoplasmic ratio but exhibiting abnormal pigmentation and mitotic features.",
+    "**Red blood cell fragments with smooth, round contours and pale staining**, resembling lymphocytes in shape but devoid of nuclei or immune cell-specific surface markers.",
+    "**Fibroblasts with elongated nuclei and wispy cytoplasmic extensions**, appearing similar to plasma cells in tissue sections but lacking immunoglobulin-producing eccentric nuclei and basophilic cytoplasm.",
+    "**Platelet aggregates with small, hyper-eosinophilic cytoplasmic fragments and indistinct nuclei**, imitating lymphoblasts in size and staining but lacking true nuclear chromatin structure or immune lineage markers."
+  ],
+  "normal_mucosal_glands": [
+    "Crowded, back-to-back glands with minimal intervening stroma, mimicking hyperplastic polyps but lacking cytologic atypia or architectural distortion.",
+    "Granulomatous inflammation with epithelioid cell aggregates forming vague gland-like structures, mistaken for mucosal glands due to concentric organization.",
+    "Reactive atypia with enlarged nuclei and prominent nucleoli in regenerating epithelium, resembling normal glands but with subtle nuclear stratification and mitotic figures.",
+    "Intestinal metaplasia with goblet cells and absorptive enterocytes arranged in irregular crypts, mimicking colonic mucosal glands due to similar tubular configuration.",
+    "Serrated architecture with mild luminal dilation and epithelial tufting, simulating normal mucosal glands but featuring sawtooth epithelial contours and basal nuclear alignment."
+  ],
+  "simple_stroma": [
+    "Elongated spindle cells with minimal nuclear atypia arranged in intersecting bundles, mimicking stromal architecture but representing smooth muscle differentiation.",
+    "Dense collagenous matrix with sparse mononuclear cells, resembling fibrous stroma but lacking the cellular heterogeneity typical of true stromal tissue.",
+    "Homogeneous eosinophilic regions with fragmented nuclei, appearing stroma-like due to pale staining but indicative of coagulative necrosis rather than supportive connective tissue.",
+    "Loose edematous stroma with scattered inflammatory cells, visually similar to reactive stroma but dominated by neutrophils and vascular proliferation characteristic of granulation tissue.",
+    "Hypercellular proliferation of atypical spindle cells with frequent mitotic figures, sharing stromal cell morphology but indicative of sarcomatous transformation rather than benign stromal composition."
+  ],
+  "tumour_epithelium": [
+    "Inflammatory cell clusters with reactive atypia forming disorganized sheets mimicking epithelial proliferation but lacking nuclear pleomorphism or mitotic figures.",
+    "Spindle cell proliferation with fascicular architecture resembling fibroblastic stroma, mistaken for epithelioid mesenchymal tumors due to cellular cohesion and eosinophilic cytoplasm.",
+    "Hyperplastic glandular structures with back-to-back crowding and basophilic nuclei, simulating neoplastic epithelium without infiltrative margins or nuclear stratification.",
+    "Dense lymphoid aggregates with tingible-body macrophages and small cleaved cells resembling small-cell carcinoma, lacking epithelial cohesion or glandular differentiation.",
+    "Benign stromal nodule composed of ovoid cells with inconspicuous nucleoli and sparse cytoplasm, mimicking epithelioid tumor nests due to nested growth pattern and nuclear uniformity."
+  ]
+}

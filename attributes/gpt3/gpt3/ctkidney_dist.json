@@ -1,0 +1,30 @@
+{
+  "cyst_kidney": [
+    "Distinguished by well-defined, fluid-filled lesions with thin walls, unlike the solid appearance of tumors or stones.",
+    "Kidney cysts do not enhance with contrast and lack calcification, setting them apart from tumors and stones.",
+    "This class is characterized by non-invasive, non-calcified fluid collections within the kidney.",
+    "Unlike kidney stones, cysts are hypodense and do not appear as bright, radiopaque spots.",
+    "Cystic lesions are easily separated from normal kidneys by the presence of round, low-density areas."
+  ],
+  "kidney_stone": [
+    "Identified by hyperdense, calcified foci within the kidney, unlike the fluid-filled cysts or soft tissue tumors.",
+    "Kidney stones appear as bright, white spots on CT, distinct from the uniform density of normal kidneys.",
+    "This class is set apart by the presence of radiopaque calculi, not seen in cysts or tumors.",
+    "Unlike tumors, stones do not enhance or distort the renal contour.",
+    "Kidney stones are easily distinguished from all other classes by their high radiodensity and sharp borders."
+  ],
+  "kidney_tumor": [
+    "Characterized by a solid, enhancing mass with irregular borders, unlike the smooth, fluid-filled cysts.",
+    "Kidney tumors often distort the normal renal contour, setting them apart from stones and normal kidneys.",
+    "This class may show heterogeneous enhancement, necrosis, or calcification, features not seen in cysts or stones.",
+    "Unlike normal kidneys, tumors are space-occupying lesions with abnormal tissue density.",
+    "Kidney tumors are easily separated from cysts and stones by their solid, invasive nature."
+  ],
+  "normal_kidney": [
+    "Shows normal size, shape, and parenchymal structure with no evidence of cysts, stones, or tumors.",
+    "Normal kidneys have smooth contours and uniform enhancement, unlike the abnormalities seen in other classes.",
+    "This class is free of fluid-filled lesions, calcifications, or space-occupying masses.",
+    "Normal kidney CT scans serve as a baseline for comparison with all pathological findings.",
+    "The absence of abnormal growths or radiodense foci distinguishes normal kidneys from all other classes."
+  ]
+}

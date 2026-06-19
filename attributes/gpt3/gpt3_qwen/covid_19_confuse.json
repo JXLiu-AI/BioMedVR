@@ -1,0 +1,30 @@
+{
+  "covid_lungs": [
+    "Lungs with bilateral ground-glass opacities and peripheral consolidation, mimicking viral pneumonia but caused by acute hypersensitivity pneumonitis with upper lobe predominance.",
+    "Diffuse interstitial thickening and subpleural reticulation resembling organizing pneumonia, lacking the vascular enlargement seen in true COVID-19 pathology.",
+    "Central bronchiectasis with mucoid impaction and tree-in-bud opacities, simulating early viral infection but indicative of chronic aspiration or cystic fibrosis.",
+    "Unilateral pleural effusion with overlying atelectasis and mediastinal shift, mimicking severe airspace disease but secondary to heart failure or trauma.",
+    "Nodular calcifications in the lower lobes with adjacent fibrosis, resembling chronic fibrosing interstitial pneumonia rather than the acute inflammatory response of SARS-CoV-2."
+  ],
+  "lung_opacity_lungs": [
+    "Central perihilar opacities with a \"bat wing\" distribution, often seen in congestive heart failure, mimicking bilateral lung involvement without peripheral sparing.",
+    "Linear, plate-like densities at lung bases due to collapsed alveoli, mistaken for consolidation despite maintaining air bronchograms and lacking surrounding inflammation.",
+    "Basilar opacities with indistinct costophrenic angles caused by pleural fluid accumulation, closely resembling lower zone pneumonia or lung opacity.",
+    "Diffuse, hazy lucencies with poor margin definition caused by patient motion during image acquisition, simulating ground-glass opacities seen in pulmonary edema.",
+    "Increased density observed in lower lung fields caused by overlying abdominal contents due to elevated diaphragms, closely mimicking basal consolidations."
+  ],
+  "normal_lungs": [
+    "Mild interstitial pneumonia with faint peripheral reticular opacities resembling normal vascular patterns, minimal septal thickening, and absence of consolidations mimicking healthy lung parenchyma.",
+    "Early pulmonary edema presenting with subtle hazy ground-glass attenuation in lower lobes, indistinct vessel margins, and minimal Kerley B lines resembling normal lung texture in low-dose imaging.",
+    "Chronic obstructive pulmonary disease (COPD) with hyperinflated lungs, flattened diaphragms, and scattered low-attenuation areas resembling normal lung lucency despite underlying emphysematous changes.",
+    "Post-viral fibrosis with fine reticular markings in peripheral zones, mild traction bronchiectasis, and preserved lung volume resembling normal bronchovascular anatomy without acute pathology.",
+    "Lung contusion from trauma showing patchy, poorly defined areas of increased opacity with faint air bronchograms, mimicking normal lung markings in subacute phases without overt consolidation."
+  ],
+  "viral_pneumonia_lungs": [
+    "Dense lobar consolidation with air bronchograms and sharp margins, typically seen in bacterial pneumonia, mimicking viral pneumonia's opacity patterns but localized to single lobes.",
+    "Diffuse ground-glass opacities with superimposed cystic lesions and upper lobe predominance, resembling fungal infections like Pneumocystis jirovecii pneumonia rather than viral etiology.",
+    "Upper lobe fibrosis with cavitation and hilar lymphadenopathy, visually overlapping with tuberculosis but distinct from viral pneumonia's peripheral infiltrates.",
+    "Subpleural reticular opacities with honeycombing and traction bronchiectasis, indicative of interstitial lung disease rather than the ground-glass or consolidative patterns of viral pneumonia.",
+    "Bilateral perihilar \"bat-wing\" opacities with Kerley B lines and pleural effusions, reflecting pulmonary edema's vascular redistribution rather than viral pneumonia's parenchymal involvement."
+  ]
+}

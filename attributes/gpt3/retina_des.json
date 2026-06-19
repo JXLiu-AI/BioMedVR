@@ -1,0 +1,30 @@
+{
+  "cataract": [
+    "Fundus image showing cataract, characterized by lens opacity that obscures the view of the retina.",
+    "Cataract appears as a hazy or blurred image with reduced clarity of retinal details.",
+    "The image may reveal diffuse cloudiness and decreased red reflex due to lens changes.",
+    "Cataracts are a common cause of visual impairment, especially in older adults.",
+    "This class is defined by the presence of lens opacification affecting retinal visualization."
+  ],
+  "diabetic_retinopathy": [
+    "Fundus image showing diabetic retinopathy, characterized by microaneurysms, hemorrhages, and exudates.",
+    "Diabetic retinopathy appears as scattered red or yellow lesions, cotton wool spots, and neovascularization.",
+    "The image may reveal retinal edema, venous beading, and proliferative changes.",
+    "Diabetic retinopathy is a complication of diabetes and can lead to vision loss if untreated.",
+    "This class is defined by vascular abnormalities and retinal damage due to chronic hyperglycemia."
+  ],
+  "glaucoma": [
+    "Fundus image showing glaucoma, characterized by increased cupping of the optic disc and thinning of the neuroretinal rim.",
+    "Glaucoma appears as an enlarged optic cup with a pale disc and loss of peripheral retinal nerve fibers.",
+    "The image may reveal notching of the rim and peripapillary atrophy.",
+    "Glaucoma is a progressive optic neuropathy that can cause irreversible vision loss.",
+    "This class is defined by structural changes in the optic nerve head and retinal nerve fiber layer."
+  ],
+  "normal_retina": [
+    "Fundus image of a healthy retina, showing clear visualization of the optic disc, macula, and retinal vessels.",
+    "A normal retina appears with sharp disc margins, uniform color, and no evidence of pathology.",
+    "There are no signs of hemorrhages, exudates, or abnormal vascular changes in a normal retina image.",
+    "The image serves as a reference for comparison with pathological retinal findings.",
+    "Normal retina images reveal intact retinal structure and regular vascular patterns throughout."
+  ]
+}

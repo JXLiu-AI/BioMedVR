@@ -1,0 +1,23 @@
+{
+  "benign_tumor": [
+    "The 'normal' class in the BUSI dataset is primarily distinguished by the absence of discrete lesions or masses, presenting a homogeneous and unremarkable parenchymal echotexture.",
+    "Unlike benign or malignant tumors, normal scans show no abnormal growths or suspicious features.",
+    "Normal breast ultrasound images lack any pathological structures, which are present in both benign and malignant cases.",
+    "The tissue in normal scans is uniform, without the irregularities seen in tumor images.",
+    "Normal scans are differentiated by the complete absence of masses, unlike the other classes."
+  ],
+  "malignant_tumor": [
+    "The 'malignant' class in the BUSI dataset is primarily characterized by irregular, often angular or spiculated shapes and ill-defined or microlobulated margins.",
+    "Malignant tumors often have a non-parallel orientation (taller-than-wide) and may present with posterior acoustic shadowing.",
+    "Malignant lesions are invasive and have irregular, poorly defined borders, unlike benign tumors.",
+    "Malignant tumors are distinguished from benign by their aggressive features and from normal by the presence of a suspicious mass.",
+    "Malignant tumors often show increased vascularity and local invasion, which are not seen in benign or normal scans."
+  ],
+  "normal_scan": [
+    "The 'benign' class in BUSI features discrete, non-invasive lesions characterized by typically regular, well-defined shapes (e.g., oval, round), smooth or gently lobulated margins, and often a 'wider than tall' orientation.",
+    "Benign tumors are non-cancerous and do not invade surrounding tissue, unlike malignant tumors.",
+    "Benign lesions have smooth, well-circumscribed borders, in contrast to the irregular margins of malignant tumors.",
+    "Benign tumors are distinguishable from normal tissue by the presence of a mass, but lack the aggressive features of malignancy.",
+    "Benign tumors are usually encapsulated and have a regular shape, unlike malignant tumors which are irregular and invasive."
+  ]
+}

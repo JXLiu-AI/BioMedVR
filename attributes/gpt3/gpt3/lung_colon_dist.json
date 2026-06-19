@@ -1,0 +1,37 @@
+{
+  "colon_adenocarcinoma": [
+    "Distinguished from benign colon tissue by the presence of malignant glandular structures and tissue invasion.",
+    "Colon adenocarcinoma shows irregular, crowded glands, unlike the orderly appearance of benign tissue.",
+    "This class is defined by nuclear atypia and desmoplastic stroma, features absent in non-cancerous samples.",
+    "Unlike lung cancers, colon adenocarcinoma arises from the colon and has glandular differentiation.",
+    "The aggressive growth pattern and architectural distortion set it apart from all benign and lung classes."
+  ],
+  "colon_benign_tissue": [
+    "Characterized by well-organized glands and uniform cells, unlike the atypia seen in adenocarcinoma.",
+    "Benign colon tissue lacks the invasive and disorganized features of malignant tumors.",
+    "This class is free of abnormal growths, nuclear pleomorphism, or tissue invasion.",
+    "Unlike lung tissues, the architecture is specific to the colon and shows no cancerous changes.",
+    "Serves as a baseline for comparison with all malignant and lung tissue classes."
+  ],
+  "lung_adenocarcinoma": [
+    "Distinguished from benign lung tissue by the presence of malignant glandular or acinar structures.",
+    "Lung adenocarcinoma shows cellular atypia and invasive growth, unlike the uniformity of benign tissue.",
+    "This class is specific to the lung and features mucin production and gland formation.",
+    "Unlike squamous cell carcinoma, adenocarcinoma has glandular rather than squamous differentiation.",
+    "The irregular, crowded glands and malignant features set it apart from all benign and colon classes."
+  ],
+  "lung_benign_tissue": [
+    "Characterized by healthy alveolar structures and uniform cells, unlike the atypia of lung cancers.",
+    "Benign lung tissue lacks the abnormal growth, nuclear pleomorphism, and invasion seen in carcinomas.",
+    "This class is free of tumor formation and architectural distortion.",
+    "Unlike colon tissues, the structure is specific to the lung and shows no malignant changes.",
+    "Serves as a reference for distinguishing all malignant and colon tissue classes."
+  ],
+  "lung_squamous_cell_carcinoma": [
+    "Distinguished from adenocarcinoma by the presence of keratinization and intercellular bridges.",
+    "Lung squamous cell carcinoma shows polygonal tumor cells and keratin pearls, unlike glandular tumors.",
+    "This class is specific to the lung and features squamous rather than glandular differentiation.",
+    "Unlike benign lung tissue, it displays marked cellular atypia and invasive growth.",
+    "The sheets or nests of atypical squamous cells set it apart from all benign and colon classes."
+  ]
+}

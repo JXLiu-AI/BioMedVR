@@ -1,0 +1,30 @@
+{
+  "cyst_kidney": [
+    "A well-circumscribed, round hypodense lesion with thin walls and homogeneous fluid attenuation, but arising from the adrenal gland, mimicking a renal cyst\u2019s imaging appearance despite distinct anatomical origin.",
+    "A multilocular cystic structure with fine septations and mild peripheral enhancement, resembling a complex kidney cyst but representing a cystic variant of renal cell carcinoma with neoplastic growth patterns.",
+    "A hypoattenuating lesion with air pockets and thick, irregular walls on CT, visually similar to a hemorrhagic cyst but indicative of a suppurative renal abscess with acute inflammatory changes.",
+    "A dilated, fluid-filled calyx connected to the renal pelvis, displaying cyst-like features but secondary to obstructive uropathy with associated hydronephrosis and thinning renal parenchyma.",
+    "A post-traumatic perirenal fluid collection with layered hyperdense material on CT, simulating a hemorrhagic cyst but reflecting a hematoma with clot sedimentation and history of renal injury."
+  ],
+  "kidney_stone": [
+    "A smooth, round calcification in the renal pelvis resembling a phlebolith, with homogeneous density but lacking the irregular margins of a true kidney stone.",
+    "Linear, branching calcifications along renal vasculature mimicking stone clusters, caused by vascular calcification rather than crystalline aggregation.",
+    "Hyperdense, oval structures in the ureteric region with a laminated texture, mistaken for stones but representing retained contrast material or blood clots.",
+    "Focal areas of increased density near the renal cortex with a \"blooming\" artifact on CT, resembling stones but caused by metal streaking from surgical clips.",
+    "Small, rounded calcifications in the bladder base with irregular borders, simulating distal ureteral stones but representing benign cystoliths or enteric content overlap."
+  ],
+  "kidney_tumor": [
+    "A hyperechoic renal cyst with internal septations and peripheral calcifications mimicking solid tumor vascularity on imaging.",
+    "A densely calcified renal stone surrounded by perinephric edema resembling tumor necrosis and inflammatory margins.",
+    "A focal pyelonephritic abscess with central necrosis and irregular enhancing borders mistaken for malignant mass infiltration.",
+    "A benign oncocytoma with heterogeneous contrast uptake and a central fibrous scar mimicking tumor necrosis and calcification.",
+    "A post-traumatic renal hematoma with layered blood products and irregular margins simulating tumor heterogeneity and invasion."
+  ],
+  "normal_kidney": [
+    "A kidney with a small, isoattenuating renal mass lacking necrosis or calcification, mimicking normal parenchymal density and texture on cross-sectional imaging.",
+    "A horseshoe kidney with a central isthmus connecting both poles, creating a smooth, continuous contour that resembles a single normal kidney.",
+    "A simple renal cyst with imperceptibly thin walls and homogeneous fluid density, indistinguishable from adjacent normal renal tissue in attenuation and shape.",
+    "Early obstructive hydronephrosis with mild caliectasis but preserved cortical thickness, visually overlapping with normal renal morphology due to subtle structural changes.",
+    "A kidney affected by diffuse lipid infiltration, producing a uniformly decreased density similar to normal parenchyma without focal lesions or architectural distortion."
+  ]
+}

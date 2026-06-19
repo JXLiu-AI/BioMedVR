@@ -1,0 +1,30 @@
+{
+  "covid_lungs": [
+    "Bilateral, peripheral ground-glass opacities are present, which may be confused with COVID-19 lungs.",
+    "The image shows focal, well-defined consolidation, resembling bacterial pneumonia or lung opacity.",
+    "Lung fields are clear except for mild increased markings, which could be mistaken for normal lungs.",
+    "Diffuse whiteness throughout both lungs without patchy infiltrates, mimicking pulmonary edema.",
+    "Opacities are limited to the lower lobes, features more typical of COVID-19 than generic viral pneumonia."
+  ],
+  "lung_opacity_lungs": [
+    "The lungs show focal, well-defined opacities limited to one lobe, which may be mistaken for bacterial pneumonia rather than COVID-19.",
+    "There is diffuse whiteness throughout both lungs without peripheral predominance, resembling pulmonary edema.",
+    "The image displays unilateral consolidation with sharp borders, features more typical of lung opacity from non-COVID causes.",
+    "Lung fields are clear except for mild interstitial markings, which could be confused with normal lungs.",
+    "Patchy infiltrates are present only in the upper lobes, mimicking viral pneumonia unrelated to COVID-19."
+  ],
+  "normal_lungs": [
+    "There are faint, patchy opacities in the periphery, which may be mistaken for early viral pneumonia.",
+    "Mild ground-glass changes are present in both lungs, resembling COVID-19 or other viral infections.",
+    "The image shows increased interstitial markings, which could be confused with lung opacity.",
+    "Unilateral consolidation is seen in one lobe, mimicking focal pneumonia.",
+    "Diffuse haziness is present without clear consolidation, features more typical of viral pneumonia."
+  ],
+  "viral_pneumonia_lungs": [
+    "Bilateral, peripheral ground-glass opacities are present, which may be mistaken for COVID-19 rather than generic lung opacity.",
+    "Diffuse, hazy opacities with multifocal involvement resemble viral pneumonia.",
+    "The image shows well-aerated lungs with only mild increased markings, which could be confused with normal lungs.",
+    "Consolidations are patchy and predominantly in the lower lobes, features more typical of COVID-19.",
+    "There is a lack of abnormal radiodensity, making the appearance similar to normal lungs."
+  ]
+}

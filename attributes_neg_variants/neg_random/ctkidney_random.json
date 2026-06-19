@@ -1,0 +1,30 @@
+{
+  "cyst_kidney": [
+    "The image shows a well-defined, fluid-filled lesion with thin walls, resembling a kidney cyst rather than a stone.",
+    "There is a solid, enhancing mass with heterogeneous density, features more typical of a kidney tumor.",
+    "The stone is surrounded by a large, non-enhancing fluid collection, mimicking a cystic lesion.",
+    "The calcified focus is located within a mass that distorts the renal contour, which may be confused with a tumor.",
+    "The image reveals uniform enhancement and smooth contours, making it difficult to distinguish from a normal kidney."
+  ],
+  "kidney_stone": [
+    "There is a well-defined, hypodense lesion with thin walls, which may be mistaken for a kidney cyst.",
+    "A bright, white calcified focus is present within the renal collecting system, resembling a kidney stone.",
+    "The image shows a solid, enhancing mass with irregular borders, features more typical of a kidney tumor.",
+    "The renal contour is distorted and there is heterogeneous enhancement, mimicking a pathological lesion.",
+    "Multiple fluid collections and areas of abnormal density are present, which could be confused with cysts or tumors."
+  ],
+  "kidney_tumor": [
+    "The lesion is a solid, enhancing mass with irregular borders, resembling a kidney tumor rather than a simple cyst.",
+    "There is a hyperdense, calcified focus within the cystic area, which may be mistaken for a kidney stone.",
+    "The cyst displays internal septations and nodular enhancement, features more typical of a complex tumor.",
+    "Multiple bright, white spots are present within the lesion, mimicking radiopaque calculi.",
+    "The cystic area distorts the normal renal contour and invades adjacent tissue, which is uncharacteristic for benign cysts."
+  ],
+  "normal_kidney": [
+    "The image shows a well-defined, fluid-filled lesion with thin walls, resembling a kidney cyst rather than a stone.",
+    "There is a solid, enhancing mass with heterogeneous density, features more typical of a kidney tumor.",
+    "The stone is surrounded by a large, non-enhancing fluid collection, mimicking a cystic lesion.",
+    "The calcified focus is located within a mass that distorts the renal contour, which may be confused with a tumor.",
+    "The image reveals uniform enhancement and smooth contours, making it difficult to distinguish from a normal kidney."
+  ]
+}

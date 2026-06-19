@@ -1,0 +1,23 @@
+{
+  "benign_tumor": [
+    "The mass appears well-circumscribed with smooth edges and uniform internal echoes, mimicking the appearance of a benign tumor instead of a malignant one.",
+    "The lesion is encapsulated and shows no evidence of local invasion, which is more typical of benign tumors.",
+    "There is a lack of posterior acoustic shadowing and the mass has a regular shape, making it difficult to distinguish from benign lesions.",
+    "The tumor demonstrates slow growth and stable size over time, features not commonly seen in malignancy.",
+    "The lesion is mobile and compressible on ultrasound, characteristics more consistent with benign tumors."
+  ],
+  "malignant_tumor": [
+    "There is a subtle hypoechoic area or irregular shadowing that could be mistaken for a small tumor, making it difficult to confidently identify as a normal scan.",
+    "A faint, ill-defined mass-like region is present, which may be confused with a benign lesion.",
+    "The scan shows mild architectural distortion, raising suspicion for an early-stage tumor despite otherwise normal appearance.",
+    "Slight asymmetry in tissue echotexture could be misinterpreted as a pathological finding.",
+    "A small area of posterior acoustic shadowing is seen, which may mimic the presence of a lesion."
+  ],
+  "normal_scan": [
+    "The lesion displays irregular, spiculated margins and heterogeneous echotexture, closely resembling a malignant tumor rather than a typical benign mass.",
+    "There is increased vascularity and posterior acoustic shadowing, features more typical of malignancy.",
+    "The mass appears poorly defined and invades surrounding tissue, which is not characteristic of benign tumors.",
+    "Multiple small calcifications are present within the lesion, a feature often associated with malignant tumors.",
+    "The lesion demonstrates rapid growth and irregular borders, mimicking a malignant process."
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "adipose_tissue": [
+    "Histology image showing adipose tissue, composed of clusters of fat cells with clear cytoplasm.",
+    "Adipose tissue appears as large, round cells with thin cytoplasmic rims and eccentric nuclei.",
+    "The image displays well-defined lobules of adipocytes separated by thin connective tissue septa.",
+    "Adipose tissue serves as an energy store and provides insulation and cushioning in the body.",
+    "This class is characterized by the presence of abundant lipid droplets within the cells."
+  ],
+  "complex_stroma": [
+    "Histology image showing complex stroma, consisting of dense connective tissue with a heterogeneous cellular composition.",
+    "Complex stroma contains a mixture of fibroblasts, immune cells, and extracellular matrix components.",
+    "The image may reveal irregular, fibrous areas with variable cellularity and collagen deposition.",
+    "Complex stroma often supports tumor growth and can influence the tumor microenvironment.",
+    "This class is distinguished by its intricate structure and diverse cell types."
+  ],
+  "debris": [
+    "Histology image showing debris, consisting of fragmented cellular material and necrotic tissue.",
+    "Debris appears as amorphous, granular material lacking organized structure.",
+    "The image may reveal remnants of dead cells, nuclear fragments, and proteinaceous material.",
+    "Debris is often found in areas of tissue breakdown, inflammation, or necrosis.",
+    "This class is characterized by the absence of intact cells and the presence of disorganized material."
+  ],
+  "empty_background": [
+    "Histology image showing empty background, with no significant cellular or tissue structures present.",
+    "The image appears clear or lightly stained, lacking identifiable anatomical features.",
+    "Empty background regions serve as negative space between tissue elements on the slide.",
+    "There are no cells, stroma, or debris in these areas, providing contrast for tissue identification.",
+    "This class is defined by the absence of any histological content."
+  ],
+  "immune_cells": [
+    "Histology image showing immune cells, such as lymphocytes, plasma cells, or macrophages.",
+    "Immune cells appear as small, round cells with dense nuclei and scant cytoplasm.",
+    "The image may reveal clusters or scattered immune cells within the stroma or around glands.",
+    "Immune cells play a key role in inflammation, defense, and tumor surveillance.",
+    "This class is characterized by the presence of numerous, darkly stained nuclei."
+  ],
+  "normal_mucosal_glands": [
+    "Histology image showing normal mucosal glands, with well-organized, tubular structures lined by epithelial cells.",
+    "Normal mucosal glands appear uniform in size and shape, with regular, basally located nuclei.",
+    "The image displays intact glandular architecture and absence of dysplasia or neoplasia.",
+    "Normal mucosal glands are responsible for secretion and absorption in the mucosa.",
+    "This class serves as a reference for healthy glandular tissue in the gastrointestinal tract."
+  ],
+  "simple_stroma": [
+    "Histology image showing simple stroma, composed of loose connective tissue with few cells and abundant extracellular matrix.",
+    "Simple stroma appears as pale, fibrous areas with scattered fibroblasts and minimal cellularity.",
+    "The image may reveal thin collagen fibers and occasional blood vessels within the stroma.",
+    "Simple stroma provides structural support for glands and other tissue elements.",
+    "This class is characterized by its uniform, uncomplicated appearance."
+  ],
+  "tumour_epithelium": [
+    "Histology image showing tumour epithelium, composed of malignant epithelial cells forming irregular nests or sheets.",
+    "Tumour epithelium appears as crowded, pleomorphic cells with hyperchromatic nuclei and increased mitotic activity.",
+    "The image may reveal loss of normal glandular architecture and evidence of invasion into surrounding stroma.",
+    "Tumour epithelium is a hallmark of carcinoma and is associated with aggressive growth.",
+    "This class is defined by the presence of abnormal, proliferating epithelial cells."
+  ]
+}

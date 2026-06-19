@@ -1,0 +1,23 @@
+{
+  "benign_tumor": [
+    "Demonstrates normal anatomical structures and expected findings, with no sonographic evidence of pathology.",
+    "This ultrasound scan shows healthy breast tissue with no abnormal findings.",
+    "A normal scan reveals no masses, lesions, or suspicious features in the breast tissue.",
+    "The image displays typical breast anatomy without any signs of disease.",
+    "No evidence of tumors or abnormal growths is present in this normal scan."
+  ],
+  "malignant_tumor": [
+    "Displays features highly suspicious for malignancy, often including irregular, ill-defined, or spiculated margins; heterogeneous internal echotexture; hypoechoic appearance with posterior acoustic shadowing; and potential evidence of local invasion or increased, chaotic vascularity.",
+    "A malignant tumor on ultrasound often appears as an irregular, poorly defined mass with heterogeneous internal structure.",
+    "Malignant tumors may show spiculated margins and invade surrounding breast tissue.",
+    "The image reveals a suspicious lesion with features typical of breast cancer.",
+    "Malignant tumors often have increased vascularity and may cause posterior acoustic shadowing."
+  ],
+  "normal_scan": [
+    "This class refers to ultrasound findings that are non-malignant, displaying characteristics consistent with a harmless or non-cancerous condition.",
+    "A benign tumor appears as a well-defined, smooth-edged mass on ultrasound, often with uniform internal echoes.",
+    "Benign tumors typically do not invade surrounding tissues and have regular shapes.",
+    "The ultrasound image shows a non-cancerous lesion with features distinct from malignant tumors.",
+    "Benign tumors are usually encapsulated and do not show signs of aggressive growth."
+  ]
+}

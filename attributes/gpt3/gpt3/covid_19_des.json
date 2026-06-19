@@ -1,0 +1,30 @@
+{
+  "covid_lungs": [
+    "Chest X-ray image showing lungs affected by COVID-19, characterized by bilateral, peripheral ground-glass opacities.",
+    "COVID-19 lungs often display patchy consolidations and interstitial markings, especially in the lower lobes.",
+    "The image may reveal multifocal infiltrates and a hazy appearance typical of viral pneumonia.",
+    "COVID-19 infection can cause diffuse lung involvement with areas of increased density.",
+    "This class is defined by radiographic features consistent with SARS-CoV-2 infection."
+  ],
+  "lung_opacity_lungs": [
+    "Chest X-ray image showing increased lung opacity, which may be due to various causes such as infection, inflammation, or edema.",
+    "Lung opacity appears as areas of whiteness or cloudiness, obscuring normal lung markings.",
+    "The image may reveal focal or diffuse opacities, which can be unilateral or bilateral.",
+    "Lung opacities are non-specific and require clinical correlation for diagnosis.",
+    "This class is characterized by abnormal radiodensity within the lung fields."
+  ],
+  "normal_lungs": [
+    "Chest X-ray image of healthy lungs, showing clear lung fields with no evidence of disease.",
+    "Normal lungs appear as well-aerated, with sharp costophrenic angles and visible vascular markings.",
+    "There are no signs of consolidation, opacity, or abnormal infiltrates in a normal lung image.",
+    "The image serves as a reference for comparison with pathological chest X-rays.",
+    "Normal lung X-rays reveal intact lung structure and regular radiographic patterns."
+  ],
+  "viral_pneumonia_lungs": [
+    "Chest X-ray image showing lungs affected by viral pneumonia, with patchy or diffuse infiltrates.",
+    "Viral pneumonia lungs often display bilateral ground-glass opacities and interstitial changes.",
+    "The image may reveal areas of consolidation and increased lung markings, especially in the periphery.",
+    "Viral pneumonia can cause multifocal involvement and a hazy appearance on chest X-ray.",
+    "This class is defined by radiographic features typical of viral lung infections, excluding COVID-19."
+  ]
+}

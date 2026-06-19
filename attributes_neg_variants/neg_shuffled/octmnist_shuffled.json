@@ -1,0 +1,30 @@
+{
+  "choroidal_neovascularization": [
+    "The image shows retinal thickening and hyporeflective cystic areas, resembling diabetic macular edema.",
+    "Hyperreflective lesions with subretinal or intraretinal fluid are present, features more typical of choroidal neovascularization.",
+    "Small, dome-shaped elevations of the RPE layer are seen, mimicking drusen.",
+    "Pigment epithelial detachment and disruption of normal retinal layers are present, which may be confused with neovascularization.",
+    "Diffuse or focal swelling of the central retina is present, features more typical of diabetic macular edema."
+  ],
+  "diabetic_macular_edema": [
+    "The image shows retinal thickening and hyporeflective cystic areas, resembling diabetic macular edema rather than neovascularization.",
+    "There are small, dome-shaped elevations of the RPE layer without significant fluid, features more typical of drusen.",
+    "The scan displays well-defined retinal layers with no signs of abnormal vessels or fluid, mimicking a normal OCT scan.",
+    "Diffuse or focal swelling of the central retina is present, which may be confused with diabetic macular edema.",
+    "Multiple discrete mounds under the retina are seen, resembling drusen rather than neovascularization."
+  ],
+  "drusen": [
+    "The image shows retinal thickening and hyporeflective cystic areas, resembling diabetic macular edema.",
+    "Hyperreflective lesions with subretinal or intraretinal fluid are present, features more typical of choroidal neovascularization.",
+    "The scan displays well-defined retinal layers with no abnormal deposits, mimicking a normal OCT scan.",
+    "Diffuse swelling of the central retina and intraretinal fluid are seen, which may be confused with diabetic macular edema.",
+    "Pigment epithelial detachment and disruption of normal retinal layers are present, features more typical of neovascularization."
+  ],
+  "normal_OCT_scan": [
+    "The image shows hyperreflective lesions with subretinal fluid, features more typical of choroidal neovascularization.",
+    "There are small, dome-shaped elevations of the RPE layer without cystoid changes, resembling drusen.",
+    "The scan displays well-defined retinal layers and no evidence of fluid or thickening, mimicking a normal OCT scan.",
+    "Pigment epithelial detachment and disruption of normal retinal layers are present, which may be confused with neovascularization.",
+    "Multiple discrete mounds under the retina are seen, features more typical of drusen."
+  ]
+}

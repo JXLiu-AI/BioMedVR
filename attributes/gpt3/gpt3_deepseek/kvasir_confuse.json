@@ -1,0 +1,58 @@
+{
+  "dyed_lifted_polyps": [
+    "A flat, slightly raised area of colonic mucosa with a pale, uneven dye spray that pools in shallow grooves, resembling a sessile serrated lesion rather than a true lifted polyp.",
+    "A large, pedunculated polyp that appears to have been incompletely lifted due to a thick, irregular submucosal cushion, creating a false impression of a dyed-lifted lesion.",
+    "A cluster of hyperplastic polyps with surface dye that has partially washed away, leaving patchy blue staining that mimics the targeted dye application of a lifted polyp.",
+    "A post-polypectomy scar with retained dye and a raised, edematous rim, easily confused with a dyed-lifted polyp due to its elevated margins and color contrast.",
+    "An area of colitis-associated dysplasia with a flat, faintly stained surface and subtle submucosal swelling, visually overlapping with a poorly lifted dyed polyp."
+  ],
+  "dyed_resection_margins": [
+    "A close-up of a surgical sponge with blue dye stains and irregular pinkish-white tissue fragments stuck to its surface, mimicking the dyed blue ink and pale mucosal edges of a resection margin.",
+    "An endoscopic view of a healing ulcer with a bright blue antiseptic solution pooled in the crater and surrounded by erythematous, edematous mucosa, resembling the blue-stained margin of a post-polypectomy site.",
+    "A specimen of a colorectal polyp after acetic acid spray, showing a white, frothy surface with scattered blue dye droplets that could be confused for the deliberately dyed and whitened resection margin of a polyp.",
+    "A close-up of a biopsy site where a blue marking dye has been inadvertently smeared across a piece of normal, undulating colonic mucosa, creating a blurred border that looks like an intentionally dyed margin.",
+    "An image of a surgical field after a tattoo injection for polyp localization, with a prominent blue-black spot on the serosal surface and adjacent pale pink fat, falsely appearing as the dyed edge of a resected specimen."
+  ],
+  "esophagitis": [
+    "A smooth, pale pink esophageal lining with scattered, tiny white plaques that resemble mild candidiasis rather than the inflamed, eroded mucosa typical of esophagitis.",
+    "A narrow, contracted esophageal segment with prominent concentric rings and a slightly granular surface, mimicking a benign stricture instead of the erythematous, friable tissue of esophagitis.",
+    "A patchy, light brown discoloration along the esophageal wall with subtle vascular patterns, resembling a normal variant or mild reflux changes, not the vivid red erosions of esophagitis.",
+    "A single, well-defined, raised nodule with a smooth, glistening surface in the mid-esophagus, which could be mistaken for a small leiomyoma rather than the diffuse, ulcerative inflammation of esophagitis.",
+    "A diffuse, pale yellow coating on the esophageal lining with no underlying erythema or friability, suggestive of a benign fungal overgrowth like Candida, not the acute, erosive changes of esophagitis."
+  ],
+  "normal_cecum": [
+    "The cecum appears slightly distorted with a subtle, non-pathological bulge on the medial wall, mimicking the normal haustral fold pattern but with an abnormal contour.",
+    "The mucosal surface has a faint, patchy erythema that could be mistaken for normal vascular pattern variations, yet the color shift is more pronounced than typical healthy tissue.",
+    "A small, semi-transparent polypoid structure is present near the appendiceal orifice, resembling a normal lymphoid aggregate but with a slightly irregular base and surface texture.",
+    "The cecal base shows a mild, diffuse edema that creates a false impression of a normal, distended lumen, though the wall thickness is subtly increased beyond physiological limits.",
+    "A prominent, tortuous blood vessel traverses the cecal wall, appearing similar to a normal submucosal vein but with an atypical branching pattern that suggests possible vascular abnormality."
+  ],
+  "normal_pylorus": [
+    "A slightly asymmetrical pyloric opening with a subtle, irregular mucosal fold partially obscuring the center, mimicking early-stage inflammation rather than a clean, circular lumen.",
+    "A pylorus with a faint, yellowish exudate on the surrounding mucosa and a mildly distorted rim, resembling the early signs of a benign ulcer rather than healthy, uniform tissue.",
+    "A narrowed, star-shaped pyloric orifice with adjacent mucosa showing a slight, patchy erythema, visually similar to a healing stricture but lacking any true fibrotic changes.",
+    "A pylorus where the opening appears off-center due to a prominent, edematous mucosal fold on one side, giving the false impression of a mass effect from a small polyp.",
+    "A pyloric channel with a faint, whitish ring of scar-like tissue at its margin and a slightly irregular contour, easily confused with a post-inflammatory cicatrix rather than a normal anatomical variant."
+  ],
+  "normal_z_line": [
+    "A thick, irregular, and nodular Z-line with a jagged, sawtooth-like border, where the squamocolumnar junction is obscured by a raised, whitish plaque, mimicking Barrett's esophagus.",
+    "A Z-line that appears pulled upward into a funnel-shaped, erythematous mass with a central depression, resembling a small hiatal hernia or an early adenocarcinoma.",
+    "A Z-line with a double-contoured, serrated edge and multiple, tiny, white spots on the esophageal side, similar to the appearance of candida esophagitis or glycogenic acanthosis.",
+    "A Z-line that is displaced proximally and surrounded by a cuff of pale, velvety mucosa with a subtle, granular texture, mimicking the metaplastic changes of Barrett's esophagus.",
+    "A Z-line with a sharp, linear, and irregular indentation that creates a false \"tongue\" of gastric mucosa extending upward, resembling a small ulcer scar or a focal area of intestinal metaplasia."
+  ],
+  "polyps": [
+    "A cluster of small, round, pale pinkish-white growths on the intestinal lining, appearing as multiple sessile elevations with smooth surfaces that could be confused with lymphoid follicles or normal mucosal folds.",
+    "A single, pedunculated, reddish-purple nodule with a lobulated surface and a narrow stalk, resembling a juvenile polyp but actually being a large, inflamed mucosal tag or lipoma.",
+    "A flat, slightly raised, yellowish-white plaque with irregular borders and a granular texture, mimicking an adenomatous polyp but representing a submucosal tumor or a focal area of colitis cystica profunda.",
+    "A group of three to four tiny, translucent, bubble-like structures with a glossy sheen and a clustered arrangement, easily mistaken for hyperplastic polyps but actually being mucus-filled cystic dilations of the colonic glands.",
+    "A solitary, darkly pigmented, almost black, round lesion with a velvety surface and sharp demarcation from the surrounding mucosa, which could be confused with a melanotic polyp but is actually a hemorrhagic nodule or an angiomatous malformation."
+  ],
+  "ulcerative_colitis": [
+    "An area of colonic mucosa with scattered, superficial, irregular erosions and a patchy, whitish exudate, but lacking the continuous, granular, and friable pattern typical of active ulcerative colitis, more suggestive of Crohn's disease.",
+    "Multiple discrete, deep, well-defined ulcers with raised, edematous margins surrounded by normal-appearing mucosa, mimicking the focal ulceration of ischemic colitis rather than the diffuse, contiguous inflammation of ulcerative colitis.",
+    "A segment of colon showing severe, confluent pseudomembrane formation with yellow-white plaques adhering to the mucosa, resembling Clostridioides difficile infection instead of the typical erythematous, granular surface with mucopurulent exudate in ulcerative colitis.",
+    "A long, linear, serpiginous ulcer with a clean base and heaped-up edges, accompanied by prominent vascular cobblestoning, which could be mistaken for a Crohn's disease-related fissure rather than the superficial, broad-based ulcers of ulcerative colitis.",
+    "A polypoid, sessile mass with a central, irregular, depressed ulceration and surrounding erythematous, nodular mucosa, reminiscent of a malignant colonic adenocarcinoma rather than the uniform, circumferential inflammation and pseudopolyps of ulcerative colitis."
+  ]
+}

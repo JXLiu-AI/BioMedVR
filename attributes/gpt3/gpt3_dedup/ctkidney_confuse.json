@@ -1,0 +1,20 @@
+{
+  "cyst_kidney": [
+    "The cyst displays internal septations and nodular enhancement, features more typical of a complex tumor.",
+    "Multiple bright, white spots are present within the lesion, mimicking radiopaque calculi.",
+    "The cystic area distorts the normal renal contour and invades adjacent tissue, which is uncharacteristic for benign cysts."
+  ],
+  "kidney_stone": [
+    "The image reveals uniform enhancement and smooth contours, making it difficult to distinguish from a normal kidney."
+  ],
+  "kidney_tumor": [
+    "The mass displays uniform enhancement and regular borders, features more typical of a normal kidney.",
+    "The tumor is non-enhancing and does not invade surrounding tissue, mimicking a benign cyst.",
+    "Multiple small, bright spots are present within the lesion, which could be confused with stones rather than a tumor."
+  ],
+  "normal_kidney": [
+    "There is a well-defined, hypodense lesion with thin walls, which may be mistaken for a kidney cyst.",
+    "The renal contour is distorted and there is heterogeneous enhancement, mimicking a pathological lesion.",
+    "Multiple fluid collections and areas of abnormal density are present, which could be confused with cysts or tumors."
+  ]
+}

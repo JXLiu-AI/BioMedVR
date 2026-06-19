@@ -1,0 +1,30 @@
+{
+  "glioma_tumor": [
+    "MRI image of a healthy brain, showing normal anatomical structures with no evidence of tumors or lesions.",
+    "A normal brain scan displays symmetric, well-defined brain tissue and ventricles without abnormal masses.",
+    "There are no signs of edema, mass effect, or abnormal signal intensity in a normal brain image.",
+    "The image serves as a reference for comparison with pathological brain MRI findings.",
+    "Normal brain MRIs reveal intact brain structure and regular signal patterns throughout all regions."
+  ],
+  "meningioma_tumor": [
+    "MRI image showing a glioma tumor, a malignant brain tumor arising from glial cells.",
+    "Glioma tumors often appear as irregular, infiltrative masses with variable contrast enhancement.",
+    "The image may reveal surrounding edema, mass effect, and heterogeneous signal intensity.",
+    "Gliomas can cross the midline and invade adjacent brain structures, making them aggressive in nature.",
+    "This class is characterized by poorly defined borders and possible necrotic or cystic regions within the tumor."
+  ],
+  "normal_brain": [
+    "MRI image showing a meningioma tumor, a typically benign tumor arising from the meninges of the brain.",
+    "Meningiomas often appear as well-circumscribed, extra-axial masses with strong, homogeneous contrast enhancement.",
+    "The image may show a dural tail sign and displacement of adjacent brain tissue without invasion.",
+    "Meningiomas are usually slow-growing and may cause compression of nearby structures.",
+    "This class is characterized by a clear boundary between the tumor and normal brain parenchyma."
+  ],
+  "pituitary_tumor": [
+    "MRI image showing a pituitary tumor, a mass arising from the pituitary gland at the base of the brain.",
+    "Pituitary tumors often appear as well-defined, sellar or suprasellar masses with variable enhancement.",
+    "The image may reveal compression of the optic chiasm or extension into surrounding structures.",
+    "Pituitary tumors can be functional or non-functional, affecting hormone production.",
+    "This class is characterized by a distinct mass in the region of the sella turcica, separate from other brain tumors."
+  ]
+}

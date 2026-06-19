@@ -1,0 +1,23 @@
+{
+  "benign_tumor": [
+    "The 'malignant' class in the BUSI dataset is primarily characterized by irregular, often angular or spiculated shapes and ill-defined or microlobulated margins.",
+    "Malignant tumors often have a non-parallel orientation (taller-than-wide) and may present with posterior acoustic shadowing.",
+    "Malignant lesions are invasive and have irregular, poorly defined borders, unlike benign tumors.",
+    "Malignant tumors are distinguished from benign by their aggressive features and from normal by the presence of a suspicious mass.",
+    "Malignant tumors often show increased vascularity and local invasion, which are not seen in benign or normal scans."
+  ],
+  "malignant_tumor": [
+    "The 'malignant' class in the BUSI dataset is primarily characterized by irregular, often angular or spiculated shapes and ill-defined or microlobulated margins.",
+    "Malignant tumors often have a non-parallel orientation (taller-than-wide) and may present with posterior acoustic shadowing.",
+    "Malignant lesions are invasive and have irregular, poorly defined borders, unlike benign tumors.",
+    "Malignant tumors are distinguished from benign by their aggressive features and from normal by the presence of a suspicious mass.",
+    "Malignant tumors often show increased vascularity and local invasion, which are not seen in benign or normal scans."
+  ],
+  "normal_scan": [
+    "The 'normal' class in the BUSI dataset is primarily distinguished by the absence of discrete lesions or masses, presenting a homogeneous and unremarkable parenchymal echotexture.",
+    "Unlike benign or malignant tumors, normal scans show no abnormal growths or suspicious features.",
+    "Normal breast ultrasound images lack any pathological structures, which are present in both benign and malignant cases.",
+    "The tissue in normal scans is uniform, without the irregularities seen in tumor images.",
+    "Normal scans are differentiated by the complete absence of masses, unlike the other classes."
+  ]
+}

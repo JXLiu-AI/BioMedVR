@@ -1,0 +1,30 @@
+{
+  "cataract": [
+    "A dense vitreous hemorrhage presenting as a dark, cloud-like opacity within the vitreous cavity, obscuring the lens and retinal structures, closely resembling the hazy appearance of a cataract.",
+    "Retinal detachment characterized by a grayish, undulating membrane floating in the vitreous, casting shadows that mimic the diffuse lens opacity seen in cataracts.",
+    "Severe uveitis with inflammatory exudates forming a white, plaque-like layer on the retina, creating a reflective haze that simulates cataract-associated cloudiness.",
+    "Congenital persistent fetal vasculature appearing as a fibrovascular stalk in the anterior chamber, causing light scattering and a density illusion similar to cataract morphology.",
+    "Posterior capsular opacification following cataract surgery, exhibiting a translucent, fibrous haze across the lens capsule that closely mirrors immature cataract texture and distribution."
+  ],
+  "diabetic_retinopathy": [
+    "**Hypertensive retinopathy with flame-shaped hemorrhages and arteriolar narrowing**, mimicking diabetic microvascular damage but caused by chronic blood pressure elevation, not glucose-related pathology.",
+    "**Retinal vein occlusion presenting with sudden sectoral hemorrhages and cotton wool spots**, resembling diabetic retinopathy\u2019s blot hemorrhages but localized to a vascular distribution.",
+    "**Age-related macular degeneration with drusen and pigmentary clumping**, visually similar to diabetic exudates but confined to the macula and unrelated to systemic metabolic dysfunction.",
+    "**Uveitis-induced vitreous haze and perivascular sheathing**, mistaken for diabetic neovascularization due to retinal opacity but driven by inflammatory cell infiltration rather than angiogenesis.",
+    "**Retinitis pigmentosa with bone-spicule pigmentation and arteriolar attenuation**, mimicking advanced diabetic retinopathy\u2019s vascular dropout but associated with progressive photoreceptor degeneration and night blindness."
+  ],
+  "glaucoma": [
+    "Optic disc swelling with blurred margins and tortuous blood vessels, mimicking glaucomatous cupping but caused by systemic hypertension-induced vascular changes.",
+    "Elevated optic nerve head with indistinct borders and spontaneous venous pulsations absent, resembling glaucoma but associated with increased intracranial pressure.",
+    "Peripapillary hemorrhages and mild optic disc edema with cotton wool spots, clinically similar to glaucoma but often presenting with acute vision loss and pain on eye movement.",
+    "Segmental optic disc swelling with flame-shaped hemorrhages and a relative afferent pupillary defect, resembling acute glaucoma but caused by ischemia of the optic nerve head.",
+    "Optic disc hypoplasia with a small, excavated appearance and peripapillary atrophy, mimicking glaucomatous optic atrophy but present from birth with stable visual function."
+  ],
+  "normal_retina": [
+    "A retina with subtle microaneurysms and scattered dot-blot hemorrhages mimicking normal vascular patterns, lacking overt exudates or neovascularization.",
+    "Mild arteriolar narrowing and AV nicking resembling physiological vessel branching, without cotton wool spots or significant leakage.",
+    "A localized shallow retinal detachment with minimal overlying haze, simulating the smooth contour of a healthy neurosensory retina.",
+    "Epiretinal membrane causing faint surface wrinkling and slight vessel distortion, mistaken for natural retinal texture and vascular tortuosity.",
+    "Old chorioretinal scar with pigmented borders and muted coloration, blending into surrounding tissue like a normal retinal pigment epithelium."
+  ]
+}

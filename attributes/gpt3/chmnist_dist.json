@@ -1,0 +1,58 @@
+{
+  "adipose_tissue": [
+    "Distinguished by large, clear fat cells with eccentric nuclei, unlike the cellularity of stroma or tumour epithelium.",
+    "Adipose tissue lacks glandular or immune cell features, setting it apart from other classes.",
+    "The presence of abundant lipid droplets and minimal extracellular matrix is unique to adipose tissue.",
+    "Unlike debris or empty background, adipose tissue shows organized clusters of adipocytes.",
+    "This class is easily separated from tumour epithelium by its benign, uniform appearance."
+  ],
+  "complex_stroma": [
+    "Characterized by dense, heterogeneous connective tissue with mixed cell types, unlike the simplicity of simple stroma.",
+    "Complex stroma supports tumor growth and is more cellular than simple stroma or adipose tissue.",
+    "The irregular structure and variable collagen content distinguish it from other stromal or glandular classes.",
+    "Unlike tumour epithelium, complex stroma lacks malignant epithelial cells.",
+    "This class is set apart by its intricate architecture and diverse cellular composition."
+  ],
+  "debris": [
+    "Composed of fragmented, necrotic material, debris lacks the organized structure of all other classes.",
+    "Debris is amorphous and granular, unlike the defined cells of adipose tissue or immune cells.",
+    "This class is found in areas of tissue breakdown, not in healthy or organized tissue types.",
+    "Unlike empty background, debris contains remnants of dead cells and proteinaceous material.",
+    "Debris is easily distinguished from tumour epithelium and stroma by its lack of intact cells."
+  ],
+  "empty_background": [
+    "Defined by the absence of any cellular or tissue structures, unlike all other classes.",
+    "Empty background appears clear or lightly stained, providing contrast for tissue elements.",
+    "There are no cells, stroma, or debris present, setting it apart from all histological content.",
+    "Unlike debris, empty background contains no material or fragments.",
+    "This class is unique for its lack of any histological features."
+  ],
+  "immune_cells": [
+    "Composed of small, round cells with dense nuclei, immune cells are distinct from adipocytes or epithelial cells.",
+    "Immune cells are scattered or clustered, unlike the organized glands or stroma.",
+    "This class is involved in inflammation and defense, not in structural support or secretion.",
+    "Unlike tumour epithelium, immune cells are non-malignant and have uniform appearance.",
+    "Immune cells are easily separated from debris and empty background by their cellularity."
+  ],
+  "normal_mucosal_glands": [
+    "Characterized by well-organized, tubular structures, unlike the disorganized tumour epithelium.",
+    "Normal mucosal glands have regular nuclei and intact architecture, setting them apart from malignant or stromal classes.",
+    "This class is free of pleomorphism or invasion, unlike tumour epithelium.",
+    "Unlike debris or empty background, normal glands are composed of living, functional cells.",
+    "Normal mucosal glands are easily distinguished from stroma and immune cells by their glandular structure."
+  ],
+  "simple_stroma": [
+    "Composed of loose connective tissue with few cells, simple stroma is less complex than complex stroma.",
+    "Simple stroma provides structural support, unlike the secretory function of glands or the malignancy of tumour epithelium.",
+    "This class is pale and fibrous, with minimal cellularity, setting it apart from immune cells and debris.",
+    "Unlike adipose tissue, simple stroma lacks large lipid-filled cells.",
+    "Simple stroma is easily separated from tumour epithelium by its benign, uniform appearance."
+  ],
+  "tumour_epithelium": [
+    "Defined by crowded, pleomorphic malignant epithelial cells, unlike the regularity of normal glands.",
+    "Tumour epithelium shows loss of normal architecture and evidence of invasion, setting it apart from all benign classes.",
+    "This class is associated with carcinoma and aggressive growth, unlike stroma or immune cells.",
+    "Unlike debris or empty background, tumour epithelium is composed of proliferating, abnormal cells.",
+    "Tumour epithelium is easily distinguished from adipose tissue and stroma by its malignant features."
+  ]
+}

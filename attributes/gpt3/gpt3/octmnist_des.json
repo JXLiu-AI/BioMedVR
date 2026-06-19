@@ -1,0 +1,30 @@
+{
+  "choroidal_neovascularization": [
+    "OCT image showing choroidal neovascularization, characterized by abnormal blood vessel growth beneath the retina.",
+    "Choroidal neovascularization appears as hyperreflective lesions with subretinal or intraretinal fluid on OCT.",
+    "The image may reveal pigment epithelial detachment and disruption of normal retinal layers.",
+    "This condition is commonly associated with age-related macular degeneration and can lead to vision loss.",
+    "Choroidal neovascularization is identified by the presence of new, leaky vessels beneath the retinal pigment epithelium."
+  ],
+  "diabetic_macular_edema": [
+    "OCT image showing diabetic macular edema, characterized by retinal thickening and cystoid spaces in the macula.",
+    "Diabetic macular edema appears as hyporeflective cystic areas and increased retinal thickness on OCT.",
+    "The image may show diffuse or focal swelling of the central retina due to fluid accumulation.",
+    "This condition is a common complication of diabetic retinopathy and can impair central vision.",
+    "Diabetic macular edema is identified by the presence of intraretinal fluid and cystoid changes in the macula."
+  ],
+  "drusen": [
+    "OCT image showing drusen, which are yellowish deposits beneath the retinal pigment epithelium.",
+    "Drusen appear as small, dome-shaped elevations of the RPE layer on OCT scans.",
+    "The image may reveal multiple discrete mounds or bumps under the retina, typical of early macular degeneration.",
+    "Drusen are associated with age-related macular degeneration and may precede more severe retinal changes.",
+    "This class is characterized by the presence of subretinal deposits without significant fluid or neovascularization."
+  ],
+  "normal_OCT_scan": [
+    "OCT image of a healthy retina, showing normal anatomical layers and no evidence of pathology.",
+    "A normal OCT scan displays well-defined retinal layers with no signs of fluid, thickening, or abnormal deposits.",
+    "There are no features of neovascularization, edema, or drusen in a normal scan.",
+    "The image serves as a reference for comparison with pathological OCT findings.",
+    "Normal OCT scans reveal intact retinal structure and regular reflectivity patterns throughout the macula."
+  ]
+}

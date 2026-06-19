@@ -1,0 +1,30 @@
+{
+  "cyst_kidney": [
+    "CT image showing a kidney cyst, characterized by a well-defined, fluid-filled, round or oval lesion.",
+    "Kidney cysts appear as hypodense areas with thin, smooth walls and no internal enhancement.",
+    "The image may reveal one or more simple cysts, which are typically benign and asymptomatic.",
+    "Cystic lesions do not invade surrounding tissue or show solid components.",
+    "This class is defined by the presence of non-calcified, non-enhancing fluid collections within the kidney."
+  ],
+  "kidney_stone": [
+    "CT image showing a kidney stone, visible as a hyperdense, calcified focus within the renal collecting system.",
+    "Kidney stones appear as bright, white spots on CT, often causing obstruction or hydronephrosis.",
+    "The image may reveal single or multiple stones of varying size and location.",
+    "Kidney stones are solid, mineral deposits and do not enhance with contrast.",
+    "This class is characterized by the presence of radiopaque calculi within the kidney."
+  ],
+  "kidney_tumor": [
+    "CT image showing a kidney tumor, which may appear as a solid, enhancing mass with irregular borders.",
+    "Kidney tumors often distort the normal renal contour and may invade adjacent structures.",
+    "The image may reveal heterogeneous enhancement, necrosis, or calcification within the mass.",
+    "Kidney tumors can be benign or malignant, requiring further evaluation for diagnosis.",
+    "This class is defined by the presence of an abnormal, space-occupying lesion in the kidney."
+  ],
+  "normal_kidney": [
+    "CT image of a healthy kidney, showing normal size, shape, and parenchymal structure with no evidence of disease.",
+    "Normal kidneys appear as bean-shaped organs with smooth contours and uniform enhancement.",
+    "There are no signs of cysts, stones, or tumors in a normal kidney image.",
+    "The image serves as a reference for comparison with pathological kidney findings.",
+    "Normal kidney CT scans reveal intact renal anatomy and regular tissue density throughout."
+  ]
+}

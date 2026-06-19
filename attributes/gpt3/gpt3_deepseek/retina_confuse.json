@@ -1,0 +1,30 @@
+{
+  "cataract": [
+    "A dense, white fibrotic scar on the retina's surface, resembling the cloudy opacity of a cataract but actually resulting from trauma or inflammation rather than lens opacification.",
+    "A large, yellowish drusen deposit with sharp edges and a crystalline texture, mimicking the focal cataract-like appearance but representing age-related macular degeneration instead.",
+    "A bright, reflective artifact from the optical coherence tomography scanning process, creating a white haze over the retinal layers that closely mimics the diffuse cloudiness of a true cataract.",
+    "A vitreous hemorrhage with a red-brown, hazy opacity that partially obscures retinal details, visually similar to a cataract's blur but caused by bleeding within the gel-like vitreous humor.",
+    "A severe case of corneal edema with a milky, bluish-white opacity in the anterior segment, easily confused with a cataract's lens opacity but originating from the cornea's fluid accumulation."
+  ],
+  "diabetic_retinopathy": [
+    "Widespread, flame-shaped hemorrhages and cotton-wool spots concentrated near the optic disc, mimicking the nerve fiber layer infarcts of diabetic retinopathy, but actually caused by severe hypertensive retinopathy with arteriovenous nicking.",
+    "Multiple, sharply demarcated, yellow-white exudates arranged in a circinate pattern around the fovea, closely resembling hard exudates from diabetic macular edema, yet resulting from chronic retinal vein occlusion with lipid deposition.",
+    "Numerous, dot-blot hemorrhages scattered throughout the posterior pole, appearing identical to microaneurysms and intraretinal hemorrhages of diabetic retinopathy, but stemming from radiation retinopathy after ocular tumor treatment.",
+    "A prominent, beaded appearance of retinal veins with scattered intraretinal hemorrhages and neovascularization at the disc, visually indistinguishable from proliferative diabetic retinopathy, yet caused by ocular ischemic syndrome from severe carotid artery stenosis.",
+    "Widespread, superficial retinal hemorrhages with a white-centered (Roth spot) pattern and localized capillary dropout on angiography, mimicking diabetic retinopathy's ischemic changes, but actually due to infective endocarditis with septic emboli."
+  ],
+  "glaucoma": [
+    "The optic disc appears with a suspiciously large cup-to-disc ratio, yet the neuroretinal rim remains uniformly pink and well-defined without any focal notching or pallor suggesting advanced glaucomatous damage.",
+    "A pronounced peripapillary atrophy encircles the optic nerve head, mimicking the chronic changes of glaucoma, but the retinal nerve fiber layer shows no thinning or wedge defects on OCT analysis.",
+    "The retinal vessels exhibit a dramatic nasalization and bayoneting at the disc margin, resembling glaucomatous vascular remodeling, yet the intraocular pressure is consistently normal and visual fields are full.",
+    "There is a subtle, diffuse cupping of the optic nerve with a vertical elongation pattern, but the cup depth is shallow and the lamina cribrosa pores are not visible, indicating a physiological variant rather than pathological cupping.",
+    "The optic disc margin shows a suspicious focal notch in the inferotemporal region, commonly associated with glaucoma, but the adjacent retinal nerve fiber layer has a normal reflectivity and no corresponding visual field defect."
+  ],
+  "normal_retina": [
+    "A retina with a faint, yellowish ring around the macula, suggesting early drusen deposits rather than a completely healthy, uniform retinal pigmentation.",
+    "A retina showing a subtle, irregular patch of retinal pigment epithelium (RPE) thinning near the optic disc, mimicking age-related change rather than the even, robust RPE of a normal eye.",
+    "A retina with a slightly blurred optic disc margin and a pale, enlarged cup-to-disc ratio, resembling early glaucoma damage instead of the crisp, distinct boundaries of a healthy optic nerve head.",
+    "A retina with a few scattered, pinpoint microaneurysms along the temporal arcades, easily overlooked but indicating early diabetic retinopathy rather than the pristine, dot-free vasculature of a normal retina.",
+    "A retina exhibiting a faint, feathery white lesion at the fovea, suggestive of early macular edema or ischemia, rather than the clear, featureless central pit of a normal macula."
+  ]
+}

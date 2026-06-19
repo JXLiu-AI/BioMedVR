@@ -1,0 +1,37 @@
+{
+  "colon_adenocarcinoma": [
+    "Microscopic image showing colon adenocarcinoma, a malignant tumor arising from glandular epithelial cells of the colon.",
+    "Colon adenocarcinoma is characterized by irregular gland formation, nuclear atypia, and invasion into surrounding tissue.",
+    "The image displays abnormal, crowded glands with loss of normal architecture, typical of malignant colon cancer.",
+    "Colon adenocarcinoma often shows desmoplastic stroma and increased mitotic activity.",
+    "This class represents a common type of colorectal cancer with aggressive growth patterns."
+  ],
+  "colon_benign_tissue": [
+    "Microscopic image of normal or benign colon tissue, showing well-organized glands and uniform cell structure.",
+    "Benign colon tissue lacks features of malignancy such as nuclear atypia or tissue invasion.",
+    "The glands are regularly spaced, and the mucosa appears healthy without abnormal growths.",
+    "There is no evidence of tumor formation or architectural distortion in benign colon tissue.",
+    "This class serves as a reference for healthy or non-cancerous colon histology."
+  ],
+  "lung_adenocarcinoma": [
+    "Microscopic image showing lung adenocarcinoma, a malignant tumor originating from glandular cells in the lung.",
+    "Lung adenocarcinoma is characterized by glandular or acinar structures, cellular atypia, and invasive growth.",
+    "The image reveals irregular, crowded glands and mucin production, typical of this cancer type.",
+    "Lung adenocarcinoma often presents with lepidic, acinar, or papillary growth patterns.",
+    "This class represents a common form of non-small cell lung cancer with malignant features."
+  ],
+  "lung_benign_tissue": [
+    "Microscopic image of normal or benign lung tissue, showing healthy alveolar structures and uniform cells.",
+    "Benign lung tissue lacks malignant features such as cellular atypia, abnormal mitoses, or tissue invasion.",
+    "The alveoli are well-formed, and the lung parenchyma appears free of tumors or architectural distortion.",
+    "There is no evidence of cancerous growth or abnormal cell proliferation in benign lung tissue.",
+    "This class serves as a reference for healthy or non-cancerous lung histology."
+  ],
+  "lung_squamous_cell_carcinoma": [
+    "Microscopic image showing lung squamous cell carcinoma, a malignant tumor arising from squamous epithelial cells in the lung.",
+    "Lung squamous cell carcinoma is characterized by keratinization, intercellular bridges, and polygonal tumor cells.",
+    "The image displays nests or sheets of atypical squamous cells with abundant eosinophilic cytoplasm.",
+    "This cancer type often shows central necrosis and may form keratin pearls.",
+    "Lung squamous cell carcinoma is a major subtype of non-small cell lung cancer with distinct histological features."
+  ]
+}

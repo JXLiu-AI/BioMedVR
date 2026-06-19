@@ -1,0 +1,30 @@
+{
+  "choroidal_neovascularization": [
+    "Distinguished by the presence of abnormal blood vessels beneath the retina, unlike other classes.",
+    "Choroidal neovascularization shows subretinal or intraretinal fluid, which is absent in normal and drusen scans.",
+    "This class is associated with pigment epithelial detachment and leaky vessels, unlike diabetic macular edema.",
+    "The hyperreflective lesions and disruption of retinal layers set it apart from drusen and normal scans.",
+    "Unlike diabetic macular edema, the fluid is due to neovascularization rather than diabetic changes."
+  ],
+  "diabetic_macular_edema": [
+    "Characterized by retinal thickening and cystoid spaces in the macula, unlike the subretinal deposits of drusen.",
+    "Diabetic macular edema shows diffuse or focal swelling, which is not seen in normal or neovascular scans.",
+    "The presence of intraretinal fluid and cystoid changes distinguishes it from choroidal neovascularization and drusen.",
+    "Unlike choroidal neovascularization, there are no abnormal blood vessels beneath the retina.",
+    "This class is specific to diabetic retinopathy and is not associated with subretinal neovascularization."
+  ],
+  "drusen": [
+    "Identified by yellowish subretinal deposits beneath the retinal pigment epithelium, unlike fluid-filled or neovascular lesions.",
+    "Drusen appear as dome-shaped elevations of the RPE, which are not present in normal or edematous scans.",
+    "This class lacks the intraretinal fluid of diabetic macular edema and the neovascular features of CNV.",
+    "Drusen are associated with early macular degeneration, not with diabetic or neovascular changes.",
+    "The absence of significant fluid or abnormal vessels distinguishes drusen from other pathological classes."
+  ],
+  "normal_OCT_scan": [
+    "Shows well-defined retinal layers with no evidence of pathology, unlike all other classes.",
+    "Normal OCT scans lack fluid, abnormal deposits, or neovascularization seen in disease states.",
+    "There are no signs of retinal thickening, subretinal deposits, or pigment epithelial detachment.",
+    "This class serves as a baseline for comparison with pathological OCT findings.",
+    "The intact retinal structure and regular reflectivity patterns distinguish normal scans from all abnormal classes."
+  ]
+}

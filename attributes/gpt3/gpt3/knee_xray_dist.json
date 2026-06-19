@@ -1,0 +1,37 @@
+{
+  "doubtful_osteoarthritis": [
+    "Shows only questionable or minimal radiographic changes, making it difficult to confidently diagnose osteoarthritis.",
+    "Unlike minimal or moderate osteoarthritis, there are no clear osteophytes or joint space narrowing.",
+    "Distinguished from healthy knees by the presence of subtle, non-specific irregularities.",
+    "Lacks the definitive features seen in more advanced osteoarthritis, such as pronounced bone spurs.",
+    "The changes are so slight that they may overlap with normal anatomical variations."
+  ],
+  "healthy_knee": [
+    "No evidence of joint space narrowing, osteophyte formation, or bone sclerosis, unlike all osteoarthritis categories.",
+    "Easily distinguished from any osteoarthritic knee by the absence of degenerative changes.",
+    "The joint surfaces are smooth and regular, with no pathological findings.",
+    "Healthy knees do not show any of the subtle or obvious features present in diseased states.",
+    "Represents the baseline for comparison with all abnormal knee X-rays."
+  ],
+  "minimal_osteoarthritis": [
+    "Shows early and mild features of osteoarthritis, such as tiny osteophytes or slight joint space narrowing.",
+    "Unlike doubtful osteoarthritis, the changes are definite but still very limited in extent.",
+    "Distinguished from moderate osteoarthritis by the lack of significant cartilage loss or bone sclerosis.",
+    "Minimal osteoarthritis does not yet cause major joint deformity or functional impairment.",
+    "The radiographic findings are more pronounced than doubtful, but less severe than moderate or advanced cases."
+  ],
+  "moderate_osteoarthritis": [
+    "Exhibits clear joint space narrowing and moderate osteophyte formation, more advanced than minimal osteoarthritis.",
+    "Unlike severe osteoarthritis, the joint space is not completely lost and bone deformity is less pronounced.",
+    "Moderate osteoarthritis is characterized by visible sclerosis and more obvious degenerative changes.",
+    "The features are distinct from both early and late stages, representing an intermediate severity.",
+    "There is a balance of cartilage loss and bone changes, setting it apart from other categories."
+  ],
+  "severe_osteoarthritis": [
+    "Marked by almost complete loss of joint space, large osteophytes, and significant bone deformity.",
+    "Easily distinguished from all other categories by the extent of structural damage and advanced degeneration.",
+    "Severe osteoarthritis shows bone-on-bone contact, which is not seen in milder forms.",
+    "The radiographic changes are extensive, with gross joint deformity and sclerosis.",
+    "This category represents the end stage of osteoarthritis, with features far beyond those of moderate disease."
+  ]
+}

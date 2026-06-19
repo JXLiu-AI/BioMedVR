@@ -1,0 +1,37 @@
+{
+    "doubtful_osteoarthritis": [
+        "An X-ray image of a knee with doubtful osteoarthritis, showing very minimal or questionable signs of joint degeneration.",
+        "This knee X-ray presents subtle or ambiguous changes that may suggest the earliest stages of osteoarthritis.",
+        "There are no definite radiographic features of osteoarthritis, but minor irregularities may be present.",
+        "The joint space appears mostly preserved, with only slight or questionable narrowing.",
+        "Osteophyte formation, if present, is minimal and not clearly diagnostic."
+    ],
+    "healthy_knee": [
+        "An X-ray image of a healthy knee joint with no visible signs of osteoarthritis or abnormality.",
+        "This knee X-ray demonstrates normal bone structure and joint space, with no evidence of disease.",
+        "The image shows a knee with well-preserved cartilage and no osteophyte formation.",
+        "There are no signs of joint space narrowing, sclerosis, or bone deformity in this healthy knee.",
+        "A typical example of a normal knee X-ray, free from any pathological findings."
+    ],
+    "minimal_osteoarthritis": [
+        "An X-ray image of a knee with minimal osteoarthritis, showing slight joint space narrowing or small osteophytes.",
+        "This knee X-ray reveals early signs of osteoarthritis, such as minor bone spur formation.",
+        "There may be subtle narrowing of the joint space, but the overall structure remains largely intact.",
+        "Minimal osteoarthritis is characterized by faint radiographic changes without significant functional impairment.",
+        "The image displays the earliest detectable features of osteoarthritis, including tiny osteophytes."
+    ],
+    "moderate_osteoarthritis": [
+        "An X-ray image of a knee with moderate osteoarthritis, showing clear joint space narrowing, moderate osteophytes, and possible sclerosis.",
+        "This knee X-ray demonstrates definite loss of cartilage thickness and more prominent bone spurs.",
+        "Moderate osteoarthritis is marked by visible changes in the joint, including sclerosis of the bone ends.",
+        "The joint space is noticeably reduced, and osteophyte formation is more pronounced.",
+        "There may be mild deformity of the joint surfaces due to ongoing degenerative changes."
+    ],
+    "severe_osteoarthritis": [
+        "An X-ray image of a knee with severe osteoarthritis, showing marked joint space narrowing, large osteophytes, and significant bone changes.",
+        "This knee X-ray reveals advanced degenerative changes, including almost complete loss of joint space.",
+        "Severe osteoarthritis is characterized by large bone spurs, subchondral sclerosis, and possible bone deformity.",
+        "The image shows extensive cartilage loss and may display bone-on-bone contact.",
+        "There is significant joint deformity and structural damage in this advanced stage of osteoarthritis."
+    ]
+}

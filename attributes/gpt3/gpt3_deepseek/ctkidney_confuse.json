@@ -1,0 +1,30 @@
+{
+  "cyst_kidney": [
+    "A cluster of well-defined, thin-walled, round, water-density lesions in the renal cortex, each measuring under 5 mm, mimicking simple cysts but actually representing multiple parapelvic cysts that distort the renal sinus.",
+    "A single, smooth, low-attenuation, non-enhancing renal mass with a hairline-thin wall and homogeneous fluid density, resembling a simple cyst but actually being a cystic renal cell carcinoma with a small mural nodule.",
+    "A group of small, round, water-density foci scattered throughout the renal parenchyma, each with a barely perceptible wall, mimicking microcysts but actually representing dilated collecting tubules from medullary sponge kidney.",
+    "A large, unilocular, fluid-filled lesion replacing most of the renal parenchyma, with a thin, smooth wall and no septations, appearing as a simple cyst but actually being a hydatid cyst with internal daughter cysts not visible on CT.",
+    "A solitary, well-circumscribed, hypodense renal lesion with a thin, enhancing wall and internal septations, resembling a complicated cyst but actually representing a renal abscess with early liquefactive necrosis."
+  ],
+  "kidney_stone": [
+    "A bright, irregularly shaped cluster of calcified tissue within the renal pelvis that appears as a dense, jagged white mass on CT, closely resembling a large kidney stone but actually representing a benign renal papillary calcification from previous infection.",
+    "A focal, hyperdense lesion in the renal medulla with a stippled, granular texture and sharp margins on non-contrast CT, mimicking a kidney stone but being an early-stage medullary nephrocalcinosis without stone formation.",
+    "A small, oval, high-attenuation structure positioned at the ureteropelvic junction that looks like a lodged kidney stone on axial imaging, but is actually a heavily calcified renal artery aneurysm mimicking stone morphology.",
+    "A dense, rim-calcified nodule in the renal sinus fat that appears as a bright, stone-like opacity on CT, but is a benign, old calcified granuloma from prior tuberculosis, not a true kidney stone.",
+    "A sharply demarcated, high-density fleck in the lower pole calyx that on CT resembles a small kidney stone, but is actually a calcified renal cortical scar from a prior abscess, lacking the typical stone composition."
+  ],
+  "kidney_tumor": [
+    "A large, smooth, and well-circumscribed renal cyst with uniformly thin walls and completely homogeneous water-density contents, showing no enhancing solid components or irregular margins.",
+    "A focal area of normal renal parenchyma that appears slightly hyperdense due to beam-hardening artifact from adjacent rib or spine, creating a false nodular appearance on non-contrast images.",
+    "An enhancing hypertrophied column of Bertin that projects into the renal sinus, mimicking a solid mass on contrast-enhanced CT due to its corticomedullary differentiation pattern.",
+    "A benign angiomyolipoma with minimal macroscopic fat content, appearing as a hyperattenuating, well-defined lesion on non-contrast CT that enhances homogeneously, closely resembling a small renal cell carcinoma.",
+    "A complex renal cyst with septations and mural calcifications that shows mild enhancement of its walls and septa, easily confused with a hypovascular cystic renal tumor on multiphasic imaging."
+  ],
+  "normal_kidney": [
+    "A kidney that appears smooth and uniform in texture but has a subtle, irregular bulge on its lower pole, mimicking a normal contour yet indicating an early cyst or tumor.",
+    "A kidney with a perfectly shaped renal outline but featuring a faint, patchy area of increased echogenicity in the cortex, resembling normal tissue but actually representing early fibrosis or inflammation.",
+    "A kidney of normal size and shape but with a slightly dilated renal pelvis that is barely noticeable, giving the false impression of a healthy collecting system while actually indicating mild hydronephrosis.",
+    "A kidney that maintains its typical bean shape and corticomedullary differentiation but has a barely visible, thin hypoechoic rim around its capsule, mimicking normal perirenal fat but actually suggesting perinephric edema or fluid.",
+    "A kidney with a homogeneous parenchymal texture and clear sinus echoes, yet displaying a single, tiny hyperechoic focus without acoustic shadowing, easily mistaken for a normal vessel cross-section but actually representing a small calculus or calcification."
+  ]
+}

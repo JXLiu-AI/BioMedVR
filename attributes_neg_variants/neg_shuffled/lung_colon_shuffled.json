@@ -1,0 +1,37 @@
+{
+  "colon_adenocarcinoma": [
+    "The image shows well-organized glands and uniform cell structure, resembling benign colon tissue.",
+    "There are healthy alveolar structures and uniform cells, features more typical of benign lung tissue.",
+    "Nests or sheets of polygonal cells with keratinization are present, mimicking lung squamous cell carcinoma.",
+    "Regularly spaced glands and healthy mucosa are seen, which may be confused with benign colon tissue.",
+    "Irregular gland formation and nuclear atypia with desmoplastic stroma are present, resembling colon adenocarcinoma."
+  ],
+  "colon_benign_tissue": [
+    "The image displays glandular or acinar structures with cellular atypia, resembling lung adenocarcinoma.",
+    "Nests of polygonal cells with keratinization and central necrosis are present, features more typical of lung squamous cell carcinoma.",
+    "Irregular, crowded glands and mucin production are seen, mimicking lung adenocarcinoma.",
+    "Desmoplastic stroma and increased mitotic activity are present, resembling colon adenocarcinoma.",
+    "Regularly spaced glands and healthy mucosa are seen, which may be confused with benign colon tissue."
+  ],
+  "lung_adenocarcinoma": [
+    "The image shows well-organized glands and uniform cell structure, resembling benign colon tissue.",
+    "Healthy alveolar structures and uniform cells are present, features more typical of benign lung tissue.",
+    "Glandular or acinar structures with mucin production are seen, mimicking lung adenocarcinoma.",
+    "Irregular gland formation and nuclear atypia with desmoplastic stroma are present, resembling colon adenocarcinoma.",
+    "Regularly spaced glands and healthy mucosa are seen, which may be confused with benign colon tissue."
+  ],
+  "lung_benign_tissue": [
+    "The image shows well-organized glands and uniform cell structure, resembling benign colon tissue rather than adenocarcinoma.",
+    "There are healthy alveolar structures and uniform cells, features more typical of benign lung tissue.",
+    "The glands are regularly spaced and the mucosa appears healthy, mimicking benign colon tissue.",
+    "Nests of polygonal cells with keratinization are present, which may be confused with lung squamous cell carcinoma.",
+    "Glandular or acinar structures with mucin production are seen, resembling lung adenocarcinoma."
+  ],
+  "lung_squamous_cell_carcinoma": [
+    "The image displays irregular gland formation, nuclear atypia, and invasion, features more typical of colon adenocarcinoma.",
+    "There are glandular or acinar structures with cellular atypia, mimicking lung adenocarcinoma.",
+    "Nests or sheets of atypical squamous cells with keratin pearls are present, resembling lung squamous cell carcinoma.",
+    "The alveoli are well-formed and the parenchyma appears healthy, which may be confused with benign lung tissue.",
+    "Desmoplastic stroma and increased mitotic activity are seen, features more typical of malignant tissue."
+  ]
+}
