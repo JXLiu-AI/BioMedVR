@@ -109,16 +109,6 @@ python3 gen_confuse.py busi --num 5
 This writes `attributes/gpt3/<dataset>_confuse.json` containing the top-5 confusion-aware
 negative descriptions per class.
 
-## Reproduction (16-shot, ViT-B/16)
-
-| Dataset | Paper (Table 1) | This repo |
-|---|---:|---:|
-| BUSI       | 82.60 | _to be filled by reproduction run_ |
-| Knee X-ray | 45.74 | _to be filled_ |
-| Kvasir     | 80.22 | _to be filled_ |
-
-(Hyperparameters: `--shot 16 --epoch 400 --seed 1`, all other defaults as above.)
-
 ## Citation
 
 ```bibtex
