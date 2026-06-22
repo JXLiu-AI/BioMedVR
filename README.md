@@ -1,11 +1,10 @@
 # BioMedVR: Confusion-Aware Mixture-of-Prompt Experts for Biomedical Visual Reprogramming
 
-**ECCV 2026** · Official code release
+Official code release.
 
 > Jiaxiang Liu, Tianxiang Hu, Juwei Guan, Yujie Wu, Yusong Wang, Yao Mu, Zuozhu Liu, Mingkun Xu
 
 [![Paper (arXiv)](https://img.shields.io/badge/arXiv-coming%20soon-red)]()
-[![ECCV 2026](https://img.shields.io/badge/ECCV-2026-blue)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
